@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Publications"
-    url: Fvandonkelaar.github.io/publications/
+    url: /publications/
 
  # - title: "Talks"
  #  url: Fvandonkelaar.github.io/talks/    
@@ -12,11 +12,11 @@ main:
  # - title: "Portfolio"
  #   url: Fvandonkelaar.github.io/portfolio/
         
-  - title: "Blog Posts"
-    url: Fvandonkelaar.github.io/year-archive/
+ # - title: "Blog Posts"
+ #   url: Fvandonkelaar.github.io/year-archive/
     
   - title: "CV"
-    url: Fvandonkelaar.github.io/cv/
+    url: /cv/
     
  # - title: "Guide"
  #   url: Fvandonkelaar.github.io/markdown/
