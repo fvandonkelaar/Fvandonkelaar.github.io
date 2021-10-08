@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BSc University College twente, University of Twente, 2016
+* MSc Astrophysics, Lund University, 2019
+* PhD in Computational Astrophysics, University of Zürich, 2025 (expected)
 
 
 
