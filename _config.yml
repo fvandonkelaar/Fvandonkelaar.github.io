@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Floor van Donkelaar"
   avatar           : "prof.jpeg"
-  bio              : "PhD student in Computational astrophysics"
+  bio              : "PhD student in Computational astrophysics at the University of Zürich"
   location         : "Zürich, Switzerland"
-  employer         : "University of Zürich"
+  employer         : 
   pubmed           : 
   googlescholar    : 
   email            : "floor.vandonkelaar@uzh.com"
