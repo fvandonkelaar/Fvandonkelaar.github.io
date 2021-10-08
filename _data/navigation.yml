@@ -3,14 +3,14 @@ main:
   - title: "Publications"
     url: Fvandonkelaar.github.io/publications/
 
-  - title: "Talks"
-    url: Fvandonkelaar.github.io/talks/    
+ # - title: "Talks"
+ #  url: Fvandonkelaar.github.io/talks/    
 
-  - title: "Teaching"
-    url: Fvandonkelaar.github.io/teaching/    
+ # - title: "Teaching"
+ #   url: Fvandonkelaar.github.io/teaching/    
     
-  - title: "Portfolio"
-    url: Fvandonkelaar.github.io/portfolio/
+ # - title: "Portfolio"
+ #   url: Fvandonkelaar.github.io/portfolio/
         
   - title: "Blog Posts"
     url: Fvandonkelaar.github.io/year-archive/
@@ -18,5 +18,5 @@ main:
   - title: "CV"
     url: Fvandonkelaar.github.io/cv/
     
-  - title: "Guide"
-    url: Fvandonkelaar.github.io/markdown/
+ # - title: "Guide"
+ #   url: Fvandonkelaar.github.io/markdown/
