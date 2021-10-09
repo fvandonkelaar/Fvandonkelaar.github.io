@@ -6,9 +6,10 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+{% include base_path %}
 
 Full CV in PDF format are available at http://Fvandonkelaar.github.io/files/CV_FvD.pdf
-{% include base_path %}
+
 
 Education
 ======
