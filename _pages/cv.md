@@ -8,7 +8,7 @@ redirect_from:
 ---
 {% include base_path %}
 
-Full CV in PDF format are available at http://Fvandonkelaar.github.io/files/CV_FvD.pdf
+Full CV in PDF format are available at <http://Fvandonkelaar.github.io/files/CV_FvD.pdf>
 
 
 Education
