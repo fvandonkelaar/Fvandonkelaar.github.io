@@ -12,8 +12,8 @@ main:
  # - title: "Portfolio"
  #   url: Fvandonkelaar.github.io/portfolio/
         
- - title: "Blog Posts"
-   url: /year-archive/
+ #- title: "Blog Posts"
+ #  url: /year-archive/
     
   - title: "CV"
     url: /cv/
