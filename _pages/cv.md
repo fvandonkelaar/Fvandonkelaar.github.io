@@ -10,6 +10,10 @@ redirect_from:
 
 Full CV in PDF format is available at <http://Fvandonkelaar.github.io/files/CV_FvD.pdf>
 
+Publications
+======
+* From giant clumps to clouds - II. The emergence of thick disc kinematics from the conditions of star formation in high redshift gas rich galaxies, MNRAS (submitted), Oct 2021
+
 Conferences
 ======
 * Swiss SKA meeting, 1 December 2021
