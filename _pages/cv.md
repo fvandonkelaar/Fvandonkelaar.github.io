@@ -10,6 +10,10 @@ redirect_from:
 
 Full CV in PDF format is available at <http://Fvandonkelaar.github.io/files/CV_FvD.pdf>
 
+Conferences
+======
+* Swiss SKA meeting, 1 December 2021
+* Aspen Winter Conference, Illuminating Galaxy Formation with Ancient Globular Star Clusters and their Progenitors, 13 - 18 March 2022
 
 Education
 ======
