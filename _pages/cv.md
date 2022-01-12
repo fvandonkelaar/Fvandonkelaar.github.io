@@ -13,11 +13,11 @@ Full CV in PDF format is available at <http://Fvandonkelaar.github.io/files/CV_F
 ### Publications
 * From giant clumps to clouds - II. The emergence of thick disc kinematics from the conditions of star formation in high redshift gas rich galaxies, [MNRAS](https://ui.adsabs.harvard.edu/abs/2021arXiv211013165V/abstract) (submitted), Oct 2021
 
-## Conferences
+### Conferences
 * Swiss SKA meeting, 1 December 2021
 * Aspen Winter Conference, Illuminating Galaxy Formation with Ancient Globular Star Clusters and their Progenitors, 13 - 18 March 2022
 
-# Education
+### Education
 * BSc University College twente, University of Twente, 2016
 * MSc Astrophysics, Lund University, 2019
 * PhD in Computational Astrophysics, University of Zürich, 2025 (expected)
