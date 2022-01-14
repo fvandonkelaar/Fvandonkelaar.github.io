@@ -15,7 +15,7 @@ Full CV in PDF format is available at <http://Fvandonkelaar.github.io/files/CV_F
 
 ### Conferences
 * Swiss SKA meeting, 1 December 2021
-* Aspen Winter Conference, Illuminating Galaxy Formation with Ancient Globular Star Clusters and their Progenitors, 13 - 18 March 2022
+* Aspen Center for Physics Winter Conference, Illuminating Galaxy Formation with Ancient Globular Star Clusters and their Progenitors, 13 - 18 March 2022
 
 ### Education
 * BSc University College twente, University of Twente, 2016
