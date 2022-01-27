@@ -14,8 +14,8 @@ Full CV in PDF format is available at <http://Fvandonkelaar.github.io/files/CV_F
 * From giant clumps to clouds - II. The emergence of thick disc kinematics from the conditions of star formation in high redshift gas rich galaxies, [MNRAS](https://ui.adsabs.harvard.edu/abs/2021arXiv211013165V/abstract) (submitted), Oct 2021
 
 ### Conferences
-* Swiss SKA meeting, 1 December 2021
 * Aspen Center for Physics Winter Conference, Illuminating Galaxy Formation with Ancient Globular Star Clusters and their Progenitors, 13 - 18 March 2022
+* Swiss SKA meeting, 1 December 2021
 
 ### Education
 * BSc University College twente, University of Twente, 2016
