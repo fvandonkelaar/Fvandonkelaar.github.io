@@ -15,6 +15,7 @@ Full CV in PDF format is available at <http://Fvandonkelaar.github.io/files/CV_F
 
 ### Conferences
 * Aspen Center for Physics Winter Conference, Illuminating Galaxy Formation with Ancient Globular Star Clusters and their Progenitors, 13 - 18 March 2022
+* AI Super-Resolution Simulations: from Climate Science to Cosmology, 23-25 February 2022 
 * Swiss SKA meeting, 1 December 2021
 
 ### Education
