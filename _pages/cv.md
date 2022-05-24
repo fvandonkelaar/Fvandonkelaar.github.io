@@ -15,6 +15,7 @@ Full CV in PDF format is available at <http://Fvandonkelaar.github.io/files/CV_F
 
 ### Talks
 * On disc kinematics: The influence of the thin disc on star clusters, 18 March 2022
+* The Properties and Scaling Relations of GMCs in the LMC, 22 September 2019
 
 ### Conferences
 * Illuminating Galaxy Formation with Ancient Globular Star Clusters and their Progenitors, 13-18 March 2022
