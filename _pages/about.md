@@ -14,6 +14,6 @@ I'm a Dutch astrophysicist living in Zürich and working as a PhD student at the
 
 I moved to Switzerland after finishing my master's in astrophysics at Lund University in Sweden and my bachelor's in sociotechnical engineering (minor in modern physics) at the University of Twente in the Netherlands. 
 
-I spend my spare time as chair and PR representative of the [University College Twente Alumni Association](https://www.uct-alumni.nl/) (UCTAA) or playing rugby (fullback or winger). 
+I spend my spare time as chair and PR representative of the [University College Twente Alumni Association](https://www.uct-alumni.nl/) (UCTAA) or playing rugby as a flanker or lock. 
 
 
