@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Updated: 13/10/2021
+Updated: 24/05/2022
 
 I'm a Dutch astrophysicist living in Zürich and working as a PhD student at the University of Zürich together with prof. dr. Lucio Mayer. My main research area as a computational astrophysicist is galaxy evolution and formation. 
 
