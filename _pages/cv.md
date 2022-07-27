@@ -18,6 +18,7 @@ Full CV in PDF format is available at <http://Fvandonkelaar.github.io/files/CV_F
 * The Properties and Scaling Relations of GMCs in the LMC, 22 September 2019
 
 ### Conferences
+* Swiss SKA Days, 3-4 October 2022
 * Illuminating Galaxy Formation with Ancient Globular Star Clusters and their Progenitors, 13-18 March 2022
 * Swiss SKA meeting, 1 December 2021
 
