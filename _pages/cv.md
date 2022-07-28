@@ -19,6 +19,7 @@ Full CV in PDF format is available at <http://Fvandonkelaar.github.io/files/CV_F
 
 ### Conferences
 * Swiss SKA Days, 3-4 October 2022
+* Star Formation Within Evolving Galaxies: The Revolution of Upcoming Space Missions, 29 Augustus - 2 September 2022
 * Illuminating Galaxy Formation with Ancient Globular Star Clusters and their Progenitors, 13-18 March 2022
 * Swiss SKA meeting, 1 December 2021
 
