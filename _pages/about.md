@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Updated: 03/08/2022
+Updated: 19/08/2022
 
 I'm a Dutch astrophysicist living in Zürich and working as a PhD student at the University of Zürich together with prof. dr. Lucio Mayer. I work on galaxy formation evolution, stellar feedback, and star clusters, but I especially love the thin disc of the Milky Way and the secrets it still has for us. Currently, I'm researching the possibility of the nuclear star cluster being formed from stars in the thin disc & the formation of globular cluster at redshift 4.4 with the GigaEris cosmological, N-body hydrodynamical “zoom-in” simulation. 
 
