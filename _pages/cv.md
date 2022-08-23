@@ -25,8 +25,8 @@ Full CV in PDF format is available at <http://Fvandonkelaar.github.io/files/CV_F
 
 ### Education
 * PhD in Computational Astrophysics, University of Zürich, 2025 (expected)
-* MSc Astrophysics, Lund University, 2019
-* BSc University College Twente, University of Twente, 2016
+* MSc Astrophysics, Lund University, 2021
+* BSc University College Twente, University of Twente, 2019
 
 
 
