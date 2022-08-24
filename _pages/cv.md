@@ -17,7 +17,7 @@ Full CV in PDF format is available at <http://Fvandonkelaar.github.io/files/CV_F
 * The proto-globular cluster properties and the imposter amongst us, 9 Sep 2022
 * High-z disk formation and Globular Cluster analogs in the ultra-high resolution GigaERIS simulation, 31 Aug 2022 
 * On disc kinematics: The influence of the thin disc on star clusters, 18 Mar 2022
-* The Properties and Scaling Relations of GMCs in the LMC, 22 Sep 2019
+* The Properties and Scaling Relations of GMCs in the LMC, 22 Sep 2019 
 
 ### Conferences & Meetings
 * Swiss SKA Days, 3-4 Oct 2022
