@@ -14,7 +14,7 @@ Full CV in PDF format is available at <http://Fvandonkelaar.github.io/files/CV_F
 * From giant clumps to clouds - II. The emergence of thick disc kinematics from the conditions of star formation in high redshift gas rich galaxies, [MNRAS](https://ui.adsabs.harvard.edu/abs/2021arXiv211013165V/abstract), March 2022
 
 ### Talks
-* High-z disk formation and Globular Cluster analogs in the ultra-high resolution GigaERIS simulation, 31 Augustus 2022 (togehter with L. Mayer)
+* High-z disk formation and Globular Cluster analogs in the ultra-high resolution GigaERIS simulation, 31 Augustus 2022 
 * On disc kinematics: The influence of the thin disc on star clusters, 18 March 2022
 * The Properties and Scaling Relations of GMCs in the LMC, 22 September 2019
 
