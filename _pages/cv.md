@@ -18,13 +18,13 @@ Full CV in PDF format is available at <http://Fvandonkelaar.github.io/files/CV_F
 * The proto-globular cluster properties and the imposter amongst us, 8 Sep 2022
 * High-z disk formation and Globular Cluster analogs in the ultra-high resolution GigaERIS simulation, 31 Aug 2022 
 * On disc kinematics: The influence of the thin disc on star clusters, 18 Mar 2022
-* The Properties and Scaling Relations of GMCs in the LMC, 22 Sep 2019 
+* The Properties and Scaling Relations of GMCs in the LMC, 22 Sep 2020 
 
 ### Conferences & Meetings
 * Swiss SKA Days, 3-4 Oct 2022
 * Star Formation Within Evolving Galaxies: The Revolution of Upcoming Space Missions, 29 Aug-2 Sep 2022
 * Illuminating Galaxy Formation with Ancient Globular Star Clusters and their Progenitors, 13-18 Mar 2022
-* Swiss SKA meeting, 1 Dec 2021
+* Swiss SKA Meeting, 1 Dec 2021
 
 ### Education
 * PhD in Computational Astrophysics, University of Zürich, 2025 (expected)
