@@ -12,6 +12,7 @@ Full CV in PDF format is available at <http://Fvandonkelaar.github.io/files/CV_F
 
 ### Publications
 * From giant clumps to clouds - II. The emergence of thick disc kinematics from the conditions of star formation in high redshift gas rich galaxies, [MNRAS](https://ui.adsabs.harvard.edu/abs/2021arXiv211013165V/abstract), March 2022
+* Stellar cluster formation in a Milky Way-sized galaxy at z>4 - I. The proto-globular cluster population and the imposter amongst us, [Submitted to MNRAS](https://ui.adsabs.harvard.edu/abs/2022arXiv221004915V/abstract), October 2022
 
 ### Talks
 * Proto-Globular Clusters Properties at the dawn of galaxy formation, 3 Oct 2022
