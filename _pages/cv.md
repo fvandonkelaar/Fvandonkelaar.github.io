@@ -16,6 +16,9 @@ Full CV in PDF format is available at <http://Fvandonkelaar.github.io/files/CV_F
 
 
 ### Talks
+* The GigaEris Simulation:What makes a high-redshift galaxy different?, 31 March 2023
+* The Formation of the Nuclear Star Cluster, 28 Mar 2023
+* Stellar Systems at z > 4: The Formation of the Nuclear Star Cluster, 13 Jan 2023
 * Proto-Globular Clusters Properties at the dawn of galaxy formation, 3 Oct 2022
 * The proto-globular cluster properties and the imposter amongst us, 8 Sep 2022
 * High-z disk formation and Globular Cluster analogs in the ultra-high resolution GigaERIS simulation, 31 Aug 2022 
