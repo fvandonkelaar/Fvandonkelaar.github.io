@@ -45,7 +45,7 @@ Full CV in PDF format is available at <http://Fvandonkelaar.github.io/files/CV_F
     <td></td>
   </tr>
   <tr>
-    <td>Stellar Systems at z&gt;4: The proto-Globular Cluster properties and the imposter amongst us</td>
+    <td>Stellar Systems at z &gt; 4: The proto-Globular Cluster properties and the imposter amongst us</td>
     <td>16 Nov 2022</td>
     <td>Lund University</td>
     <td>x</td>
