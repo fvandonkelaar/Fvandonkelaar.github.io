@@ -15,23 +15,116 @@ Full CV in PDF format is available at <http://Fvandonkelaar.github.io/files/CV_F
 * Stellar cluster formation in a Milky Way-sized galaxy at z>4 - I. The proto-globular cluster population and the imposter amongst us, [MNRAS](https://ui.adsabs.harvard.edu/abs/2022arXiv221004915V/abstract), October 2022
 * From giant clumps to clouds - II. The emergence of thick disc kinematics from the conditions of star formation in high redshift gas rich galaxies, [MNRAS](https://ui.adsabs.harvard.edu/abs/2021arXiv211013165V/abstract), March 2022
 
-
 ### Talks
-* The GigaEris Simulation:What makes a high-redshift galaxy different?, 31 March 2023
-* The Formation of the Nuclear Star Cluster, 28 Mar 2023
-* Stellar Systems at z > 4: The Formation of the Nuclear Star Cluster, 13 Jan 2023
-* Proto-Globular Clusters Properties at the dawn of galaxy formation, 3 Oct 2022
-* The proto-globular cluster properties and the imposter amongst us, 8 Sep 2022
-* High-z disk formation and Globular Cluster analogs in the ultra-high resolution GigaERIS simulation, 31 Aug 2022 
-* On disc kinematics: The influence of the thin disc on star clusters, 18 Mar 2022
-* The Properties and Scaling Relations of GMCs in the LMC, 22 Sep 2020 
+<div class="tg-wrap"><table>
+<thead>
+  <tr>
+    <th>Title</th>
+    <th>Date</th>
+    <th>Location</th>
+    <th>Invited?</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>The GigaEris Simulation: What makes a high-redshift galaxy different?</td>
+    <td>31 Mar 2023</td>
+    <td>University of Chicago</td>
+    <td>x</td>
+  </tr>
+  <tr>
+    <td>The Formation of the Nuclear Star Cluster</td>
+    <td>28 Mar 2023</td>
+    <td>University of Chicago</td>
+    <td>x</td>
+  </tr>
+  <tr>
+    <td>Stellar Systems at z &gt; 4: The Formation of the Nuclear Star Cluster</td>
+    <td>13 Jan 2023</td>
+    <td>SKACH meeting, Basel</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Stellar Systems at z&gt;4: The proto-Globular Cluster properties and the imposter amongst us</td>
+    <td>16 Nov 2022</td>
+    <td>Lund University</td>
+    <td>x</td>
+  </tr>
+  <tr>
+    <td>Proto-Globular Clusters Properties at the dawn of&nbsp;&nbsp;galaxy formation</td>
+    <td>3 Oct 2022</td>
+    <td>Swiss SKA Days, Lugano</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>The proto-globular cluster properties and the imposter amongst us</td>
+    <td>8 Sep 2022</td>
+    <td>PhD Retreat, Zurich</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>High-z disk formation and Globular Cluster analogs in the ultra-high resolution GigaERIS simulation</td>
+    <td>31 Aug 2022</td>
+    <td>ISSI, Bern</td>
+    <td>x</td>
+  </tr>
+  <tr>
+    <td>On disc kinematics: The influence of the thin disc on star clusters</td>
+    <td>18 Mar 2022</td>
+    <td>Aspen Center for Physics</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>The Properties and Scaling Relations of GMCs in the LMC</td>
+    <td>22 Sep 2020</td>
+    <td>Oxford University</td>
+    <td>x</td>
+  </tr>
+</tbody>
+</table></div>
 
 ### Conferences & Meetings
-* Galaxy Formation and Evolution in the Data Science Era, 21-24 Mar 2023
-* Swiss SKA Days, 3-4 Oct 2022
-* Star Formation Within Evolving Galaxies: The Revolution of Upcoming Space Missions, 29 Aug-2 Sep 2022
-* Illuminating Galaxy Formation with Ancient Globular Star Clusters and their Progenitors, 13-18 Mar 2022
-* Swiss SKA Meeting, 1 Dec 2021
+<div class="tg-wrap"><table>
+<thead>
+  <tr>
+    <th>Title</th>
+    <th>Location</th>
+    <th>Date</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Galaxy Formation and Evolution in the Data Science Era</td>
+    <td>KITP, Santa Barbara</td>
+    <td>21 - 24 Mar 2023</td>
+  </tr>
+  <tr>
+    <td>SKACH meeting</td>
+    <td>Basel</td>
+    <td>12 - 13 Jan 2023</td>
+  </tr>
+  <tr>
+    <td>Swiss SKA Days</td>
+    <td>Lugano</td>
+    <td>3 - 4 Oct 2022</td>
+  </tr>
+  <tr>
+    <td>Star Formation Within Evolving Galaxies: The Revolution of Upcoming Space Missions</td>
+    <td>ISSI, Bern</td>
+    <td>29 Aug - 2 Sep 2022</td>
+  </tr>
+  <tr>
+    <td>Illuminating Galaxy Formation with Ancient Globular Star Clusters and their Progenitors</td>
+    <td>Aspen Centre for Physics</td>
+    <td>13 - 18 Mar 2022</td>
+  </tr>
+  <tr>
+    <td>SKACH meeting</td>
+    <td>Brugg</td>
+    <td>1 Dec 2021</td>
+  </tr>
+</tbody>
+</table></div>
 
 ### Education
 * PhD in Computational Astrophysics, University of Zürich, 2025 (expected)
