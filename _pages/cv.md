@@ -93,6 +93,11 @@ Full CV in PDF format is available at <http://Fvandonkelaar.github.io/files/CV_F
   </tr>
 </thead>
 <tbody>
+    <tr>
+    <td>SKACH spring Meeting</td>
+    <td>Geneva</td>
+    <td>1 - 2 Jun 2023</td>
+  </tr>
   <tr>
     <td>Galaxy Formation and Evolution in the Data Science Era</td>
     <td>KITP, Santa Barbara</td>
