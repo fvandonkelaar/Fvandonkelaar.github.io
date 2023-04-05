@@ -22,7 +22,7 @@ Full CV in PDF format is available at <http://Fvandonkelaar.github.io/files/CV_F
     <th>Title</th>
     <th>Date</th>
     <th>Location</th>
-    <th>Invited?</th>
+    <th>Invited</th>
   </tr>
 </thead>
 <tbody>
