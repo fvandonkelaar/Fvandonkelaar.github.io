@@ -11,9 +11,33 @@ redirect_from:
 Full CV in PDF format is available at <http://Fvandonkelaar.github.io/files/CV_FvD.pdf>
 
 ### Publications
-* Stellar cluster formation in a Milky Way-sized galaxy at z>4 -- II. A hybrid formation scenario for the nuclear star cluster and its connection to the nuclear stellar ring [Submitted to MNRAS](https://ui.adsabs.harvard.edu/abs/2023arXiv230312828V/abstract), March 2023
-* Stellar cluster formation in a Milky Way-sized galaxy at z>4 - I. The proto-globular cluster population and the imposter amongst us, [MNRAS](https://ui.adsabs.harvard.edu/abs/2022arXiv221004915V/abstract), October 2022
-* From giant clumps to clouds - II. The emergence of thick disc kinematics from the conditions of star formation in high redshift gas rich galaxies, [MNRAS](https://ui.adsabs.harvard.edu/abs/2021arXiv211013165V/abstract), March 2022
+#### First Author 
+<div class="tg-wrap"><table>
+<thead>
+  <tr>
+    <th>Title</th>
+    <th>Journal</th>
+    <th>Year</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Stellar cluster formation in a Milky Way-sized galaxy at z&gt;4 – II. A hybrid formation scenario for the nuclear star cluster and its connection to the nuclear stellar ring</td>
+    <td><a href="https://ui.adsabs.harvard.edu/abs/2023arXiv230312828V/abstract">Submitted to MNRAS</a></td>
+    <td>2023</td>
+  </tr>
+  <tr>
+    <td>Stellar cluster formation in a Milky Way-sized galaxy at z>4 - I. The proto-globular cluster population and the imposter amongst us</td>
+    <td><a href="https://ui.adsabs.harvard.edu/abs/2023arXiv230312828V/abstract">MNRAS</a></td>
+    <td>2023</td>
+  </tr>
+    <tr>
+    <td>From giant clumps to clouds - II. The emergence of thick disc kinematics from the conditions of star formation in high redshift gas rich galaxies</td>
+    <td><a href="https://ui.adsabs.harvard.edu/abs/2021arXiv211013165V/abstract">MNRAS</a></td>
+    <td>2022</td>
+  </tr>
+</tbody>
+</table></div>
 
 ### Talks
 <div class="tg-wrap"><table>
