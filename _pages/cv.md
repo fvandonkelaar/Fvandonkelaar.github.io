@@ -29,7 +29,7 @@ Full CV in PDF format is available at <http://Fvandonkelaar.github.io/files/CV_F
   </tr>
   <tr>
     <td>Stellar cluster formation in a Milky Way-sized galaxy at z>4 - I. The proto-globular cluster population and the imposter amongst us</td>
-    <td><a href="https://ui.adsabs.harvard.edu/abs/2023arXiv230312828V/abstract">MNRAS</a></td>
+    <td><a href="https://ui.adsabs.harvard.edu/abs/2023MNRAS.tmp..909V/abstract">MNRAS</a></td>
     <td>2023</td>
     <td>x</td>
   </tr>
