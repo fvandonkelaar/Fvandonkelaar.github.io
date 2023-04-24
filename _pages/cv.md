@@ -133,6 +133,11 @@ Full CV in PDF format is available at <http://Fvandonkelaar.github.io/files/CV_F
 </thead>
 <tbody>
     <tr>
+    <td>Star Formation Within Evolving Galaxies: The Revolution of Upcoming Space Missions</td>
+    <td>ISSI, Bern</td>
+    <td>28 Aug - 1 Sep 2023</td>
+  </tr>
+    <tr>
     <td>SKACH spring Meeting</td>
     <td>Geneva</td>
     <td>1 - 2 Jun 2023</td>
