@@ -56,8 +56,8 @@ Full CV in PDF format is available at <http://Fvandonkelaar.github.io/files/CV_F
   <tr>
     <td>The first results of the Phoebos Simulation</td>
     <td>1 Jun 2023</td>
-    <td>Lund University</td>
-    <td>x</td>
+    <td>SKACH meeting, Geneva</td>
+    <td></td>
   </tr>
   <tr>
     <td>The hybrid formation scenario for the nuclear star cluster</td>
@@ -68,8 +68,8 @@ Full CV in PDF format is available at <http://Fvandonkelaar.github.io/files/CV_F
   <tr>
     <td>The GigaEris Simulation: What makes a high-redshift galaxy different?</td>
     <td>31 Mar 2023</td>
-    <td>SKACH meeting, Geneva</td>
-    <td></td>
+    <td>University of Chicago</td>
+    <td>x</td>
   </tr>
   <tr>
     <td>The Formation of the Nuclear Star Cluster</td>
