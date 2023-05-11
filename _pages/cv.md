@@ -54,6 +54,12 @@ Full CV in PDF format is available at <http://Fvandonkelaar.github.io/files/CV_F
 </thead>
 <tbody>
   <tr>
+    <td>Stellar Systems at z &gt; 4: The hybrid formation scenario for the nuclear star cluster</td>
+    <td>8 May 2023</td>
+    <td>Lund University</td>
+    <td>x</td>
+  </tr>
+  <tr>
     <td>The GigaEris Simulation: What makes a high-redshift galaxy different?</td>
     <td>31 Mar 2023</td>
     <td>University of Chicago</td>
