@@ -10,7 +10,7 @@ main:
  #   url: Fvandonkelaar.github.io/teaching/    
     
   - title: "Research"
-    url: Fvandonkelaar.github.io/research/
+    url: /research/
         
  #- title: "Blog Posts"
  #  url: /year-archive/
