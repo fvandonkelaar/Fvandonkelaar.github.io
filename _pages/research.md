@@ -1,1 +1,181 @@
+---
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
+---
+{% include base_path %}
 
+Full CV in PDF format is available at <http://Fvandonkelaar.github.io/files/CV_FvD.pdf>
+
+### Publications
+<div class="tg-wrap"><table>
+<thead>
+  <tr>
+    <th>Title</th>
+    <th>Journal</th>
+    <th>Year</th>
+    <th>First Author</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Stellar cluster formation in a Milky Way-sized galaxy at z&gt;4 – II. A hybrid formation scenario for the nuclear star cluster and its connection to the nuclear stellar ring</td>
+    <td><a href="https://ui.adsabs.harvard.edu/abs/2023arXiv230312828V/abstract">Submitted to MNRAS</a></td>
+    <td>2023</td>
+    <td>x</td>
+  </tr>
+  <tr>
+    <td>Stellar cluster formation in a Milky Way-sized galaxy at z>4 - I. The proto-globular cluster population and the imposter amongst us</td>
+    <td><a href="https://ui.adsabs.harvard.edu/abs/2023MNRAS.tmp..909V/abstract">MNRAS</a></td>
+    <td>2023</td>
+    <td>x</td>
+  </tr>
+    <tr>
+    <td>From giant clumps to clouds - II. The emergence of thick disc kinematics from the conditions of star formation in high redshift gas rich galaxies</td>
+    <td><a href="https://ui.adsabs.harvard.edu/abs/2021arXiv211013165V/abstract">MNRAS</a></td>
+    <td>2022</td>
+    <td>x</td>
+  </tr>
+</tbody>
+</table></div>
+
+### Talks
+<div class="tg-wrap"><table>
+<thead>
+  <tr>
+    <th>Title</th>
+    <th>Date</th>
+    <th>Location</th>
+    <th>Invited</th>
+  </tr>
+</thead>
+<tbody>
+    <tr>
+    <td>The First Results of the Phoebos Simulation</td>
+    <td>2 Jun 2023</td>
+    <td>SKACH spring meeting</td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td><a href="https://drive.google.com/file/d/1m_QRLDLG8HBoYI3BrpEz-VHUKfddSjTw/view?usp=sharing">Stellar Systems at z &gt; 4: The hybrid formation scenario for the nuclear star cluster</a></td>
+    <td>8 May 2023</td>
+    <td>Lund University</td>
+    <td>x</td>
+  </tr>
+  <tr>
+    <td>The GigaEris Simulation: What makes a high-redshift galaxy different?</td>
+    <td>31 Mar 2023</td>
+    <td>University of Chicago</td>
+    <td>x</td>
+  </tr>
+  <tr>
+    <td>The Formation of the Nuclear Star Cluster</td>
+    <td>28 Mar 2023</td>
+    <td>University of Chicago</td>
+    <td>x</td>
+  </tr>
+  <tr>
+    <td>Stellar Systems at z &gt; 4: The Formation of the Nuclear Star Cluster</td>
+    <td>13 Jan 2023</td>
+    <td>SKACH meeting, Basel</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Stellar Systems at z &gt; 4: The proto-Globular Cluster properties and the imposter amongst us</td>
+    <td>16 Nov 2022</td>
+    <td>Lund University</td>
+    <td>x</td>
+  </tr>
+  <tr>
+    <td>Proto-Globular Clusters Properties at the dawn of&nbsp;&nbsp;galaxy formation</td>
+    <td>3 Oct 2022</td>
+    <td>Swiss SKA Days, Lugano</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>The proto-globular cluster properties and the imposter amongst us</td>
+    <td>8 Sep 2022</td>
+    <td>PhD Retreat, Zurich</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>High-z disk formation and Globular Cluster analogs in the ultra-high resolution GigaERIS simulation</td>
+    <td>31 Aug 2022</td>
+    <td>ISSI, Bern</td>
+    <td>x</td>
+  </tr>
+  <tr>
+    <td>On disc kinematics: The influence of the thin disc on star clusters</td>
+    <td>18 Mar 2022</td>
+    <td>Aspen Center for Physics</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>The Properties and Scaling Relations of GMCs in the LMC</td>
+    <td>22 Sep 2020</td>
+    <td>Oxford University</td>
+    <td>x</td>
+  </tr>
+</tbody>
+</table></div>
+
+### Conferences & Meetings
+<div class="tg-wrap"><table>
+<thead>
+  <tr>
+    <th>Title</th>
+    <th>Location</th>
+    <th>Date</th>
+  </tr>
+</thead>
+<tbody>
+    <tr>
+    <td>Star Formation Within Evolving Galaxies: The Revolution of Upcoming Space Missions</td>
+    <td>ISSI, Bern</td>
+    <td>28 Aug - 1 Sep 2023</td>
+  </tr>
+    <tr>
+    <td>SKACH spring Meeting</td>
+    <td>Geneva</td>
+    <td>1 - 2 Jun 2023</td>
+  </tr>
+  <tr>
+    <td>Galaxy Formation and Evolution in the Data Science Era</td>
+    <td>KITP, Santa Barbara</td>
+    <td>21 - 24 Mar 2023</td>
+  </tr>
+  <tr>
+    <td>SKACH meeting</td>
+    <td>Basel</td>
+    <td>12 - 13 Jan 2023</td>
+  </tr>
+  <tr>
+    <td>Swiss SKA Days</td>
+    <td>Lugano</td>
+    <td>3 - 4 Oct 2022</td>
+  </tr>
+  <tr>
+    <td>Star Formation Within Evolving Galaxies: The Revolution of Upcoming Space Missions</td>
+    <td>ISSI, Bern</td>
+    <td>29 Aug - 2 Sep 2022</td>
+  </tr>
+  <tr>
+    <td>Illuminating Galaxy Formation with Ancient Globular Star Clusters and their Progenitors</td>
+    <td>Aspen Centre for Physics</td>
+    <td>13 - 18 Mar 2022</td>
+  </tr>
+  <tr>
+    <td>SKACH meeting</td>
+    <td>Brugg</td>
+    <td>1 Dec 2021</td>
+  </tr>
+</tbody>
+</table></div>
+
+### Education
+* PhD in Computational Astrophysics, University of Zürich, 2025 (expected)
+* MSc Astrophysics, Lund University, 2021
+* BSc University College Twente, University of Twente, 2019
