@@ -137,6 +137,11 @@ Full CV in PDF format is available at <http://Fvandonkelaar.github.io/files/CV_F
     <td>ISSI, Bern</td>
     <td>28 Aug - 1 Sep 2023</td>
   </tr>
+  <tr>
+    <td>"SKA1-MID observing capability at high frequencies" Meeting</td>
+    <td>ISSI, Bern</td>
+    <td>22 Jun 2023</td>
+  </tr>
     <tr>
     <td>SKACH spring Meeting</td>
     <td>Geneva</td>
