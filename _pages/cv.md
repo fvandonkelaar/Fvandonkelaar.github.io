@@ -132,6 +132,11 @@ Full CV in PDF format is available at <http://Fvandonkelaar.github.io/files/CV_F
   </tr>
 </thead>
 <tbody>
+   <tr>
+    <td>Swiss SKA Days 2023</td>
+    <td>Zurich</td>
+    <td>6 - 8 Sep 2023</td>
+  </tr>
     <tr>
     <td>Star Formation Within Evolving Galaxies: The Revolution of Upcoming Space Missions</td>
     <td>ISSI, Bern</td>
@@ -158,7 +163,7 @@ Full CV in PDF format is available at <http://Fvandonkelaar.github.io/files/CV_F
     <td>12 - 13 Jan 2023</td>
   </tr>
   <tr>
-    <td>Swiss SKA Days</td>
+    <td>Swiss SKA Days 2022</td>
     <td>Lugano</td>
     <td>3 - 4 Oct 2022</td>
   </tr>
