@@ -54,16 +54,22 @@ Full CV in PDF format is available at <http://Fvandonkelaar.github.io/files/CV_F
 </thead>
 <tbody>
   <tr>
-    <td>The First Results of the Phoebos Simulation</td>
-    <td>2 Jun 2023</td>
-    <td>SKACH spring meeting</td>
-    <td> </td>
+    <td>The Phoebos Simulation: Its future for SKA</td>
+    <td>8 Sep 2023</td>
+    <td>Swiss SKA days, zurich</td>
+    <td></td>
   </tr>
-    <tr>
+  <tr>
     <td>The Milky Way’s nuclear star cluster</td>
     <td>30 Aug 2023</td>
     <td>ISSI, Bern</td>
     <td>x</td>
+  </tr>
+    <tr>
+    <td>The First Results of the Phoebos Simulation</td>
+    <td>2 Jun 2023</td>
+    <td>SKACH spring meeting, Geneva</td>
+    <td> </td>
   </tr>
   <tr>
     <td><a href="https://drive.google.com/file/d/1m_QRLDLG8HBoYI3BrpEz-VHUKfddSjTw/view?usp=sharing">Stellar Systems at z &gt; 4: The hybrid formation scenario for the nuclear star cluster</a></td>
