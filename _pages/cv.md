@@ -62,7 +62,7 @@ Full CV in PDF format is available at <http://Fvandonkelaar.github.io/files/CV_F
   <tr>
     <td>The Milky Way’s nuclear star cluster</td>
     <td>30 Aug 2023</td>
-    <td>ISSI, Bern</td>
+    <td><a href="https://teams.issibern.ch/starformationgalaxies/">ISSI, Bern</a></td>
     <td>x</td>
   </tr>
     <tr>
@@ -116,7 +116,7 @@ Full CV in PDF format is available at <http://Fvandonkelaar.github.io/files/CV_F
   <tr>
     <td>High-z disk formation and Globular Cluster analogs in the ultra-high resolution GigaERIS simulation</td>
     <td>31 Aug 2022</td>
-    <td>ISSI, Bern</td>
+    <td><a href="https://teams.issibern.ch/starformationgalaxies/">ISSI, Bern</a></td>
     <td>x</td>
   </tr>
   <tr>
