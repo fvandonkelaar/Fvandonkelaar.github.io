@@ -15,3 +15,5 @@ Hej, everyone! I'm Floor van Donkelaar, a computational astrophysicist currently
 My academic journey led me to Switzerland following the completion of my master's degree in astrophysics at Lund University in Sweden and my bachelor’s in sociotechnical engineering (minor in modern physics) at the University of Twente in the Netherlands. 
 
 During my spare time, I have a strong passion for public relations and social media. I'm genuinely intrigued by how these algorithms function. I've taken on a variety of roles, including some voluntary positions, in this area. Right now, I'm responsible for managing the public relations of the women's rugby team at Grasshopper Club Zürich Rugby, and I'm also an active player on the team.
+
+
