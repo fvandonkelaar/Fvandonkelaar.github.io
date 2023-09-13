@@ -47,6 +47,7 @@ redirect_from:
   </tr>
 </tbody>
 </table></div>
+
 ### Past Travel
 
 <div class="tg-wrap"><table>
