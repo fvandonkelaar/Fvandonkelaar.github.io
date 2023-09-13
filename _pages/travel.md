@@ -13,8 +13,42 @@ redirect_from:
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1ZKnNdpG1xGxX38uU4W9DiwEte-9hz8g&ehbc=2E312F&noprof=1" width="800" height="400"></iframe> 
 
 ### Future Travel
-xx
-
+<div class="tg-wrap"><table>
+<thead>
+  <tr>
+    <th>Year</th>
+    <th>Month</th>
+    <th>Purpose</th>
+    <th>Location</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>2024</td>
+    <td>Augustus</td>
+    <td>Vacation</td>
+    <td>Olympic Games, Paris (FR)</td>
+  </tr>
+  <tr>
+    <td>2023</td>
+    <td>December</td>
+    <td>Conference</td>
+    <td>Paris (FR)</td>
+  </tr>
+  <tr>
+    <td>2023</td>
+    <td>November</td>
+    <td>PhD School</td>
+    <td>Granada (ES)</td>
+  </tr>
+  <tr>
+    <td>2023</td>
+    <td>October</td>
+    <td>Vacation</td>
+    <td>Portugal</td>
+  </tr>
+</tbody>
+</table></div>
 ### Past Travel
 
 <div class="tg-wrap"><table>
