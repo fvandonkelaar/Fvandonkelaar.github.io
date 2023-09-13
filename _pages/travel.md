@@ -4,7 +4,7 @@ title: "When not in Zurich (or NL)"
 permalink: /travel/
 author_profile: true
 redirect_from:
-  - /resume
+  - /hobbies
 ---
 {% include base_path %
 
