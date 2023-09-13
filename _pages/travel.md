@@ -1,14 +1,12 @@
 ---
 layout: archive
-title: "Travel"
+title: "When not in Zurich (or NL)"
 permalink: /travel/
 author_profile: true
 redirect_from:
   - /resume
 ---
-{% include base_path %}
-
-[UNDER CONSTRUCTION]
+{% include base_path %
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1ZKnNdpG1xGxX38uU4W9DiwEte-9hz8g&ehbc=2E312F&noprof=1" width="800" height="400"></iframe> 
 
