@@ -7,7 +7,7 @@ author_profile: true
 {% include base_path %}
 
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1ZKnNdpG1xGxX38uU4W9DiwEte-9hz8g&ehbc=2E312F&noprof=1" width="950" height="500"></iframe> 
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1ZKnNdpG1xGxX38uU4W9DiwEte-9hz8g&ehbc=2E312F&noprof=1" width="980" height="500"></iframe> 
 
 
 ### Future Travel
