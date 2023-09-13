@@ -86,12 +86,6 @@ redirect_from:
   </tr>
   <tr>
     <td>2023</td>
-    <td>April</td>
-    <td>Vacation</td>
-    <td>Salisbury (UK)</td>
-  </tr>
-  <tr>
-    <td>2023</td>
     <td>March</td>
     <td>University Visit</td>
     <td>University of Chicago (USA)</td>
@@ -134,12 +128,6 @@ redirect_from:
   </tr>
   <tr>
     <td>2022</td>
-    <td>July</td>
-    <td>Vacation</td>
-    <td>London (UK)</td>
-  </tr>
-  <tr>
-    <td>2022</td>
     <td>March</td>
     <td>Conference</td>
     <td>Aspen Centre for Physics (USA)</td>
@@ -155,12 +143,6 @@ redirect_from:
     <td></td>
     <td>Place of Residence</td>
     <td>Lund (SE)</td>
-  </tr>
-  <tr>
-    <td>2020</td>
-    <td>November</td>
-    <td>Vacation</td>
-    <td>Kiruna (SE)</td>
   </tr>
 </tbody>
 </table></div>
