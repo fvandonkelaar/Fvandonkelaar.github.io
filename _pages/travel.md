@@ -29,39 +29,105 @@ xx
 <tbody>
   <tr>
     <td>2023</td>
+    <td>September</td>
+    <td>Meeting</td>
+    <td>ISSI, bern (CH)</td>
+  </tr>
+  <tr>
+    <td>2023</td>
+    <td>July</td>
+    <td>Vacation</td>
+    <td>Graz (AT)</td>
+  </tr>
+  <tr>
+    <td>2023</td>
+    <td>July</td>
+    <td>Vacation</td>
+    <td>Hoedspruit (SA)</td>
+  </tr>
+  <tr>
+    <td>2023</td>
+    <td>June</td>
+    <td>SKACH meeting</td>
+    <td>Observatoire de Genève, Versoix (CH)</td>
+  </tr>
+  <tr>
+    <td>2023</td>
+    <td>April</td>
+    <td>Vacation</td>
+    <td>Salisbury (UK)</td>
+  </tr>
+  <tr>
+    <td>2023</td>
+    <td>March</td>
+    <td>University Visit</td>
+    <td>University of Chicago (USA)</td>
+  </tr>
+  <tr>
+    <td>2023</td>
     <td>March</td>
     <td>Conference</td>
-    <td>KITP, Santa Barbara</td>
+    <td>KITP, Santa Barbara (USA)</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>2023</td>
+    <td>February</td>
+    <td>Vacation </td>
+    <td>Rome (ITA)</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>2023</td>
+    <td>January</td>
+    <td>SKACH meeting</td>
+    <td>Basel (CH)</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>2022</td>
+    <td>November</td>
+    <td>Vacation</td>
+    <td>Edinbrugh (UK)</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>2022</td>
+    <td>October</td>
+    <td>Conference</td>
+    <td>Lugano (CH)</td>
   </tr>
   <tr>
+    <td>2022</td>
+    <td>Augustus</td>
+    <td>Meeting</td>
+    <td>ISSI, bern (CH)</td>
+  </tr>
+  <tr>
+    <td>2022</td>
+    <td>July</td>
+    <td>Vacation</td>
+    <td>London (UK)</td>
+  </tr>
+  <tr>
+    <td>2022</td>
+    <td>March</td>
+    <td>Conference</td>
+    <td>Aspen Centre for Physics (USA)</td>
+  </tr>
+  <tr>
+    <td>2021</td>
+    <td>December</td>
+    <td>SKACH meeting</td>
+    <td>FHNW, Brugg (CH)</td>
+  </tr>
+  <tr>
+    <td>2019 - 2021</td>
     <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Place of Residence</td>
+    <td>Lund (SE)</td>
+  </tr>
+  <tr>
+    <td>2020</td>
+    <td>November</td>
+    <td>Vacation</td>
+    <td>Kiruna</td>
   </tr>
 </tbody>
 </table></div>
