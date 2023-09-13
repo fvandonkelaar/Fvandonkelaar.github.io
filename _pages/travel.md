@@ -127,7 +127,7 @@ xx
     <td>2020</td>
     <td>November</td>
     <td>Vacation</td>
-    <td>Kiruna</td>
+    <td>Kiruna (SE)</td>
   </tr>
 </tbody>
 </table></div>
