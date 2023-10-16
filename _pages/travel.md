@@ -22,12 +22,6 @@ author_profile: true
 </thead>
 <tbody>
   <tr>
-    <td>2024</td>
-    <td>Augustus</td>
-    <td>Vacation</td>
-    <td>Olympic Games, Paris (FR)</td>
-  </tr>
-  <tr>
     <td>2023</td>
     <td>December</td>
     <td>Conference</td>
@@ -38,12 +32,6 @@ author_profile: true
     <td>November</td>
     <td>PhD School</td>
     <td>Granada (ES)</td>
-  </tr>
-  <tr>
-    <td>2023</td>
-    <td>October</td>
-    <td>Vacation</td>
-    <td>Portugal</td>
   </tr>
 </tbody>
 </table></div>
@@ -68,18 +56,6 @@ author_profile: true
   </tr>
   <tr>
     <td>2023</td>
-    <td>July</td>
-    <td>Vacation</td>
-    <td>Graz (AT)</td>
-  </tr>
-  <tr>
-    <td>2023</td>
-    <td>July</td>
-    <td>Vacation</td>
-    <td>Hoedspruit (SA)</td>
-  </tr>
-  <tr>
-    <td>2023</td>
     <td>June</td>
     <td>SKACH meeting</td>
     <td>Observatoire de Genève, Versoix (CH)</td>
@@ -98,21 +74,9 @@ author_profile: true
   </tr>
   <tr>
     <td>2023</td>
-    <td>February</td>
-    <td>Vacation </td>
-    <td>Rome (ITA)</td>
-  </tr>
-  <tr>
-    <td>2023</td>
     <td>January</td>
     <td>SKACH meeting</td>
     <td>Basel (CH)</td>
-  </tr>
-  <tr>
-    <td>2022</td>
-    <td>November</td>
-    <td>Vacation</td>
-    <td>Edinbrugh (UK)</td>
   </tr>
   <tr>
     <td>2022</td>
