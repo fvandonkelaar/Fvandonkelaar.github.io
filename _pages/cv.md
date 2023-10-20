@@ -53,10 +53,16 @@ Full CV in PDF format is available at <http://Fvandonkelaar.github.io/files/CV_F
   </tr>
 </thead>
 <tbody>
+    <tr>
+    <td>The GigaEris Simulation: probing the evolution of disc galaxies evolution at Redshift > 4</td>
+    <td>Dec 2023</td>
+    <td>IAP colloquium, Paris</td>
+    <td></td>
+  </tr>
   <tr>
     <td>The Phoebos Simulation: Its future for SKA</td>
     <td>8 Sep 2023</td>
-    <td>Swiss SKA days, zurich</td>
+    <td>Swiss SKA days, Zurich</td>
     <td></td>
   </tr>
   <tr>
@@ -144,6 +150,11 @@ Full CV in PDF format is available at <http://Fvandonkelaar.github.io/files/CV_F
   </tr>
 </thead>
 <tbody>
+  <tr>
+    <td>2023 IAP colloquium: New simulations for new problems in galaxy formation</td>
+    <td>Paris</td>
+    <td>11- 15 Dec 2023</td>
+  </tr>
    <tr>
     <td>Swiss SKA Days 2023</td>
     <td>Zurich</td>
