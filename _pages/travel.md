@@ -22,6 +22,12 @@ author_profile: true
 </thead>
 <tbody>
   <tr>
+    <td>2024</td>
+    <td>January</td>
+    <td>Conference</td>
+    <td>Neuchâtel (CH)</td>
+  </tr>
+  <tr>
     <td>2023</td>
     <td>December</td>
     <td>Conference</td>
