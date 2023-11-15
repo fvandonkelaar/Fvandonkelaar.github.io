@@ -24,7 +24,7 @@ author_profile: true
   <tr>
     <td>2024</td>
     <td>January</td>
-    <td>Conference</td>
+    <td>SKACH meeting</td>
     <td>Neuchâtel (CH)</td>
   </tr>
   <tr>
