@@ -151,6 +151,11 @@ Full CV in PDF format is available at <http://Fvandonkelaar.github.io/files/CV_F
 </thead>
 <tbody>
   <tr>
+    <td>SKACH winter Meeting</td>
+    <td>Neuchâtel</td>
+    <td>22 - 23 Jan 2024</td>
+  </tr>
+  <tr>
     <td>2023 IAP colloquium: New simulations for new problems in galaxy formation</td>
     <td>Paris</td>
     <td>11- 15 Dec 2023</td>
