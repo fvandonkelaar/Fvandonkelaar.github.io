@@ -12,7 +12,8 @@ In the cosmic narrative,  we're on a mission to uncover the missing steps in the
 
 We bridge the gap in understanding galaxy formation through powerful simulations like GigaEris and Phoebos. 
 
-![bigplot_page-0001](https://github.com/fvandonkelaar/Fvandonkelaar.github.io/assets/57528256/be98c790-402b-4973-8df9-292348cdfb40)
+![bigplot_page-0001 (2)](https://github.com/fvandonkelaar/Fvandonkelaar.github.io/assets/57528256/2ef2d1b8-3320-48e8-8cb4-573b3a595c76)
+
 
 **GigaEris** is like a detailed microscope, zooming in on the formation of a Milky Way-sized galaxy halo. The simulation employs a modern implementation of smoothed-particle hydrodynamics, including metal-line cooling and metal and thermal diffusion. This simulation helps us focus on how galaxies assemble in their early stages, going down to redshift z = 4.4. Meanwhile, **Phoebos** acts as a broader view, covering a larger uniform volume of the cosmos. It's like a wide-angle lens, examining the cosmic web and structure formation in a significant volume from an earlier redshift of z = 249.  These simulations help us with gaining insight into the formation of galaxies, illustrating the transition from fundamental elements such as stars and gas to more complex baryonic structures, including the nuclear star cluster and the formation of discs.
 
