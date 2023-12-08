@@ -8,7 +8,7 @@ redirect_from:
 ---
 {% include base_path %}
 
-Full CV in PDF format is available at <[http://Fvandonkelaar.github.io/files/CV.pdf](https://github.com/fvandonkelaar/Fvandonkelaar.github.io/blob/4db5f2b66f6af54500253d40c2b51b674a324e38/files/CV.pdf)>
+Full CV in PDF format is available at <http://Fvandonkelaar.github.io/files/CV.pdf>
 
 ### Publications
 <div class="tg-wrap"><table>
