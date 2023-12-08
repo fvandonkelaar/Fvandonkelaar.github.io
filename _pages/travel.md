@@ -23,6 +23,12 @@ author_profile: true
 <tbody>
   <tr>
     <td>2024</td>
+    <td>February</td>
+    <td>Conference</td>
+    <td>VIENNA (AT)</td>
+  </tr>
+  <tr>
+    <td>2024</td>
     <td>January</td>
     <td>SKACH meeting</td>
     <td>Neuchâtel (CH)</td>
@@ -32,12 +38,6 @@ author_profile: true
     <td>December</td>
     <td>Conference</td>
     <td>Paris (FR)</td>
-  </tr>
-  <tr>
-    <td>2023</td>
-    <td>November</td>
-    <td>PhD School</td>
-    <td>Granada (ES)</td>
   </tr>
 </tbody>
 </table></div>
@@ -54,6 +54,12 @@ author_profile: true
   </tr>
 </thead>
 <tbody>
+  <tr>
+    <td>2023</td>
+    <td>November</td>
+    <td>PhD School</td>
+    <td>Granada (ES)</td>
+  </tr>
   <tr>
     <td>2023</td>
     <td>September</td>
