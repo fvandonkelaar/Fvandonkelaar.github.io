@@ -25,7 +25,7 @@ author_profile: true
     <td>2024</td>
     <td>February</td>
     <td>Conference</td>
-    <td>VIENNA (AT)</td>
+    <td>Vienna (AT)</td>
   </tr>
   <tr>
     <td>2024</td>
