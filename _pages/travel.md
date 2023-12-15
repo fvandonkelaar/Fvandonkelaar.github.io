@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "When not in Zurich (or NL)"
+title: "When not in Zurich"
 permalink: /travel/
 author_profile: true
 ---
