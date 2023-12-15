@@ -33,12 +33,6 @@ author_profile: true
     <td>SKACH meeting</td>
     <td>Neuchâtel (CH)</td>
   </tr>
-  <tr>
-    <td>2023</td>
-    <td>December</td>
-    <td>Conference</td>
-    <td>Paris (FR)</td>
-  </tr>
 </tbody>
 </table></div>
 
@@ -54,6 +48,12 @@ author_profile: true
   </tr>
 </thead>
 <tbody>
+  <tr>
+    <td>2023</td>
+    <td>December</td>
+    <td>Conference</td>
+    <td>Paris (FR)</td>
+  </tr>
   <tr>
     <td>2023</td>
     <td>November</td>
