@@ -151,6 +151,11 @@ Full CV in PDF format is available at <http://Fvandonkelaar.github.io/files/CV.p
 </thead>
 <tbody>
   <tr>
+    <td>Building Galaxies from Scratch: Advances and Challenges in Simulating Galaxy Evolution</td>
+    <td>Vienna</td>
+    <td>19 - 23 Feb 2024</td>
+  </tr>
+  <tr>
     <td>SKACH winter Meeting</td>
     <td>Neuchâtel</td>
     <td>22 - 23 Jan 2024</td>
