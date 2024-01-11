@@ -53,10 +53,16 @@ Full CV in PDF format is available at <http://Fvandonkelaar.github.io/files/CV.p
   </tr>
 </thead>
 <tbody>
+  <tr>
+    <td>The GigaEris Simulation: Probing the evolution of disc galaxies and their baryonic substructures</td>
+    <td>11 Dec 2023</td>
+    <td>IAP colloquium, Paris</td>
+    <td></td>
+  </tr>
     <tr>
     <td>The GigaEris Simulation: probing the evolution of disc galaxies evolution at Redshift > 4</td>
-    <td>Dec 2023</td>
-    <td>IAP colloquium, Paris</td>
+    <td>23 Feb 2024</td>
+    <td>Vienna</td>
     <td></td>
   </tr>
   <tr>
