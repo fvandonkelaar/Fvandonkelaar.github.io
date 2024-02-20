@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Updated: 11/09/2023
+Updated: 20/02/2024
 
 Hej, everyone! I'm Floor van Donkelaar, a computational astrophysicist currently residing in Zürich. I'm pursuing my PhD at the University of Zürich in the group of prof. dr. Lucio Mayer, where I'm deeply intrigued by the fascinating world of galaxy formation and evolution, with a particular focus on late-type galaxies like our own Milky Way. In my research, I strive to gain a clearer understanding of these processes by delving into various aspects of galactic structures. This includes investigating phenomena such as stellar clusters, intermediate mass black holes, stellar migration, disc formation, gas accretion, and much more. My ultimate goal is to unravel some of the secrets hidden within the vast realms of galaxies. Currently, I'm researching the fate of thin discs born at a redshift above 4 within cosmological simulations and putting the SFR of the Milky Way into context with the GigaEris cosmological, N-body hydrodynamical “zoom-in” simulation.
 
