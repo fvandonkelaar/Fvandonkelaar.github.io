@@ -23,9 +23,9 @@ author_profile: true
 <tbody>
   <tr>
     <td>2024</td>
-    <td>February</td>
+    <td>July</td>
     <td>Conference</td>
-    <td>Vienna (AT)</td>
+    <td>Padova (IT)</td>
   </tr>
 </tbody>
 </table></div>
@@ -42,6 +42,12 @@ author_profile: true
   </tr>
 </thead>
 <tbody>
+  <tr>
+    <td>2024</td>
+    <td>February</td>
+    <td>Conference</td>
+    <td>Vienna (AT)</td>
+  </tr>
   <tr>
     <td>2024</td>
     <td>January</td>
