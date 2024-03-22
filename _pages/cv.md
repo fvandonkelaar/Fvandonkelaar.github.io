@@ -23,8 +23,8 @@ Full CV in PDF format is available at <http://Fvandonkelaar.github.io/files/CV.p
 <tbody>
   <tr>
     <td>Stellar cluster formation in a Milky Way-sized galaxy at z&gt;4 – II. A hybrid formation scenario for the nuclear star cluster and its connection to the nuclear stellar ring</td>
-    <td><a href="https://ui.adsabs.harvard.edu/abs/2023arXiv230312828V/abstract">Submitted to MNRAS</a></td>
-    <td>2023</td>
+    <td><a href="https://ui.adsabs.harvard.edu/abs/2023arXiv230312828V/abstract">MNRAS</a></td>
+    <td>2024</td>
     <td>x</td>
   </tr>
   <tr>
