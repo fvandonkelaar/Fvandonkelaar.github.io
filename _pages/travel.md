@@ -23,6 +23,12 @@ author_profile: true
 <tbody>
   <tr>
     <td>2024</td>
+    <td>June</td>
+    <td>SKACH Spring Meeting</td>
+    <td>Winterthur (CH)</td>
+  </tr>
+  <tr>
+    <td>2024</td>
     <td>July</td>
     <td>Conference</td>
     <td>Padova (IT)</td>
