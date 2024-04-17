@@ -24,7 +24,7 @@ author_profile: true
   <tr>
     <td>2024</td>
     <td>June</td>
-    <td>SKACH Spring Meeting</td>
+    <td>SKACH Meeting</td>
     <td>Winterthur (CH)</td>
   </tr>
   <tr>
