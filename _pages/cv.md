@@ -21,6 +21,12 @@ Full CV in PDF format is available at <http://Fvandonkelaar.github.io/files/CV.p
   </tr>
 </thead>
 <tbody>
+    <tr>
+    <td>Wandering intermediate-mass black holes in Milky Way-sized galaxies in cosmological simulations: myth or reality?</td>
+    <td>Submitted to MNRAS</td>
+    <td>2024</td>
+    <td>x</td>
+  </tr>
   <tr>
     <td>Stellar cluster formation in a Milky Way-sized galaxy at z&gt;4 – II. A hybrid formation scenario for the nuclear star cluster and its connection to the nuclear stellar ring</td>
     <td><a href="https://ui.adsabs.harvard.edu/abs/2023arXiv230312828V/abstract">MNRAS</a></td>
