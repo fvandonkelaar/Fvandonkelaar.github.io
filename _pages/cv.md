@@ -23,7 +23,7 @@ Full CV in PDF format is available at <http://Fvandonkelaar.github.io/files/CV.p
 <tbody>
     <tr>
     <td>Wandering intermediate-mass black holes in Milky Way-sized galaxies in cosmological simulations: myth or reality?</td>
-    <td>Submitted to MNRAS</td>
+    <td><a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240415404V/abstract">Submitted to MNRAS</a></td>
     <td>2024</td>
     <td>x</td>
   </tr>
