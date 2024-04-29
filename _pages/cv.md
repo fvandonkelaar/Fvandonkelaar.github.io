@@ -60,6 +60,18 @@ Full CV in PDF format is available at <http://Fvandonkelaar.github.io/files/CV.p
 </thead>
 <tbody>
   <tr>
+    <td>The GigaEris Simulation: probing the evolution of the primordial thin disc at z > 4 and stellar migration</td>
+    <td>2 Jul 2024</td>
+    <td>EAS, Padova</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>First Results of the Phoebos Simulation: Galaxy Sizes during the Early Universe</td>
+    <td>11 Jun 2024</td>
+    <td>Winterthur</td>
+    <td></td>
+  </tr>
+  <tr>
     <td>The GigaEris Simulation: Probing the evolution of disc galaxies and their baryonic substructures</td>
     <td>23 Feb 2024</td>
     <td>Vienna</td>
@@ -162,6 +174,16 @@ Full CV in PDF format is available at <http://Fvandonkelaar.github.io/files/CV.p
   </tr>
 </thead>
 <tbody>
+  <tr>
+    <td>(EAS) Zoom-in views of galaxy disks across Cosmic Time: Bridging simulations and observations </td>
+    <td>Padova</td>
+    <td>2 Jul 2024</td>
+  </tr>
+  <tr>
+    <td>SKACH spring meeting</td>
+    <td>Winterthur</td>
+    <td>10 - 11 Jun 2024</td>
+  </tr>
   <tr>
     <td>Building Galaxies from Scratch: Advances and Challenges in Simulating Galaxy Evolution</td>
     <td>Vienna</td>
