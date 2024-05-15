@@ -33,6 +33,30 @@ author_profile: true
     <td>Conference</td>
     <td>Padova (IT)</td>
   </tr>
+  <tr>
+    <td>2024</td>
+    <td>August</td>
+    <td>Conference</td>
+    <td>Warsaw</td>
+  </tr>
+  <tr>
+    <td>2024</td>
+    <td>September</td>
+    <td>University Visit</td>
+    <td>Northwestern University</td>
+  </tr>
+  <tr>
+    <td>2024</td>
+    <td>October</td>
+    <td>University Visit</td>
+    <td>University of Washington</td>
+  </tr>
+  <tr>
+    <td>2024</td>
+    <td>October</td>
+    <td>University Visit</td>
+    <td>University of California, Santa Cruz</td>
+  </tr>
 </tbody>
 </table></div>
 
