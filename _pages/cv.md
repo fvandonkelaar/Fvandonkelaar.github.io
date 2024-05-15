@@ -175,6 +175,11 @@ Full CV in PDF format is available at <http://Fvandonkelaar.github.io/files/CV.p
 </thead>
 <tbody>
   <tr>
+    <td>MODEST-24: Exploring Dense Stellar Systems Across Cosmic Time </td>
+    <td>Warsaw </td>
+    <td>19 - 23 Aug 2024</td>
+  </tr>
+  <tr>
     <td>(EAS) Zoom-in views of galaxy disks across Cosmic Time: Bridging simulations and observations </td>
     <td>Padova</td>
     <td>2 Jul 2024</td>
