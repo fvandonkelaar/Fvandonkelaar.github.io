@@ -37,25 +37,25 @@ author_profile: true
     <td>2024</td>
     <td>August</td>
     <td>Conference</td>
-    <td>Warsaw</td>
+    <td>Warsaw (PL)</td>
   </tr>
   <tr>
     <td>2024</td>
     <td>September</td>
     <td>University Visit</td>
-    <td>Northwestern University</td>
+    <td>Northwestern University (USA)</td>
   </tr>
   <tr>
     <td>2024</td>
     <td>October</td>
     <td>University Visit</td>
-    <td>University of Washington</td>
+    <td>University of Washington (USA)</td>
   </tr>
   <tr>
     <td>2024</td>
     <td>October</td>
     <td>University Visit</td>
-    <td>University of California, Santa Cruz</td>
+    <td>University of California, Santa Cruz (USA)</td>
   </tr>
 </tbody>
 </table></div>
