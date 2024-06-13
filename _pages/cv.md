@@ -68,7 +68,7 @@ Full CV in PDF format is available at <http://Fvandonkelaar.github.io/files/CV.p
   <tr>
     <td>First Results of the Phoebos Simulation: Galaxy Sizes during the Early Universe</td>
     <td>11 Jun 2024</td>
-    <td>Winterthur</td>
+    <td>SKACH spring meeting, Winterthur</td>
     <td></td>
   </tr>
   <tr>
