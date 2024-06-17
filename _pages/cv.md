@@ -21,6 +21,12 @@ Full CV in PDF format is available at <http://Fvandonkelaar.github.io/files/CV.p
   </tr>
 </thead>
 <tbody>
+  <tr>
+    <td>Exploring the fate of primordial discs in Milky Way-sized galaxies with the GigaEris simulation</td>
+    <td>Submitted to MNRAS</td>
+    <td>2024</td>
+    <td>x</td>
+  </tr>
     <tr>
     <td>Wandering intermediate-mass black holes in Milky Way-sized galaxies in cosmological simulations: myth or reality?</td>
     <td><a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240415404V/abstract">Submitted to MNRAS</a></td>
