@@ -23,7 +23,7 @@ Full CV in PDF format is available at <http://Fvandonkelaar.github.io/files/CV.p
 <tbody>
   <tr>
     <td>Exploring the fate of primordial discs in Milky Way-sized galaxies with the GigaEris simulation</td>
-    <td>Submitted to MNRAS</td>
+    <td><a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240611960V/abstract">Submitted to MNRAS</a></td>
     <td>2024</td>
     <td>x</td>
   </tr>
