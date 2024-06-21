@@ -41,6 +41,12 @@ author_profile: true
   </tr>
   <tr>
     <td>2024</td>
+    <td>September</td>
+    <td>University Visit</td>
+    <td>University of Chicago (USA)</td>
+  </tr>
+  <tr>
+    <td>2024</td>
     <td>October</td>
     <td>University Visit</td>
     <td>University of Washington (USA)</td>
