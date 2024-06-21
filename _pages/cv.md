@@ -66,6 +66,12 @@ Full CV in PDF format is available at <http://Fvandonkelaar.github.io/files/CV.p
 </thead>
 <tbody>
   <tr>
+    <td>The GigaEris Simulation: Stellar clusters in MW-sized galaxies at z>4</td>
+    <td>Aug 2024</td>
+    <td>Warsaw</td>
+    <td></td>
+  </tr>
+  <tr>
     <td>The GigaEris Simulation: probing the evolution of the primordial thin disc at z > 4 and stellar migration</td>
     <td>2 Jul 2024</td>
     <td>EAS, Padova</td>
@@ -117,13 +123,13 @@ Full CV in PDF format is available at <http://Fvandonkelaar.github.io/files/CV.p
     <td>The GigaEris Simulation: What makes a high-redshift galaxy different?</td>
     <td>31 Mar 2023</td>
     <td>University of Chicago</td>
-    <td>x</td>
+    <td></td>
   </tr>
   <tr>
     <td>The Formation of the Nuclear Star Cluster</td>
     <td>28 Mar 2023</td>
     <td>University of Chicago</td>
-    <td>x</td>
+    <td></td>
   </tr>
   <tr>
     <td>Stellar Systems at z &gt; 4: The Formation of the Nuclear Star Cluster</td>
