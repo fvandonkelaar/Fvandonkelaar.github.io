@@ -23,12 +23,6 @@ author_profile: true
 <tbody>
   <tr>
     <td>2024</td>
-    <td>July</td>
-    <td>Conference</td>
-    <td>Padova (IT)</td>
-  </tr>
-  <tr>
-    <td>2024</td>
     <td>August</td>
     <td>Conference</td>
     <td>Warsaw (PL)</td>
@@ -78,6 +72,12 @@ author_profile: true
   </tr>
 </thead>
 <tbody>
+  <tr>
+    <td>2024</td>
+    <td>July</td>
+    <td>Conference</td>
+    <td>Padova (IT)</td>
+  </tr>
   <tr>
     <td>2024</td>
     <td>June</td>
