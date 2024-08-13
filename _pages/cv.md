@@ -72,7 +72,7 @@ Full CV in PDF format is available at <http://Fvandonkelaar.github.io/files/CV.p
     <td></td>
   </tr>
   <tr>
-    <td>The GigaEris Simulation: probing the evolution of the primordial thin disc at z > 4 and stellar migration</td>
+    <td><a href="https://ui.adsabs.harvard.edu/abs/2024eas..conf..505V/abstract">The GigaEris Simulation: probing the evolution of the primordial thin disc at z > 4 and stellar migration</a></td>
     <td>2 Jul 2024</td>
     <td>EAS, Padova</td>
     <td></td>
