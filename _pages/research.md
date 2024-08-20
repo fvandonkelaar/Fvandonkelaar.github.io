@@ -12,6 +12,7 @@ My big goal would be to uncover each missing step in the process of galaxy forma
 
 ![ikea](https://github.com/user-attachments/assets/f3bbe14c-57c1-4607-8f4c-90845c626207)
 
+## Galactic structure evolution within simulations 
 I have been working on bridging this gap in understanding galaxy formation by using powerfull simulations like GigaEris and Phoebos. 
 
 **GigaEris** is like a detailed microscope, zooming in on the formation of a Milky Way-sized galaxy halo. The simulation employs a modern implementation of smoothed-particle hydrodynamics, including metal-line cooling and metal and thermal diffusion. This simulation helps us focus on how galaxies assemble in their early stages, going down to redshift z = 4.4. 
@@ -22,6 +23,7 @@ Combining these simulations help us with gaining insight into the formation of g
 
 ![bigplot_page-0001 (2)](https://github.com/fvandonkelaar/Fvandonkelaar.github.io/assets/57528256/c0938e10-5dd7-4b3d-9c4d-c2bbabd4eb3a)
 
-
+## Modelling the evolution of Stellar Clumps
+(UNDER CONSTRUCTION)
 
 
