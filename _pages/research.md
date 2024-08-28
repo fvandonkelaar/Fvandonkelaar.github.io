@@ -12,8 +12,6 @@ My big goal would be to uncover each missing step in the process of galaxy forma
 
 I have been working on bridging this gap in understanding galaxy formation by using powerfull simulations and plan to work on the evolution and formation of star clusters.
 
-![ikea](https://github.com/user-attachments/assets/f3bbe14c-57c1-4607-8f4c-90845c626207)
-
 ## Galactic structure evolution within simulations 
 To understand how high-redshift galactic structures evolve into the galactic features we see today, I have been using high-resolution zoom-in simulations such as GigaEris and Phoebo.  These advanced N-body and hydrodynamical simulations will allow us to investigate how early cosmic structures develop into key components like gaseous discs and stellar bulges.
 
