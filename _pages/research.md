@@ -8,14 +8,10 @@ redirect_from:
 ---
 {% include base_path %}
 
-My big goal would be to uncover each missing step in the process of galaxy formation (one can dream, right?). Telescopes reveal their present-day beauty and now with e.g. JWST we also know now how they looked at higher redshift, but the path from these basic "blops" to fully-formed galaxies remains a puzzle. Imagine it as if we're putting together a complex piece of furniture, using an IKEA manual. We've got the list of parts (stars, gas, and dark matter) and we know what the finished product should look like (galaxies). What we're after are the instructions that bridge the gap, those vital steps in between.
+My big goal would be to uncover each missing step in the process of galaxy formation (one can dream, right?). Telescopes have already revealed their present-day beauty and now with e.g. JWST we now also get a look on how they looked at higher redshift, but the path from these basic "blops" to fully-formed galaxies remains a puzzle. Imagine it as if we're putting together a complex piece of furniture, using an IKEA manual. We've got the list of parts (stars, gas, and dark matter) and we know what the finished product should look like (galaxies). What we're after are the instructions that bridge the gap, those vital steps in between. I have been working on bridging this gap in understanding galaxy formation by using powerfull simulations, I mainly focus on the formation and evolution of galactic structures in Milky Way analogues. 
 
-I have been working on bridging this gap in understanding galaxy formation by using powerfull simulations and plan to work on the evolution and formation of star clusters.
-
-## Galactic structure evolution within simulations 
-To understand how high-redshift galactic structures evolve into the galactic features we see today, I have been using high-resolution zoom-in simulations such as GigaEris and Phoebo.  These advanced N-body and hydrodynamical simulations will allow us to investigate how early cosmic structures develop into key components like gaseous discs and stellar bulges.
-
-**GigaEris** is like a detailed microscope, zooming in on the formation of a Milky Way-sized galaxy halo. The simulation employs a modern implementation of smoothed-particle hydrodynamics, including metal-line cooling and metal and thermal diffusion. This simulation helps us focus on how galaxies assemble in their early stages, going down to redshift z = 4.4. 
+## The Simulations
+To understand how high-redshift galactic structures evolve into the galactic features we see today, I have been using high-resolution zoom-in simulations such as GigaEris and Phoebo.  These advanced N-body and hydrodynamical simulations will allow us to investigate how early cosmic structures develop into key components like gaseous discs and stellar bulges. **GigaEris** is like a detailed microscope, zooming in on the formation of a Milky Way-sized galaxy halo. The simulation employs a modern implementation of smoothed-particle hydrodynamics, including metal-line cooling and metal and thermal diffusion. This simulation helps us focus on how galaxies assemble in their early stages, going down to redshift z = 4.4. 
 
 ![bigplot_page-0001 (2)](https://github.com/fvandonkelaar/Fvandonkelaar.github.io/assets/57528256/c0938e10-5dd7-4b3d-9c4d-c2bbabd4eb3a)
 
@@ -23,7 +19,7 @@ These high-resolution zoom-in simulations will need to be complemented by large-
 
 Combining these simulations help us with gaining insight into the formation of galaxies, illustrating the transition from fundamental elements such as stars and gas to more complex baryonic structures, including the formation of the nuclear star cluster and/or the formation of stellar discs at high redshift galaxies.
 
-## Modelling the evolution of Stellar Clumps
+## The Evolution of the Galactic Structures 
 (UNDER CONSTRUCTION)
 
 
