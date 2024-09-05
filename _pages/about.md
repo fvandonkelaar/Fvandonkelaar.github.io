@@ -16,7 +16,7 @@ My research, I hope to gain a clearer understanding of these processes by delvin
 
 ---
 
-_Main research interests:_ the formation and evolution of galactic structures in Milky Way analogues at high redshift and their interactions with stellar clusters through (cosmological) simulations.
+_**Main research interests:** the formation and evolution of galactic structures in Milky Way analogues at high redshift and their interactions with stellar clusters through (cosmological) simulations._
 
 ---
 
