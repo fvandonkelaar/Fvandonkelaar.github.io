@@ -20,6 +20,8 @@ These high-resolution zoom-in simulations will need to be complemented by large-
 Combining these simulations help us with gaining insight into the formation of galaxies, illustrating the transition from fundamental elements such as stars and gas to more complex baryonic structures, including the formation of the nuclear star cluster and/or the formation of stellar discs at high redshift galaxies.
 
 ## The Evolution of the Galactic Structures 
-(UNDER CONSTRUCTION)
+During my PhD, I have tried to shed light on the unique structures and dynamics that should distinguish high-redshift galaxies from their modern counterparts. By  analyzing the properties of various stellar clusters, including Globular and Nuclear Star Clusters, as well as the galactic disc, we have found that key features such as disc formation and stellar clustering were already present in early galaxies, mirroring those in local galaxies today. In a recent study (van Donkelaar et al., 2024b), we identified a critical link between the (pseudo-)bulge and the kinematically cold disc, proposing a groundbreaking "two-phase" disc formation process, in which the early disc evolves into the pseudo-bulge at high redshifts. Earlier work revealed that stars from this kinematically thin disc eventually contribute to the formation of the Nuclear Star Cluster (van Donkelaar et al., 2024a), offering a new hybrid model for cluster formation. While this does not capture the full complexity of high-redshift galaxies, reframing our understanding of these early systems will provide deeper insights into the processes of galaxy formation and evolution.
+
+
 
 
