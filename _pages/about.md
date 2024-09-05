@@ -15,8 +15,10 @@ Hej, everyone! I'm Floor van Donkelaar, a computational astrophysicist currently
 My research, I hope to gain a clearer understanding of these processes by delving into various aspects of galactic structures. This includes investigating galactic structures such as stellar clumps, intermediate mass black holes, the galactic centre, stellar migration, disc formation, gas accretion, and much more.  Currently, I'm researching the fate of thin discs born at a redshift above 4 with the <a href="https://ui.adsabs.harvard.edu/abs/2022ApJ...928..106T/abstract">GigaEris</a> cosmological, N-body hydrodynamical “zoom-in” simulation and the possibility of high-redshift high stellar mass stellar clumps in disc galaxies, using the <a href="https://ui.adsabs.harvard.edu/abs/2024ApJ...961...76M/abstract">MassiveBlackHR</a> simulation. Additionally, I'm starting to pre-work for developing a subgrid model specifically designed for high-redshift star clusters within massive galaxies and galaxy clusters. We are also currently also putting the final touches on a completely new large-scale cosmological simulation which models a ∼100 cMpc volume of the Universe, the *Phoebos* simulation, so keep your eyes out for that one!
 
 ***
+
 _Main research interests:_ the formation and evolution of galactic structures in Milky Way analogues at high
 redshift and their interactions with stellar clusters through (cosmological) simulations.
+
 ***
 
 My academic journey led me to Switzerland following the completion of my master's degree in astrophysics at Lund University in Sweden and my bachelor’s in sociotechnical engineering (minor in modern physics) at the University of Twente in the Netherlands. 
