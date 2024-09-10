@@ -8,4 +8,5 @@ redirect_from:
 ---
 {% include base_path %}
 
-[UNDER CONSTRUCTION]
+<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-permalink="https://www.instagram.com/gczurichvalkyries/" data-instgrm-version="13"></blockquote> 
+<script async src="//www.instagram.com/embed.js"></script>
