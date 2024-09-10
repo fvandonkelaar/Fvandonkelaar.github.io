@@ -23,7 +23,7 @@ While I am passionate about researching galaxy formation and evolution, it's not
 
 <script async src="//www.instagram.com/embed.js"></script>
 
-### Green Team Twente
+## Green Team Twente (2017 - 2018)
 During my Bachelor's studies, I joined Green Team Twente, a group of highly dedicated and talented student engineers at the University of Twente, focused on advancing hydrogen technology as a sustainable alternative to fossil fuels. As one of the top teams globally, our goal was to push the boundaries of hydrogen fuel efficiency and showcase our work at the prestigious Shell Eco-Marathon London 2018. Unfortunately, technical issues with the battery during our year held us back, but the team we mentored went on to become both European and World Champions the following year (if only we had tightened that one screw a bit more in my year...).
 
 As the head of public relations and graphic design, I was responsible for shaping the team's image. During my tenure, we underwent a major rebrand, including a logo and name change. We became the first team to be followed by Shell on Instagram and won the Communication Award. Additionally, our social media following increased by 37% <a href="https://www.utoday.nl/green-team-twente/65724/green-team-wins-communications-award"> (see this news article)
