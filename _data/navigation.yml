@@ -12,8 +12,8 @@ main:
   - title: "Research"
     url: /research/
 
- # - title: "Simulations"
- #   url: /simulations/
+  - title: "Outreach"
+    url: /outreach/
         
  #- title: "Blog Posts"
  #  url: /year-archive/
