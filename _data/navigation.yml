@@ -11,15 +11,15 @@ main:
     
   - title: "Research"
     url: /research/
-
-  - title: "Outreach"
-    url: /outreach/
         
  #- title: "Blog Posts"
  #  url: /year-archive/
     
   - title: "Academic CV"
     url: /cv/
+
+  - title: "Outreach"
+    url: /outreach/
     
   - title: "Travel"
     url: /travel/
