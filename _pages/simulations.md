@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Simulations"
-permalink: /simulations/
+title: "Publich Outreach"
+permalink: /outreach/
 author_profile: true
 redirect_from:
   - /resume
