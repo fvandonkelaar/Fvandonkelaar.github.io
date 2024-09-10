@@ -8,7 +8,7 @@ redirect_from:
 ---
 {% include base_path %}
 
-While I am passionate about researching galaxy formation and evolution, it's not my only interest. Public outreach has always energized me, and in the future, I hope to combine these two passions to inspire enthusiasm for both astronomy and science as a whole. To this end, I have already given several talks at <a href="https://www.utwente.nl/en/alumni/events/2023/9/1097040/twente4tu-alumni-event-zurich-27th-september-2023"> alumni events </a> for my undergraduate university, sharing the wonders of astronomy. In addition, I’m currently supervising a Master’s student from ETH on their semester project, which focuses on the properties of star-forming gas clouds at high redshift.
+While I am passionate about researching galaxy formation and evolution, it's not my only interest. Public outreach has always energized me, and in the future, I hope to combine these two passions to inspire enthusiasm for both astronomy and science as a whole. To this end, I have already given several talks at <a href="https://www.utwente.nl/en/alumni/events/2023/9/1097040/twente4tu-alumni-event-zurich-27th-september-2023"> alumni events </a> for my undergraduate university, sharing the wonders of astronomy. In addition, I’m currently supervising a Master’s student from ETH Zurich on their semester project, which focuses on the properties of star-forming gas clouds at high redshift.
 
 At present, I channel my outreach skills into another passion: *Rugby*. Over the past year and a half, I’ve served as the public relations manager and graphic designer for my team. In this role, I’ve successfully doubled our social media followers and increased engagement by 40%. Below are a few of my favorite posts:
 
