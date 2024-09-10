@@ -8,7 +8,10 @@ redirect_from:
 ---
 {% include base_path %}
 
-While I am passionate about researching galaxy formation and evolution, it's not my only interest. Public outreach has always energized me, and in the future, I hope to combine these two passions to inspire enthusiasm for both astronomy and science as a whole. Currently, however, I channel my outreach skills into another passion of mine: rugby. For the past year and a half, I’ve served as the public relations manager and graphic designer for my team. During this time, I successfully doubled our followers and boosted engagement by 40% on our posts. See a couple of my favourite posts below:
+While I am passionate about researching galaxy formation and evolution, it's not my only interest. Public outreach has always energized me, and in the future, I hope to combine these two passions to inspire enthusiasm for both astronomy and science as a whole. Because of this I have already given many talks at XXXX<a href="https://www.utoday.nl/green-team-twente/65724/green-team-wins-communications-award"> (For more information see this news article) </a> for my bachelor university talking about the exciting world of astronomy 
+
+
+Currently, however, I channel my outreach skills into another passion of mine: rugby. For the past year and a half, I’ve served as the public relations manager and graphic designer for my team. During this time, I successfully doubled our followers and boosted engagement by 40% on our posts. See a couple of my favourite posts below:
 
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
