@@ -24,6 +24,9 @@ During my PhD, I have tried to shed light on the unique structures and dynamics 
 
 ![image](https://github.com/user-attachments/assets/ea0efa6c-4e1d-4dfe-9ecd-dd4d3a2b45a2)
 
+Additionally, I have integrated my experience with GigaEris and simulations run with the grid-based code RAMSES to study the neutral gas fraction of a galaxy and its impact on disc formation (e.g., [van Donkelaar et al., 2022](https://ui.adsabs.harvard.edu/abs/2022MNRAS.512.3806V/abstract); Agertz et al., in prep.).
+
+
 ### Star Cluster Formation 
 In my research on the evolution of galactic structures, I have primarily focused on the formation of star clusters and their impact on galactic morphology. In my first PhD paper  <a href="https://ui.adsabs.harvard.edu/abs/2023MNRAS.522.1726V/abstract">(van Donkelaar et al., 2023)</a>, we found that nearly all proto-globular clusters (proto indicating the presence of dark matter in their halos, with a minimum baryon fraction of 75%) in our study formed within gas filaments directed towards the galaxy. Additionally, every proto-GC was located within 5 kpc of a dark matter subhalo, consistent with the formation mechanism proposed by <a href="https://ui.adsabs.harvard.edu/abs/2020ApJ...890...18M/abstract">(Madau et al., 2020)</a>. Notably, the stellar masses of the proto-GCs in our study were comparable to those described by Madau et al.
 
