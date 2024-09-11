@@ -36,6 +36,7 @@ During my Bachelor's studies, I joined Green Team Twente, a group of highly dedi
 As the head of public relations and graphic design, I was responsible for shaping the team's image. During my tenure, we underwent a major rebrand, including a logo and name change. We became the first team to be followed by Shell on Instagram and won the Communication Award. Additionally, our social media following increased by 37% <a href="https://www.utoday.nl/green-team-twente/65724/green-team-wins-communications-award"> (For more information see this news article)
 </a>.
 
-![image](https://github.com/user-attachments/assets/012d96e8-e2e8-486a-b400-af97e63d9e79)
+<img width="570" alt="365973382-012d96e8-e2e8-486a-b400-af97e63d9e79" src="https://github.com/user-attachments/assets/a9dd0ed4-dfa3-497c-a3e8-9e64ce3a3af5">
+
 
 
