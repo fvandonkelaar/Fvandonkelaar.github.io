@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publich Outreach"
+title: "Public Outreach"
 permalink: /outreach/
 author_profile: true
 redirect_from:
