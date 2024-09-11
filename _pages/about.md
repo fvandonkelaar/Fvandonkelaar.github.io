@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Updated: 05/09/2024
+Updated: 10/09/2024
 
 Hej, everyone! I'm Floor van Donkelaar, a computational astrophysicist currently residing in Zürich. I'm pursuing my PhD at the University of Zürich in the group of prof. dr. Lucio Mayer, where I'm fascinated by the world of galaxy formation and evolution, with a particular focus on late-type galaxies like our own Milky Way at high redshift.
 
