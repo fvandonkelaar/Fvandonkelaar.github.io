@@ -25,12 +25,6 @@ author_profile: true
     <td>2024</td>
     <td>September</td>
     <td>University Visit</td>
-    <td>CCA (USA)</td>
-  </tr>
-  <tr>
-    <td>2024</td>
-    <td>September</td>
-    <td>University Visit</td>
     <td>Rutgers University (USA)</td>
   </tr>
   <tr>
@@ -78,6 +72,12 @@ author_profile: true
   </tr>
 </thead>
 <tbody>
+  <tr>
+    <td>2024</td>
+    <td>September</td>
+    <td>University Visit</td>
+    <td>CCA (USA)</td>
+  </tr>
   <tr>
     <td>2024</td>
     <td>August</td>
