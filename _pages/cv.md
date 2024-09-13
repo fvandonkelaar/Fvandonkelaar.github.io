@@ -66,6 +66,18 @@ Full CV in PDF format is available at <http://Fvandonkelaar.github.io/files/CV.p
 </thead>
 <tbody>
   <tr>
+    <td>What makes a high redshift (disc) galaxy different to one in the present day?</td>
+    <td>19 Sep 2024</td>
+    <td>University of Toronto</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>The GigaEris Simulation: What makes a high redshift (disc) galaxy different?</td>
+    <td>16 Sep 2024</td>
+    <td>Rutgers University, NJ</td>
+    <td></td>
+  </tr>
+  <tr>
     <td>The GigaEris Simulation: Stellar clusters in MW-sized galaxies at z>4</td>
     <td>13 Sep 2024</td>
     <td>CCA, New York</td>
