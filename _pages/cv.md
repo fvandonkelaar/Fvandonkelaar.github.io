@@ -74,7 +74,7 @@ Full CV in PDF format is available at <http://Fvandonkelaar.github.io/files/CV.p
   <tr>
     <td>The GigaEris Simulation: What makes a high redshift (disc) galaxy different?</td>
     <td>16 Sep 2024</td>
-    <td>Rutgers University, NJ</td>
+    <td>Rutgers University</td>
     <td></td>
   </tr>
   <tr>
