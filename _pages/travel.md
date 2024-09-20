@@ -25,12 +25,6 @@ author_profile: true
     <td>2024</td>
     <td>September</td>
     <td>University Visit</td>
-    <td>Canadian Institute for Theoretical Astrophysics (CA)</td>
-  </tr>
-  <tr>
-    <td>2024</td>
-    <td>September</td>
-    <td>University Visit</td>
     <td>Northwestern University (USA)</td>
   </tr>
   <tr>
@@ -66,6 +60,12 @@ author_profile: true
   </tr>
 </thead>
 <tbody>
+  <tr>
+    <td>2024</td>
+    <td>September</td>
+    <td>University Visit</td>
+    <td>Canadian Institute for Theoretical Astrophysics (CA)</td>
+  </tr>
   <tr>
     <td>2024</td>
     <td>September</td>
