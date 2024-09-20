@@ -66,6 +66,12 @@ Full CV in PDF format is available at <http://Fvandonkelaar.github.io/files/CV.p
 </thead>
 <tbody>
   <tr>
+    <td>The GigaEris Simulation: What makes a high redshift (disc) galaxy different?</td>
+    <td>26 Sep 2024</td>
+    <td>Northwestern University</td>
+    <td></td>
+  </tr>
+  <tr>
     <td>What makes a high redshift (disc) galaxy different to one in the present day?</td>
     <td>19 Sep 2024</td>
     <td>University of Toronto</td>
