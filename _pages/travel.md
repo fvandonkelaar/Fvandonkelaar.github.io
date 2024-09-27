@@ -52,13 +52,13 @@ author_profile: true
     <td>2024</td>
     <td>September</td>
     <td>University Visit</td>
-    <td>Northwestern University (USA)</td>
+    <td>University of Chicago (USA)</td>
   </tr>
   <tr>
     <td>2024</td>
     <td>September</td>
     <td>University Visit</td>
-    <td>University of Chicago (USA)</td>
+    <td>Northwestern University (USA)</td>
   </tr>
   <tr>
     <td>2024</td>
