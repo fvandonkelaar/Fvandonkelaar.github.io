@@ -93,7 +93,7 @@ Full CV in PDF format is available at <http://Fvandonkelaar.github.io/files/CV.p
     <td>The GigaEris Simulation: Stellar clusters in MW-sized galaxies at z>4</td>
     <td>13 Sep 2024</td>
     <td>CCA, New York</td>
-    <td>x</td>
+    <td></td>
   </tr>
   <tr>
     <td>The GigaEris Simulation: Stellar clusters in MW-sized galaxies at z>4</td>
