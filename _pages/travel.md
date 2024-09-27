@@ -23,18 +23,6 @@ author_profile: true
 <tbody>
   <tr>
     <td>2024</td>
-    <td>September</td>
-    <td>University Visit</td>
-    <td>Northwestern University (USA)</td>
-  </tr>
-  <tr>
-    <td>2024</td>
-    <td>September</td>
-    <td>University Visit</td>
-    <td>University of Chicago (USA)</td>
-  </tr>
-  <tr>
-    <td>2024</td>
     <td>October</td>
     <td>University Visit</td>
     <td>University of Washington (USA)</td>
@@ -60,6 +48,18 @@ author_profile: true
   </tr>
 </thead>
 <tbody>
+  <tr>
+    <td>2024</td>
+    <td>September</td>
+    <td>University Visit</td>
+    <td>Northwestern University (USA)</td>
+  </tr>
+  <tr>
+    <td>2024</td>
+    <td>September</td>
+    <td>University Visit</td>
+    <td>University of Chicago (USA)</td>
+  </tr>
   <tr>
     <td>2024</td>
     <td>September</td>
