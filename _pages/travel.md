@@ -25,12 +25,6 @@ author_profile: true
     <td>2024</td>
     <td>October</td>
     <td>University Visit</td>
-    <td>University of Washington (USA)</td>
-  </tr>
-  <tr>
-    <td>2024</td>
-    <td>October</td>
-    <td>University Visit</td>
     <td>University of California, Santa Cruz (USA)</td>
   </tr>
 </tbody>
@@ -48,6 +42,12 @@ author_profile: true
   </tr>
 </thead>
 <tbody>
+  <tr>
+    <td>2024</td>
+    <td>October</td>
+    <td>University Visit</td>
+    <td>University of Washington (USA)</td>
+  </tr>
   <tr>
     <td>2024</td>
     <td>September</td>
