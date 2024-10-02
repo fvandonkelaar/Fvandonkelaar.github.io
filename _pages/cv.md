@@ -66,6 +66,12 @@ Full CV in PDF format is available at <http://Fvandonkelaar.github.io/files/CV.p
 </thead>
 <tbody>
   <tr>
+    <td>The GigaEris Simulation: What makes a high redshift (disc) galaxy different?</td>
+    <td>01 Oct 2024</td>
+    <td>University of Washington</td>
+    <td></td>
+  </tr>
+  <tr>
     <td>The GigaEris Simulation: Probing the evolution of disc galaxies</td>
     <td>27 Sep 2024</td>
     <td>University of Chicago</td>
