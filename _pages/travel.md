@@ -22,10 +22,10 @@ author_profile: true
 </thead>
 <tbody>
   <tr>
-    <td>2024</td>
-    <td>October</td>
-    <td>University Visit</td>
-    <td>University of California, Santa Cruz (USA)</td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
+    <td> </td>
   </tr>
 </tbody>
 </table></div>
@@ -42,6 +42,12 @@ author_profile: true
   </tr>
 </thead>
 <tbody>
+  <tr>
+    <td>2024</td>
+    <td>October</td>
+    <td>University Visit</td>
+    <td>University of California, Santa Cruz (USA)</td>
+  </tr>
   <tr>
     <td>2024</td>
     <td>October</td>
