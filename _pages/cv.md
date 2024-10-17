@@ -90,6 +90,12 @@ Full CV in PDF format is available at <http://Fvandonkelaar.github.io/files/CV.p
     <td></td>
   </tr>
   <tr>
+    <td>The GigaEris Simulation: Probing the evolution of disc galaxies</td>
+    <td>18 Sep 2024</td>
+    <td>University of Toronto</td>
+    <td></td>
+  </tr>
+  <tr>
     <td>The GigaEris Simulation: What makes a high redshift (disc) galaxy different?</td>
     <td>16 Sep 2024</td>
     <td>Rutgers University</td>
