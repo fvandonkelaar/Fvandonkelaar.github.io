@@ -22,6 +22,12 @@ Full CV in PDF format is available at <http://Fvandonkelaar.github.io/files/CV.p
 </thead>
 <tbody>
   <tr>
+    <td>In-situ formation of star clusters at z > 7 via galactic disk fragmentation; shedding light on ultra-compact clusters and overmassive black holes seen by JWST</td>
+    <td><a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240V/abstract">Submitted to ApJ Letters</a></td>
+    <td>2024</td>
+    <td></td>
+  </tr>
+  <tr>
     <td>Exploring the fate of primordial discs in Milky Way-sized galaxies with the GigaEris simulation</td>
     <td><a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240611960V/abstract">Submitted to MNRAS</a></td>
     <td>2024</td>
