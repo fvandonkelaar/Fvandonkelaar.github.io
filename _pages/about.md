@@ -19,3 +19,12 @@ My research, I hope to gain a clearer understanding of these processes by delvin
 My academic journey led me to Switzerland following the completion of my master's degree in astrophysics at Lund University in Sweden and my bachelor’s in sociotechnical engineering (minor in modern physics) at the University of Twente in the Netherlands. 
 
 During my spare time, I love to work on public relations, specifically related to social media. I'm intrigued by how these algorithms function, and like to try to beat the system 🙃. I've taken on a variety of roles as discussed at <a href="https://fvandonkelaar.github.io/outreach/">this page</a>, including some voluntary positions, in this area. Right now, I'm responsible for managing the public relations of the women's rugby team at Grasshopper Club Zürich Rugby, and I'm also an active player on the team (with playing Rugby being another big hobby for me). 
+
+
+
+
+
+
+
+
+<a href="https://clustrmaps.com/site/1c2sa"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=fZhlBZht2UR-Usy_uw0YQSTRlWH-kF9RwWJ-jAIACYc&cl=ffffff" /></a>
