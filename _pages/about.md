@@ -27,4 +27,4 @@ During my spare time, I love to work on public relations, specifically related t
 
 
 
-<a href="https://clustrmaps.com/site/1c2sa"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=fZhlBZht2UR-Usy_uw0YQSTRlWH-kF9RwWJ-jAIACYc&cl=ffffff" /></a>
+<a href='https://clustrmaps.com/site/1c2sa'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=080808&w=70&t=n&d=fZhlBZht2UR-Usy_uw0YQSTRlWH-kF9RwWJ-jAIACYc&co=ffffff&ct=808080'/></a>
