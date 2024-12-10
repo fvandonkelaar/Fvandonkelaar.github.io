@@ -22,10 +22,10 @@ author_profile: true
 </thead>
 <tbody>
   <tr>
-    <td> </td>
-    <td> </td>
-    <td> </td>
-    <td> </td>
+    <td>2025 </td>
+    <td>January </td>
+    <td>SKACH meeting </td>
+    <td>Bern (CH) </td>
   </tr>
 </tbody>
 </table></div>
