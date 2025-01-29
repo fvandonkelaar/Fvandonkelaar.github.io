@@ -24,7 +24,7 @@ author_profile: true
   <tr>
     <td>2025 </td>
     <td>January </td>
-    <td>University of Cambridge </td>
+    <td>University Visit </td>
     <td>Cambridge (UK) </td>
   </tr>
 </tbody>
