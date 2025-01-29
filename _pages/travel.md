@@ -24,8 +24,8 @@ author_profile: true
   <tr>
     <td>2025 </td>
     <td>January </td>
-    <td>SKACH meeting </td>
-    <td>Bern (CH) </td>
+    <td>University of Cambridge </td>
+    <td>Cambridge (UK) </td>
   </tr>
 </tbody>
 </table></div>
@@ -42,6 +42,12 @@ author_profile: true
   </tr>
 </thead>
 <tbody>
+  <tr>
+    <td>2025 </td>
+    <td>January </td>
+    <td>SKACH meeting </td>
+    <td>Bern (CH) </td>
+  </tr>
   <tr>
     <td>2024</td>
     <td>October</td>
