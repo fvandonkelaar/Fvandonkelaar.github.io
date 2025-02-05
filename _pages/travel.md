@@ -21,12 +21,6 @@ author_profile: true
   </tr>
 </thead>
 <tbody>
-  <tr>
-    <td>2025 </td>
-    <td>January </td>
-    <td>University Visit </td>
-    <td>Cambridge (UK) </td>
-  </tr>
 </tbody>
 </table></div>
 
@@ -42,6 +36,12 @@ author_profile: true
   </tr>
 </thead>
 <tbody>
+  <tr>
+    <td>2025 </td>
+    <td>January </td>
+    <td>University Visit </td>
+    <td>Cambridge (UK) </td>
+  </tr>
   <tr>
     <td>2025 </td>
     <td>January </td>
