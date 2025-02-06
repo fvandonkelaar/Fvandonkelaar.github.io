@@ -20,7 +20,7 @@ While I am passionate about researching galaxy formation and evolution, it's not
     /* Container for the topics */
     .topics-container {
       display: flex;
-      gap: 20px;
+      gap: 15px; /* Reduced space between the boxes */
       max-width: 1200px;
       margin: 40px auto;
       justify-content: space-between;
@@ -31,7 +31,7 @@ While I am passionate about researching galaxy formation and evolution, it's not
       background: #ffffff;
       border-radius: 8px;
       box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-      padding: 20px;
+      padding: 15px; /* Reduced padding inside the box */
       width: 300px;
       text-align: center;
     }
@@ -41,12 +41,13 @@ While I am passionate about researching galaxy formation and evolution, it's not
       width: 100%;
       height: auto;
       border-radius: 8px 8px 0 0; /* Round top corners of the image */
+      margin-bottom: 5px; /* Reduced space between image and title */
     }
 
     /* Topic title and description */
     .topic h2 {
       font-size: 1.5rem;
-      margin-bottom: 10px;
+      margin-bottom: 5px; /* Reduced space between title and description */
     }
 
     .topic p {
@@ -73,5 +74,6 @@ While I am passionate about researching galaxy formation and evolution, it's not
       <p>    In the past I have channeled my outreach skills into another passion: <a href="https://www.instagram.com/gczurichvalkyries" target="_blank" style="text-decoration: none; color: #0073e6;"><em>Rugby</em></a>. I've served as the public relations manager and graphic designer for previous teams. In this role, I've 
     successfully doubled our social media followers and boosted engagement by 40%. </p>
     </div>
-
-
+  </div>
+</body>
+</html>
