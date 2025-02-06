@@ -75,5 +75,43 @@ While I am passionate about researching galaxy formation and evolution, it's not
 
 
 
+.events-section {
+  display: flex;
+  gap: 20px;
+  justify-content: space-around;
+  margin: 40px;
+
+  .event-card {
+    text-align: center;
+    max-width: 300px;
+
+    a {
+      display: block;
+      border-radius: 10px;
+      overflow: hidden;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+      transition: transform 0.3s;
+
+      &:hover {
+        transform: scale(1.05);
+      }
+
+      img {
+        width: 100%;
+        height: auto;
+      }
+    }
+
+    h3 {
+      font-size: 1.2rem;
+      margin: 10px 0;
+    }
+
+    p {
+      font-size: 1rem;
+      color: #555;
+    }
+  }
+}
 
 
