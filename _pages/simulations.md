@@ -67,51 +67,35 @@ While I am passionate about researching galaxy formation and evolution, it's not
 </body>
 </html>
 
-<div style="display: flex; gap: 20px;">
-  <div>Topic 1</div>
-  <div>Topic 2</div>
-  <div>Topic 3</div>
+<div class="events-section">
+  <div class="event-card">
+    <a href="https://example.com/space-talk" target="_blank">
+      <img src="space-talk.jpg" alt="Space Talk" />
+    </a>
+    <h3>Space Talk</h3>
+    <p>
+      I gave a talk about dark matter in the Liberty Science Center planetarium,
+      where I worked with their animators to develop a set of custom animations.
+    </p>
+  </div>
+  <div class="event-card">
+    <a href="https://example.com/astronomy-on-tap" target="_blank">
+      <img src="astronomy-on-tap.jpg" alt="Astronomy on Tap" />
+    </a>
+    <h3>Astronomy on Tap</h3>
+    <p>
+      I gave a Pride-themed Astronomy on Tap at Pete's Candy Store in Brooklyn in June 2024.
+    </p>
+  </div>
+  <div class="event-card">
+    <a href="https://example.com/cosmic-happy-hour" target="_blank">
+      <img src="cosmic-happy-hour.jpg" alt="Cosmic Happy Hour" />
+    </a>
+    <h3>Cosmic Happy Hour</h3>
+    <p>
+      I delivered a talk about dark matter to a packed house at Book Club Bar in Manhattan
+      at the inaugural Cosmic Happy Hour.
+    </p>
+  </div>
 </div>
-
-
-
-.events-section {
-  display: flex;
-  gap: 20px;
-  justify-content: space-around;
-  margin: 40px;
-
-  .event-card {
-    text-align: center;
-    max-width: 300px;
-
-    a {
-      display: block;
-      border-radius: 10px;
-      overflow: hidden;
-      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-      transition: transform 0.3s;
-
-      &:hover {
-        transform: scale(1.05);
-      }
-
-      img {
-        width: 100%;
-        height: auto;
-      }
-    }
-
-    h3 {
-      font-size: 1.2rem;
-      margin: 10px 0;
-    }
-
-    p {
-      font-size: 1rem;
-      color: #555;
-    }
-  }
-}
-
 
