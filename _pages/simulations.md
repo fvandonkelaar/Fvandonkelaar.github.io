@@ -46,12 +46,12 @@ While I am passionate about researching galaxy formation and evolution, it's not
 
     /* Topic title and description */
     .topic h2 {
-      font-size: 1.2rem; /* Smaller font size for title */
+      font-size: 1rem; /* Smaller font size for title */
       margin-bottom: 5px; /* Reduced space between title and description */
     }
 
     .topic p {
-      font-size: 0.9rem; /* Smaller font size for text */
+      font-size: 0.5rem; /* Smaller font size for text */
       color: #666;
     }
   </style>
@@ -60,7 +60,7 @@ While I am passionate about researching galaxy formation and evolution, it's not
   <div class="topics-container">
     <div class="topic">
       <img src="https://github.com/user-attachments/assets/dff52865-d5f4-4b6f-9bd8-f6a43f38c401" alt="Astronomy" />
-      <h2>Astronomy outreach</h2>
+      <h2>Astronomy Outreach</h2>
       <p>Coming soon</p>
     </div>
     <div class="topic">
