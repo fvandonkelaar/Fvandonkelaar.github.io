@@ -50,8 +50,9 @@ While I am passionate about researching galaxy formation and evolution, it's not
 <body>
   <div class="topics-container">
     <div class="topic">
-      <h2>Rugby Communityh</h2>
-      <p>Placeholder content for astronomy-related public talks and events.</p>
+      <h2>Alumni Ambassador </h2>
+      <p> As an active alumni member, I’ve participated in several groups and initiatives. After graduating from Lund University, I became an Alumni Ambassador, advising incoming students on making the most of their time at Lund.</p>
+      <p> Additionally, I served as Chair and PR Manager for the <a href="https://www.uct-alumni.nl/" target="_blank" style="text-decoration: none; color: #0073e6;">UCTAA</a> from 2021 to 2022, where I strengthened alumni networks and introduced initiatives like <a href="https://www.linkedin.com/pulse/alumni-abroad-z%C3%BCrich-uct-alumni/?trackingId=ChQcwT%2FRSM%2BFqWZYVT4vGg%3D%3D" target="_blank" style="text-decoration: none; color: #0073e6;">alumni blogs</a> to share member experiences worldwide. </p>
     </div>
     <div class="topic">
       <h2>Rugby Community</h2>
