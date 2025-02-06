@@ -59,6 +59,7 @@ While I am passionate about researching galaxy formation and evolution, it's not
 <body>
   <div class="topics-container">
     <div class="topic">
+      <img src="https://github.com/user-attachments/assets/dff52865-d5f4-4b6f-9bd8-f6a43f38c401" alt="Astronomy" />
       <h2>Astronomy outreach</h2>
       <p>Coming soon</p>
     </div>
