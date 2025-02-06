@@ -23,6 +23,7 @@ While I am passionate about researching galaxy formation and evolution, it's not
       gap: 20px;
       max-width: 1200px;
       margin: 40px auto;
+      justify-content: space-between;
     }
 
     /* Individual topic cards */
@@ -33,6 +34,13 @@ While I am passionate about researching galaxy formation and evolution, it's not
       padding: 20px;
       width: 300px;
       text-align: center;
+    }
+
+    /* Topic images */
+    .topic img {
+      width: 100%;
+      height: auto;
+      border-radius: 8px 8px 0 0; /* Round top corners of the image */
     }
 
     /* Topic title and description */
@@ -54,6 +62,7 @@ While I am passionate about researching galaxy formation and evolution, it's not
       <p>Coming soon</p>
     </div>
     <div class="topic">
+       <img src="https://github.com/user-attachments/assets/bc365365-8d79-44cc-ae1d-23b6f5e18292" alt="Astronomy" />
       <h2>Alumni Ambassador </h2>
       <p> As an active alumni member, I’ve participated in several groups and initiatives. After graduating from Lund University, I became an Alumni Ambassador, advising incoming students on making the most of their time at Lund.</p>
       <p> Additionally, I served as Chair and PR Manager for the <a href="https://www.uct-alumni.nl/" target="_blank" style="text-decoration: none; color: #0073e6;">UCTAA</a> from 2021 to 2022, where I strengthened alumni networks and introduced initiatives like <a href="https://www.linkedin.com/pulse/alumni-abroad-z%C3%BCrich-uct-alumni/?trackingId=ChQcwT%2FRSM%2BFqWZYVT4vGg%3D%3D" target="_blank" style="text-decoration: none; color: #0073e6;">alumni blogs</a> to share member experiences worldwide. </p>
