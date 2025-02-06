@@ -72,11 +72,6 @@ While I am passionate about researching galaxy formation and evolution, it's not
       <p>    In the past I have channeled my outreach skills into another passion: <a href="https://www.instagram.com/gczurichvalkyries" target="_blank" style="text-decoration: none; color: #0073e6;"><em>Rugby</em></a>. I've served as the public relations manager and graphic designer for previous teams. In this role, I've 
     successfully doubled our social media followers and boosted engagement by 40%. </p>
     </div>
-    <div class="topic">
-      <h2>Social Media Engagement</h2>
-      <p>Coming soon</p>
-    </div>
-  </div>
 </body>
 </html>
 
