@@ -46,12 +46,12 @@ While I am passionate about researching galaxy formation and evolution, it's not
 
     /* Topic title and description */
     .topic h2 {
-      font-size: 1.5rem;
+      font-size: 1.2rem; /* Smaller font size for title */
       margin-bottom: 5px; /* Reduced space between title and description */
     }
 
     .topic p {
-      font-size: 1rem;
+      font-size: 0.9rem; /* Smaller font size for text */
       color: #666;
     }
   </style>
