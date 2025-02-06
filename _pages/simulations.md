@@ -10,6 +10,7 @@ redirect_from:
 
 While I am passionate about researching galaxy formation and evolution, it's not my only interest. Public outreach has always energized me, and in the future, I would love to combine these two interests and get people enthusiastic about astronomy and science as a whole. To this end, I have already given several talks at <a href="https://www.utwente.nl/en/alumni/events/2023/9/1097040/twente4tu-alumni-event-zurich-27th-september-2023"> alumni events </a> for my undergraduate university, sharing the wonders of astronomy. In addition, I’m currently supervising a Master’s student from ETH Zurich on their semester project, which focuses on the properties of star-forming gas clouds at high redshift.
 
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -17,20 +18,15 @@ While I am passionate about researching galaxy formation and evolution, it's not
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Three Topics Layout</title>
   <style>
-    body {
-      font-family: 'Arial', sans-serif;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      min-height: 100vh;
-      margin: 0;
-      background-color: #f5f5f5;
-    }
+    /* Container for the topics */
     .topics-container {
       display: flex;
       gap: 20px;
       max-width: 1200px;
+      margin: 40px auto;
     }
+
+    /* Individual topic cards */
     .topic {
       background: #ffffff;
       border-radius: 8px;
@@ -39,10 +35,13 @@ While I am passionate about researching galaxy formation and evolution, it's not
       width: 300px;
       text-align: center;
     }
+
+    /* Topic title and description */
     .topic h2 {
       font-size: 1.5rem;
       margin-bottom: 10px;
     }
+
     .topic p {
       font-size: 1rem;
       color: #666;
@@ -66,36 +65,4 @@ While I am passionate about researching galaxy formation and evolution, it's not
   </div>
 </body>
 </html>
-
-<div class="events-section">
-  <div class="event-card">
-    <a href="https://example.com/space-talk" target="_blank">
-      <img src="space-talk.jpg" alt="Space Talk" />
-    </a>
-    <h3>Space Talk</h3>
-    <p>
-      I gave a talk about dark matter in the Liberty Science Center planetarium,
-      where I worked with their animators to develop a set of custom animations.
-    </p>
-  </div>
-  <div class="event-card">
-    <a href="https://example.com/astronomy-on-tap" target="_blank">
-      <img src="astronomy-on-tap.jpg" alt="Astronomy on Tap" />
-    </a>
-    <h3>Astronomy on Tap</h3>
-    <p>
-      I gave a Pride-themed Astronomy on Tap at Pete's Candy Store in Brooklyn in June 2024.
-    </p>
-  </div>
-  <div class="event-card">
-    <a href="https://example.com/cosmic-happy-hour" target="_blank">
-      <img src="cosmic-happy-hour.jpg" alt="Cosmic Happy Hour" />
-    </a>
-    <h3>Cosmic Happy Hour</h3>
-    <p>
-      I delivered a talk about dark matter to a packed house at Book Club Bar in Manhattan
-      at the inaugural Cosmic Happy Hour.
-    </p>
-  </div>
-</div>
 
