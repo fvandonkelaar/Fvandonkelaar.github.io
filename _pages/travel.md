@@ -21,6 +21,12 @@ author_profile: true
   </tr>
 </thead>
 <tbody>
+    <tr>
+    <td>2025 </td>
+    <td>July </td>
+    <td>Conference </td>
+    <td>Sexten (IT) </td>
+  </tr>
 </tbody>
 </table></div>
 
@@ -99,7 +105,7 @@ author_profile: true
   <tr>
     <td>2024</td>
     <td>July</td>
-    <td>Conference</td>
+    <td>Conference (EAS)</td>
     <td>Padova (IT)</td>
   </tr>
   <tr>
