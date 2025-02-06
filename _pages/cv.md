@@ -235,6 +235,11 @@ Full CV in PDF format is available at <http://Fvandonkelaar.github.io/files/CV.p
 </thead>
 <tbody>
   <tr>
+    <td>SKACH winter Meeting</td>
+    <td>Bern</td>
+    <td>27 - 28 Jan 2025</td>
+  </tr>
+  <tr>
     <td>MODEST-24: Exploring Dense Stellar Systems Across Cosmic Time </td>
     <td>Warsaw </td>
     <td>19 - 23 Aug 2024</td>
