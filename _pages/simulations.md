@@ -61,7 +61,8 @@ While I am passionate about researching galaxy formation and evolution, it's not
     <div class="topic">
       <img src="https://github.com/user-attachments/assets/dff52865-d5f4-4b6f-9bd8-f6a43f38c401" alt="Astronomy" />
       <h2>Astronomy Outreach</h2>
-      <p>I've shared my journey to becoming an astronomer at alumni events and am always looking for new ways to inspire curiosity in young and old alike. I'd be delighted to speak at your next event or join your podcast—<a href="mailto:floor.vandonkelaar@uzh.ch"target="_blank" style="text-decoration: none; color: #0073e6;">feel free to reach out</a>!</p>
+      <p>I've shared my journey to becoming an astronomer at alumni events and am always looking for new ways to inspire curiosity in young and old alike. I'd be delighted to speak at your next event or join your podcast—<a href="mailto:floor.vandonkelaar@uzh.ch" target="_blank" style="text-decoration: none; color: #0073e6;">feel free to reach out</a>
+!</p>
     </div>
     <div class="topic">
        <img src="https://github.com/user-attachments/assets/a9b3d2cb-e352-4536-ad34-899fb0ed97ca" alt="Lund" />
