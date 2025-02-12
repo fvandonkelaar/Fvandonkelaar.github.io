@@ -62,12 +62,12 @@ My big goal would be to uncover some of the missing steps in the process of gala
       <h2><a href="https://fvandonkelaar.github.io/sims/"  style="text-decoration: none; color: #97a2cf;">Simulations</a></h2>
     </div>
     <div class="topic">
-       <img src="https://github.com/user-attachments/assets/f7fe56f0-0d73-4a94-a351-ad3847545a96" alt="Lund" />
-       <h2><a href="https://fvandonkelaar.github.io/structures/" style="text-decoration: none; color: #97a2cf;">Galactic Structures at High Redshift</a></h2>
-    </div>
-    <div class="topic">
       <img src="https://github.com/user-attachments/assets/bf8e09d4-d695-4932-a1d0-2518d73cd162" alt="Rugby" />
       <h2> <h2><a href="https://fvandonkelaar.github.io/clusters/"  style="text-decoration: none; color: #97a2cf;">Star Clusters Formation & Influence</a></h2></h2>
+    </div>
+        <div class="topic">
+       <img src="https://github.com/user-attachments/assets/f7fe56f0-0d73-4a94-a351-ad3847545a96" alt="Lund" />
+       <h2><a href="https://fvandonkelaar.github.io/structures/" style="text-decoration: none; color: #97a2cf;">Galactic Structures at High Redshift</a></h2>
     </div>
   </div>
 </body>
