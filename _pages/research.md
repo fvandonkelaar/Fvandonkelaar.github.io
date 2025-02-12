@@ -45,7 +45,7 @@ My big goal would be to uncover some of the missing steps in the process of gala
 
     /* Topic title and description */
     .topic h2 {
-      font-size: 1 rem; /* Smaller font size for title */
+      font-size: 0.8 rem; /* Smaller font size for title */
       margin-bottom: 5px; /* Reduced space between title and description */
     }
 
