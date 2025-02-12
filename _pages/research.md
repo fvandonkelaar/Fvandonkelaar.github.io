@@ -67,7 +67,7 @@ My big goal would be to uncover some of the missing steps in the process of gala
     </div>
     <div class="topic">
       <img src="https://github.com/user-attachments/assets/45af1ddb-14e8-4a5f-b4bd-d178f3ec8402" alt="Rugby" />
-      <h2> <h2><a href="https://fvandonkelaar.github.io/sims/" target="_blank" style="text-decoration: none; color: #0073e6;">Star Clusters formation & influence</a></h2></h2>
+      <h2> <h2><a href="https://fvandonkelaar.github.io/clusters/" target="_blank" style="text-decoration: none; color: #0073e6;">Star Clusters formation & influence</a></h2></h2>
     </div>
   </div>
 </body>
