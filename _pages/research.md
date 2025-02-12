@@ -10,4 +10,65 @@ redirect_from:
 
 My big goal would be to uncover some of the missing steps in the process of galaxy formation, especially at high redshift and the influence of star clusters (one can dream, right?). Telescopes have already revealed their present-day beauty and now with e.g. JWST we now also get a look on how they looked at higher redshift, but the path from these basic "blops" to fully-formed galaxies remains a puzzle. Imagine it as if we're putting together a complex piece of furniture, using an IKEA manual. We've got the list of parts (stars, gas, and dark matter) and we know what the finished product should look like (galaxies). What we're after are the instructions that bridge the gap, those vital steps in between. I have been working on bridging this gap in understanding galaxy formation by using powerfull simulations, I mainly focus on the formation and evolution of galactic structures in Milky Way analogues. 
 
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Three Topics Layout</title>
+  <style>
+    /* Container for the topics */
+    .topics-container {
+      display: flex;
+      gap: 15px; /* Reduced space between the boxes */
+      max-width: 1200px;
+      margin: 40px auto;
+      justify-content: space-between;
+    }
 
+    /* Individual topic cards */
+    .topic {
+      background: #ffffff;
+      border-radius: 8px;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+      padding: 15px; /* Reduced padding inside the box */
+      width: 300px;
+      text-align: center;
+    }
+
+    /* Topic images */
+    .topic img {
+      width: 100%;
+      height: auto;
+      border-radius: 8px 8px 0 0; /* Round top corners of the image */
+      margin-bottom: 5px; /* Reduced space between image and title */
+    }
+
+    /* Topic title and description */
+    .topic h2 {
+      font-size: 1.3rem; /* Smaller font size for title */
+      margin-bottom: 5px; /* Reduced space between title and description */
+    }
+
+    .topic p {
+      font-size: 0.8rem; /* Smaller font size for text */
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+  <div class="topics-container">
+    <div class="topic">
+      <img src="https://github.com/user-attachments/assets/dff52865-d5f4-4b6f-9bd8-f6a43f38c401" alt="Astronomy" />
+      <h2><a href="https://fvandonkelaar.github.io/sims/" target="_blank" style="text-decoration: none; color: #0073e6;">Simulations</a></h2>
+    </div>
+    <div class="topic">
+       <img src="https://github.com/user-attachments/assets/a9b3d2cb-e352-4536-ad34-899fb0ed97ca" alt="Lund" />
+       <h2><a href="https://fvandonkelaar.github.io/sims/" target="_blank" style="text-decoration: none; color: #0073e6;">Galactic Structures at high redshift</a></h2>
+    </div>
+    <div class="topic">
+      <img src="https://github.com/user-attachments/assets/45af1ddb-14e8-4a5f-b4bd-d178f3ec8402" alt="Rugby" />
+      <h2> <h2><a href="https://fvandonkelaar.github.io/sims/" target="_blank" style="text-decoration: none; color: #0073e6;">Star Clusters formation & influence</a></h2></h2>
+    </div>
+  </div>
+</body>
+</html>
