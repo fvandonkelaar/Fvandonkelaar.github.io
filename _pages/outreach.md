@@ -61,19 +61,19 @@ While I am passionate about researching galaxy formation and evolution, it's not
     <div class="topic">
       <img src="https://github.com/user-attachments/assets/dff52865-d5f4-4b6f-9bd8-f6a43f38c401" alt="Astronomy" />
       <h2>Astronomy Outreach</h2>
-      <p>I've shared my journey to becoming an astronomer at alumni events and am always looking for new ways to inspire curiosity in young and old alike. I'd be delighted to speak at your next event or join your podcast—<a href="mailto:floor.vandonkelaar@uzh.ch" target="_blank" style="text-decoration: none; color: #0073e6;">feel free to reach out</a>
+      <p>I've shared my journey to becoming an astronomer at alumni events and am always looking for new ways to inspire curiosity in young and old alike. I'd be delighted to speak at your next event or join your podcast—<a href="mailto:floor.vandonkelaar@uzh.ch" target="_blank" style="text-decoration: none; color: #97a2cf;">feel free to reach out</a>
 !</p>
     </div>
     <div class="topic">
        <img src="https://github.com/user-attachments/assets/a9b3d2cb-e352-4536-ad34-899fb0ed97ca" alt="Lund" />
       <h2>Alumni Ambassador </h2>
       <p> As an active alumni member, I’ve participated in several groups and initiatives. After graduating from Lund University, I became an Alumni Ambassador, advising incoming students on making the most of their time at Lund.</p>
-      <p> Additionally, I served as Chair and PR Manager for the <a href="https://www.uct-alumni.nl/" target="_blank" style="text-decoration: none; color: #0073e6;">UCTAA</a> from 2021 to 2022, where I strengthened alumni networks and introduced initiatives like <a href="https://www.linkedin.com/pulse/alumni-abroad-z%C3%BCrich-uct-alumni/?trackingId=ChQcwT%2FRSM%2BFqWZYVT4vGg%3D%3D" target="_blank" style="text-decoration: none; color: #0073e6;">alumni blogs</a> to share member experiences worldwide. </p>
+      <p> Additionally, I served as Chair and PR Manager for the <a href="https://www.uct-alumni.nl/" target="_blank" style="text-decoration: none; color: #97a2cf;">UCTAA</a> from 2021 to 2022, where I strengthened alumni networks and introduced initiatives like <a href="https://www.linkedin.com/pulse/alumni-abroad-z%C3%BCrich-uct-alumni/?trackingId=ChQcwT%2FRSM%2BFqWZYVT4vGg%3D%3D" target="_blank" style="text-decoration: none; color: #97a2cf;">alumni blogs</a> to share member experiences worldwide. </p>
     </div>
     <div class="topic">
       <img src="https://github.com/user-attachments/assets/45af1ddb-14e8-4a5f-b4bd-d178f3ec8402" alt="Rugby" />
       <h2>Rugby Community</h2>
-      <p>    In the past I have channeled my outreach skills into another passion: <a href="https://www.instagram.com/gczurichvalkyries" target="_blank" style="text-decoration: none; color: #0073e6;"><em>Rugby</em></a>. I've served as the public relations manager and graphic designer for previous teams. In this role, I've 
+      <p>    In the past I have channeled my outreach skills into another passion: <a href="https://www.instagram.com/gczurichvalkyries" target="_blank" style="text-decoration: none; color: #97a2cf;"><em>Rugby</em></a>. I've served as the public relations manager and graphic designer for previous teams. In this role, I've 
     successfully doubled our social media followers and boosted engagement by 40%. </p>
     </div>
   </div>
