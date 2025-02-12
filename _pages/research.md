@@ -59,7 +59,7 @@ My big goal would be to uncover some of the missing steps in the process of gala
   <div class="topics-container">
     <div class="topic">
       <img src="https://github.com/user-attachments/assets/c5384001-0b37-4206-8bd0-6b7b63b49f24" alt="Phoebos" />
-      <h2><a href="https://fvandonkelaar.github.io/sims/"  style="text-decoration: none; color: #0073e6;">Simulations</a></h2>
+      <h2><a href="https://fvandonkelaar.github.io/sims/"  style="text-decoration: none; color: #97a2cf;">Simulations</a></h2>
     </div>
     <div class="topic">
        <img src="https://github.com/user-attachments/assets/f7fe56f0-0d73-4a94-a351-ad3847545a96" alt="Lund" />
