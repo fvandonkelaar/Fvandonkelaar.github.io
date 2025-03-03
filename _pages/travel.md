@@ -21,6 +21,18 @@ author_profile: true
   </tr>
 </thead>
 <tbody>
+  <tr>
+    <td>2025 </td>
+    <td>June </td>
+    <td>Conference </td>
+    <td>Niels Bohr Institute (DK) </td>
+  </tr>
+  <tr>
+    <td>2025 </td>
+    <td>June </td>
+    <td>University Visit </td>
+    <td>Lund (SE) </td>
+  </tr>
     <tr>
     <td>2025 </td>
     <td>July </td>
