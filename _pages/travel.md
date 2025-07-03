@@ -23,21 +23,9 @@ author_profile: true
 <tbody>
   <tr>
     <td>2025 </td>
-    <td>June </td>
-    <td>Conference </td>
-    <td>Niels Bohr Institute (DK) </td>
-  </tr>
-  <tr>
-    <td>2025 </td>
-    <td>June </td>
-    <td>University Visit </td>
-    <td>Lund (SE) </td>
-  </tr>
-    <tr>
-    <td>2025 </td>
-    <td>July </td>
-    <td>Conference </td>
-    <td>Sexten (IT) </td>
+    <td>October </td>
+    <td>New Position </td>
+    <td>Institute of Astronomy, Cambridge (UK) </td>
   </tr>
 </tbody>
 </table></div>
@@ -54,6 +42,24 @@ author_profile: true
   </tr>
 </thead>
 <tbody>
+   <tr>
+    <td>2025 </td>
+    <td>June </td>
+    <td>Conference </td>
+    <td>Niels Bohr Institute (DK) </td>
+  </tr>
+  <tr>
+    <td>2025 </td>
+    <td>June </td>
+    <td>University Visit </td>
+    <td>Lund (SE) </td>
+  </tr>
+    <tr>
+    <td>2025 </td>
+    <td>July </td>
+    <td>Conference </td>
+    <td>Sexten (IT) </td>
+  </tr>
   <tr>
     <td>2025 </td>
     <td>January </td>
