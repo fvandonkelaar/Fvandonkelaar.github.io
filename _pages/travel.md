@@ -42,6 +42,12 @@ author_profile: true
   </tr>
 </thead>
 <tbody>
+  <tr>
+    <td>2025 </td>
+    <td>July </td>
+    <td>Conference </td>
+    <td>Sexten (IT) </td>
+  </tr>
    <tr>
     <td>2025 </td>
     <td>June </td>
@@ -53,12 +59,6 @@ author_profile: true
     <td>June </td>
     <td>University Visit </td>
     <td>Lund (SE) </td>
-  </tr>
-    <tr>
-    <td>2025 </td>
-    <td>July </td>
-    <td>Conference </td>
-    <td>Sexten (IT) </td>
   </tr>
   <tr>
     <td>2025 </td>
