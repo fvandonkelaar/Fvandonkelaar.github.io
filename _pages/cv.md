@@ -253,6 +253,16 @@ Full CV in PDF format is available at <http://Fvandonkelaar.github.io/files/CV.p
 </thead>
 <tbody>
   <tr>
+    <td>Focusing strong lenses: star clusters and globular cluster progenitors at high redshift</td>
+    <td>Sexten Center for Astrophysics Riccardo Giacconi</td>
+    <td>30 Jun - 4 Jul 2025</td>
+  </tr>
+  <tr>
+    <td>NBIA Workshop on Open Problems in Astrophysical Dynamics</td>
+    <td>Copenhagen</td>
+    <td>10 - 13 Jun 2025</td>
+  </tr>
+  <tr>
     <td>SKACH winter Meeting</td>
     <td>Bern</td>
     <td>27 - 28 Jan 2025</td>
