@@ -22,6 +22,12 @@ Full CV in PDF format is available at <http://Fvandonkelaar.github.io/files/CV.p
 </thead>
 <tbody>
   <tr>
+    <td>Introducing the Phoebos simulation: galaxy properties at the dawn of galaxy formation</td>
+    <td><a href="https://ui.adsabs.harvard.edu/abs/2025arXiv250704927V/abstract">Submitted to MNRAS</a></td>
+    <td>2025</td>
+    <td>x</td>
+  </tr>
+  <tr>
     <td>In-situ formation of star clusters at z > 7 via galactic disk fragmentation; shedding light on ultra-compact clusters and overmassive black holes seen by JWST</td>
     <td><a href="https://ui.adsabs.harvard.edu/abs/2024arXiv241100670M/abstract">ApJ Letters</a></td>
     <td>2025</td>
