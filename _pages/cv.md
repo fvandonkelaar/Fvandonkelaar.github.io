@@ -78,6 +78,18 @@ Full CV in PDF format is available at <http://Fvandonkelaar.github.io/files/CV.p
 </thead>
 <tbody>
   <tr>
+    <td>Simulating the Early Universe: Shedding Light on Clusters seen by JWST at z>4 </td>
+    <td>1 Jul 2025</td>
+    <td>Sexten Center for Astrophysics Riccardo Giacconi</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Why are discs so exciting?</td>
+    <td>11 Jun 2025</td>
+    <td>NBIA workshop, Copenhagen</td>
+    <td></td>
+  </tr>
+  <tr>
     <td>The GigaEris Simulation: What makes a high redshift (disc) galaxy different?</td>
     <td>1 Oct 2024</td>
     <td>University of Washington</td>
