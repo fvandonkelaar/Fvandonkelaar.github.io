@@ -9,8 +9,8 @@ main:
  # - title: "Teaching"
  #   url: Fvandonkelaar.github.io/teaching/    
     
-  - title: "Research"
-    url: /research/
+ # - title: "Research"
+ #   url: /research/
         
  #- title: "Blog Posts"
  #  url: /year-archive/
@@ -18,8 +18,8 @@ main:
   - title: "Academic CV"
     url: /cv/
 
-  - title: "Outreach"
-    url: /outreach/
+ # - title: "Outreach"
+ #   url: /outreach/
     
   - title: "Travel"
     url: /travel/
