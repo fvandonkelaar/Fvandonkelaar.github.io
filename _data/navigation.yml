@@ -18,8 +18,8 @@ main:
   - title: "Academic CV"
     url: /cv/
 
- # - title: "Outreach"
- #   url: /outreach/
+  - title: "Outreach"
+    url: /outreach/
     
-  - title: "Travel"
-    url: /travel/
+ # - title: "Travel"
+ #   url: /travel/
