@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Updated: 09/07/2025
+Updated: 02/10/2025
 
 Hej, everyone! I'm Floor van Donkelaar, a computational astrophysicist and *Herchel Smith Postdoctoral Research Fellow* at the *Institute of Astronomy*, University of Cambridge, where I study galaxy formation and evolution, with a focus on late-type galaxies like our Milky Way at high redshift. I previously completed my PhD at the University of Zürich in the group of Prof. Dr. Lucio Mayer.
 
