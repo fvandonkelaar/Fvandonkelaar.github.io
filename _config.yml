@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Floor van Donkelaar"
   avatar           : "prof.jpeg"
-  bio              : "Herchel Smith Postdoctoral Research Fellow at the Institute of Astronomy, University of Cambridge"
+  bio              : "Herchel Smith Postdoctoral at the Institute of Astronomy, University of Cambridge"
   location         : "Cambridge, United Kingdom"
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=z82A8gQAAAAJ&hl=nl"
-  email            : "floor.vandonkelaar@uzh.ch"
+  email            : "floor.vandonkelaar@ast.cam.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -99,7 +99,7 @@ author:
   github           :
   google_plus      : 
   keybase          :
-  instagram        : "floor_vd/"
+  instagram        : #"floor_vd/"
   impactstory      : 
   lastfm           :
   linkedin         : "floorvandonkelaar/"
