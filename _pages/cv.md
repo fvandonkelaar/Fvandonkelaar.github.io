@@ -78,6 +78,12 @@ Full CV in PDF format is available at <http://Fvandonkelaar.github.io/files/CV.p
 </thead>
 <tbody>
   <tr>
+    <td>Stellar Migration in the Early Disc: The First Discs & Probing the Evolution of the Primoridal Cold Disc at z >4</td>
+    <td>2 Oct 2025</td>
+    <td>“October in Paris” workshop series, Online </td>
+    <td>x</td>
+  </tr>
+  <tr>
     <td>Simulating the Early Universe: Shedding Light on Clusters seen by JWST at z>4 </td>
     <td>1 Jul 2025</td>
     <td>Sexten Center for Astrophysics Riccardo Giacconi</td>
@@ -242,7 +248,7 @@ Full CV in PDF format is available at <http://Fvandonkelaar.github.io/files/CV.p
 </tbody>
 </table></div>
 
-### Conferences & Meetings
+### Selected Conferences & Meetings
 <div class="tg-wrap"><table>
 <thead>
   <tr>
@@ -263,24 +269,9 @@ Full CV in PDF format is available at <http://Fvandonkelaar.github.io/files/CV.p
     <td>10 - 13 Jun 2025</td>
   </tr>
   <tr>
-    <td>SKACH winter Meeting</td>
-    <td>Bern</td>
-    <td>27 - 28 Jan 2025</td>
-  </tr>
-  <tr>
     <td>MODEST-24: Exploring Dense Stellar Systems Across Cosmic Time </td>
     <td>Warsaw </td>
     <td>19 - 23 Aug 2024</td>
-  </tr>
-  <tr>
-    <td>(EAS) Zoom-in views of galaxy disks across Cosmic Time: Bridging simulations and observations </td>
-    <td>Padova</td>
-    <td>2 Jul 2024</td>
-  </tr>
-  <tr>
-    <td>SKACH spring meeting</td>
-    <td>Winterthur</td>
-    <td>10 - 11 Jun 2024</td>
   </tr>
   <tr>
     <td>Building Galaxies from Scratch: Advances and Challenges in Simulating Galaxy Evolution</td>
@@ -288,19 +279,9 @@ Full CV in PDF format is available at <http://Fvandonkelaar.github.io/files/CV.p
     <td>19 - 23 Feb 2024</td>
   </tr>
   <tr>
-    <td>SKACH winter Meeting</td>
-    <td>Neuchâtel</td>
-    <td>22 - 23 Jan 2024</td>
-  </tr>
-  <tr>
     <td>2023 IAP colloquium: New simulations for new problems in galaxy formation</td>
     <td>Paris</td>
     <td>11- 15 Dec 2023</td>
-  </tr>
-   <tr>
-    <td>Swiss SKA Days 2023</td>
-    <td>Zurich</td>
-    <td>6 - 8 Sep 2023</td>
   </tr>
     <tr>
     <td>Star Formation Within Evolving Galaxies: The Revolution of Upcoming Space Missions</td>
@@ -312,20 +293,10 @@ Full CV in PDF format is available at <http://Fvandonkelaar.github.io/files/CV.p
     <td>ISSI, Bern</td>
     <td>22 Jun 2023</td>
   </tr>
-    <tr>
-    <td>SKACH spring Meeting</td>
-    <td>Geneva</td>
-    <td>1 - 2 Jun 2023</td>
-  </tr>
   <tr>
     <td>Galaxy Formation and Evolution in the Data Science Era</td>
     <td>KITP, Santa Barbara</td>
     <td>21 - 24 Mar 2023</td>
-  </tr>
-  <tr>
-    <td>SKACH meeting</td>
-    <td>Basel</td>
-    <td>12 - 13 Jan 2023</td>
   </tr>
   <tr>
     <td>Swiss SKA Days 2022</td>
@@ -341,11 +312,6 @@ Full CV in PDF format is available at <http://Fvandonkelaar.github.io/files/CV.p
     <td>Illuminating Galaxy Formation with Ancient Globular Star Clusters and their Progenitors</td>
     <td>Aspen Centre for Physics</td>
     <td>13 - 18 Mar 2022</td>
-  </tr>
-  <tr>
-    <td>SKACH meeting</td>
-    <td>Brugg</td>
-    <td>1 Dec 2021</td>
   </tr>
 </tbody>
 </table></div>
