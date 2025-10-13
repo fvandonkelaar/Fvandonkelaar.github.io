@@ -23,7 +23,7 @@ Full CV in PDF format is available at <http://Fvandonkelaar.github.io/files/CV.p
 <tbody>
   <tr>
     <td>Introducing the Phoebos simulation: galaxy properties at the dawn of galaxy formation</td>
-    <td><a href="https://ui.adsabs.harvard.edu/abs/2025arXiv250704927V/abstract">Submitted to MNRAS</a></td>
+    <td><a href="https://ui.adsabs.harvard.edu/abs/2025arXiv250704927V/abstract">MNRAS</a></td>
     <td>2025</td>
     <td>x</td>
   </tr>
