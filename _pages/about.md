@@ -18,7 +18,7 @@ With my research, I hope to gain a clearer understanding of these processes by d
 
 My academic journey led me to Switzerland after completing my master’s degree in astrophysics at Lund University in Sweden, and my bachelor’s in sociotechnical engineering (with a minor in modern physics) at the University of Twente in the Netherlands.
 
-In my spare time, I’m passionate about public relations, especially when it comes to social media. I’m genuinely fascinated by how these algorithms work and I enjoy the challenge of trying to outsmart them 🙃. Over the years, I’ve taken on a variety of roles in this area, including some voluntary positions, which you can check out on <a href="https://fvandonkelaar.github.io/outreach/">this page</a>. Outside of my passion for PR, I’m an avid rugby fan and a true Dutch cycling enthusiast. I love being on my bike, even if it was on the Swiss hills. The asphalt in the United Kingdom takes some getting used to though.
+In my spare time, I’m passionate about public relations, especially when it comes to social media. I’m genuinely fascinated by how these algorithms work and I enjoy the challenge of trying to outsmart them 🙃. Over the years, I’ve taken on a variety of roles in this area, including some voluntary positions. Outside of my passion for PR, I’m an avid rugby fan and a true Dutch cycling enthusiast. I love being on my bike, even if it was on the Swiss hills. The asphalt in the United Kingdom takes some getting used to though.
 
 
 
