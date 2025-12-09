@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Floor van Donkelaar"
   avatar           : "prof.jpg"
-  bio              : "Herchel Smith Postdoctoral Research Fellow at the Institute of Astronomy "
+  bio              : "Herchel Smith Postdoctoral Research Fellow at the Institute of Astronomy, University of Cambridge"
   location         : "Cambridge, United Kingdom"
-  employer         : "University of Cambridge"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=z82A8gQAAAAJ&hl=nl"
   email            : "floor.vandonkelaar@ast.cam.ac.uk"
@@ -99,7 +99,7 @@ author:
   github           :
   google_plus      : 
   keybase          :
-  instagram        : #"floor_vd/"
+  instagram        : "floor_vd/"
   impactstory      : 
   lastfm           :
   linkedin         : "floorvandonkelaar/"
