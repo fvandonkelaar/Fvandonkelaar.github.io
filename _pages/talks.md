@@ -12,7 +12,7 @@ author_profile: true
 2. *The Milky Way’s Nuclear Star Cluster*  
    ISSI, Bern, 30 Aug 2023
 3. *Stellar Systems at z > 4: The Hybrid Formation Scenario for the Nuclear Star Cluster*  
-   Lund University, 8 May 2023  [(Recording)](https://drive.google.com/file/d/1m_QRLDLG8HBoYI3BrpEz-VHUKfddSjTw/view?usp=sharing)
+   Lund University, 8 May 2023  [(recording)](https://drive.google.com/file/d/1m_QRLDLG8HBoYI3BrpEz-VHUKfddSjTw/view?usp=sharing)
 4. *Stellar Systems at z > 4: The Proto-Globular Cluster Properties and the Imposter Amongst Us*  
    Lund University, 16 Nov 2022
 5. *High-z Disk Formation and Globular Cluster Analogs in the Ultra-high Resolution GigaEris Simulation*  
