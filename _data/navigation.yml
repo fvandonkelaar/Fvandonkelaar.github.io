@@ -13,6 +13,9 @@ main:
   - title: "Academic CV"
     url: /cv/
 
+  - title: "Publications"
+    url: /publications/
+
   - title: "Teaching"
     url: /teaching/
 
