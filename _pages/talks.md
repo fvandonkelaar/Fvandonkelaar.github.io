@@ -5,21 +5,19 @@ permalink: /talks/
 author_profile: true
 ---
 
-## Talks
-
 ### Invited Talks
 
-1. **Stellar Migration in the Early Disc: The First Discs & Probing the Evolution of the Primordial Cold Disc at z > 4**  
+1. *Stellar Migration in the Early Disc: The First Discs & Probing the Evolution of the Primordial Cold Disc at z > 4*
    “October in Paris” workshop series (online), 2 Oct 2025
-2. **The Milky Way’s Nuclear Star Cluster**  
+2. *The Milky Way’s Nuclear Star Cluster*  
    ISSI, Bern, 30 Aug 2023
-3. **Stellar Systems at z > 4: The Hybrid Formation Scenario for the Nuclear Star Cluster**  
+3. *Stellar Systems at z > 4: The Hybrid Formation Scenario for the Nuclear Star Cluster*  
    Lund University, 8 May 2023  [(Recording)](https://drive.google.com/file/d/1m_QRLDLG8HBoYI3BrpEz-VHUKfddSjTw/view?usp=sharing)
-4. **Stellar Systems at z > 4: The Proto-Globular Cluster Properties and the Imposter Amongst Us**  
+4. *Stellar Systems at z > 4: The Proto-Globular Cluster Properties and the Imposter Amongst Us*  
    Lund University, 16 Nov 2022
-5. **High-z Disk Formation and Globular Cluster Analogs in the Ultra-high Resolution GigaEris Simulation**  
+5. *High-z Disk Formation and Globular Cluster Analogs in the Ultra-high Resolution GigaEris Simulation* 
    ISSI, Bern, 31 Aug 2022
-6. **The Properties and Scaling Relations of GMCs in the LMC**  
+6. *The Properties and Scaling Relations of GMCs in the LMC*  
    Oxford University, 22 Sep 2020
 
 ### Contributed Talks
