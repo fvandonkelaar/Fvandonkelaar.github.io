@@ -8,7 +8,7 @@ redirect_from:
 ---
 {% include base_path %}
 
-While I am passionate about researching galaxy formation and evolution, it's not my only interest. Public outreach has always energized me, and in the future, I would love to combine these two interests and get people enthusiastic about astronomy and science as a whole. To this end, I have already given several talks at <a href="https://www.utwente.nl/en/alumni/events/2023/9/1097040/twente4tu-alumni-event-zurich-27th-september-2023"> alumni events </a> for my undergraduate university, sharing the wonders of astronomy. In addition, I’m currently supervising a Master’s student from ETH Zurich on their semester project, which focuses on the properties of star-forming gas clouds at high redshift.
+While I am passionate about researching galaxy formation and evolution, it's not my only interest. Public outreach has always energized me, and in the future, I would love to combine these two interests and get people enthusiastic about astronomy and science as a whole. To this end, I have already given several talks at <a href="https://www.utwente.nl/en/alumni/events/2023/9/1097040/twente4tu-alumni-event-zurich-27th-september-2023"> alumni events </a> for my undergraduate university, sharing the wonders of astronomy. In addition, I’m currently supervising a Master’s student from ETH Zurich on their semester project, which focuses on the properties of star-forming gas clouds at high redshift. .
 
 
 <html lang="en">
