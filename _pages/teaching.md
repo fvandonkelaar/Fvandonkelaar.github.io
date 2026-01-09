@@ -8,7 +8,7 @@ author_profile: true
 ### Master's Project Supervisor
 | Student | Semester(s) | University | Notes |
 |-------|-------------|-------------|-------------|
-| Daniel Swinger  | Summer & Winter 2025 | ETH | Paper in the works|
+| Daniel Swinger  | Fall 2025 | ETH | Paper in the works|
 
 ### Astrophysics Part II Supervisor, University of Cambridge
 | Course | Semester(s) |
