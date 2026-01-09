@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Simulations"
-permalink: /sims/
+title: "Selected Talks"
+permalink: /talks/
 author_profile: true
 ---
 
