@@ -3,14 +3,14 @@ main:
  # - title: "Publications"
  #   url: /publications/
 
- # - title: "Talks"
- #  url: Fvandonkelaar.github.io/talks/    
+  - title: "Selected Talks"
+   url: Fvandonkelaar.github.io/talks/    
 
  # - title: "Teaching"
  #   url: Fvandonkelaar.github.io/teaching/    
     
- # - title: "Research"
- #   url: /research/
+  - title: "Research"
+    url: /research/
         
  #- title: "Blog Posts"
  #  url: /year-archive/
