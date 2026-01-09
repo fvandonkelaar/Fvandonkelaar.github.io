@@ -85,7 +85,7 @@ author_profile: true
    ISSI, Bern, 22 Jun 2023
 8. *Galaxy Formation and Evolution in the Data Science Era*  
    KITP, Santa Barbara, 21 – 24 Mar 2023
-9. *Swiss SKA Days 2022**  
+9. *Swiss SKA Days 2022*  
    Lugano, 3 – 4 Oct 2022
 10. *Star Formation Within Evolving Galaxies: The Revolution of Upcoming Space Missions*  
     ISSI, Bern, 29 Aug – 2 Sep 2022
