@@ -65,63 +65,6 @@ Generating template spectra of MUSE-Wide emission line sources.
 
 
 
-### Publications
-<div class="tg-wrap"><table>
-<thead>
-  <tr>
-    <th>Title</th>
-    <th>Journal</th>
-    <th>Year</th>
-    <th>First Author</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Introducing the Phoebos simulation: galaxy properties at the dawn of galaxy formation</td>
-    <td><a href="https://ui.adsabs.harvard.edu/abs/2025arXiv250704927V/abstract">MNRAS</a></td>
-    <td>2025</td>
-    <td>x</td>
-  </tr>
-  <tr>
-    <td>In-situ formation of star clusters at z > 7 via galactic disk fragmentation; shedding light on ultra-compact clusters and overmassive black holes seen by JWST</td>
-    <td><a href="https://ui.adsabs.harvard.edu/abs/2024arXiv241100670M/abstract">ApJ Letters</a></td>
-    <td>2025</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Exploring the fate of primordial discs in Milky Way-sized galaxies with the GigaEris simulation</td>
-    <td><a href="https://ui.adsabs.harvard.edu/abs/2025MNRAS.539.1259V/abstract">MNRAS</a></td>
-    <td>2025</td>
-    <td>x</td>
-  </tr>
-    <tr>
-    <td>Wandering intermediate-mass black holes in Milky Way-sized galaxies in cosmological simulations: myth or reality?</td>
-    <td><a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240415404V/abstract">MNRAS</a></td>
-    <td>2025</td>
-    <td>x</td>
-  </tr>
-  <tr>
-    <td>Stellar cluster formation in a Milky Way-sized galaxy at z&gt;4 – II. A hybrid formation scenario for the nuclear star cluster and its connection to the nuclear stellar ring</td>
-    <td><a href="https://ui.adsabs.harvard.edu/abs/2023arXiv230312828V/abstract">MNRAS</a></td>
-    <td>2024</td>
-    <td>x</td>
-  </tr>
-  <tr>
-    <td>Stellar cluster formation in a Milky Way-sized galaxy at z>4 - I. The proto-globular cluster population and the imposter amongst us</td>
-    <td><a href="https://ui.adsabs.harvard.edu/abs/2023MNRAS.tmp..909V/abstract">MNRAS</a></td>
-    <td>2023</td>
-    <td>x</td>
-  </tr>
-    <tr>
-    <td>From giant clumps to clouds - II. The emergence of thick disc kinematics from the conditions of star formation in high redshift gas rich galaxies</td>
-    <td><a href="https://ui.adsabs.harvard.edu/abs/2021arXiv211013165V/abstract">MNRAS</a></td>
-    <td>2022</td>
-    <td>x</td>
-  </tr>
-</tbody>
-</table></div>
-
-
 
 
 
