@@ -5,6 +5,17 @@ permalink: /teaching/
 author_profile: true
 ---
 
+### Master's Project Supervisor
+| Student | Semester(s) | University | Notes |
+|-------|-------------|-------------|-------------|
+| Daniel Swinger  | Summer & Winter 2025 | ETH | Paper in the works|
+
+### Astrophysics Part II Supervisor, University of Cambridge
+| Course | Semester(s) |
+|-------|-------------|
+| Topics in Astrophysics  | Lent Term 2026 |
+
+
 ### Teaching Assistant, University of Zurich
 | Course | Semester(s) |
 |-------|-------------|
