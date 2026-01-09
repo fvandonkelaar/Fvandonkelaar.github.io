@@ -3,8 +3,6 @@ main:
   # - title: "Publications"
   #   url: /publications/
 
-  # - title: "Teaching"
-  #   url: /teaching/
 
   - title: "Research"
     url: /research/
@@ -15,13 +13,18 @@ main:
   - title: "Academic CV"
     url: /cv/
 
+  - title: "Teaching"
+    url: /teaching/
+
+  - title: "Talks"
+    url: /talks/
+
   - title: "Outreach"
     url: /outreach/
+    
 
   # - title: "Travel"
   #   url: /travel/
 
-  - title: "Talks"
-    url: /talks/
-    
+
 
