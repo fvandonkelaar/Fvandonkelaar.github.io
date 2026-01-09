@@ -5,252 +5,92 @@ permalink: /talks/
 author_profile: true
 ---
 
-### Talks
-<div class="tg-wrap"><table>
-<thead>
-  <tr>
-    <th>Title</th>
-    <th>Date</th>
-    <th>Location</th>
-    <th>Invited</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Stellar Migration in the Early Disc: The First Discs & Probing the Evolution of the Primoridal Cold Disc at z >4</td>
-    <td>2 Oct 2025</td>
-    <td>“October in Paris” workshop series, Online </td>
-    <td>x</td>
-  </tr>
-  <tr>
-    <td>Simulating the Early Universe: Shedding Light on Clusters seen by JWST at z>4 </td>
-    <td>1 Jul 2025</td>
-    <td>Sexten Center for Astrophysics Riccardo Giacconi</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Why are discs so exciting?</td>
-    <td>11 Jun 2025</td>
-    <td>NBIA workshop, Copenhagen</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>The GigaEris Simulation: What makes a high redshift (disc) galaxy different?</td>
-    <td>1 Oct 2024</td>
-    <td>University of Washington</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>The GigaEris Simulation: Probing the evolution of disc galaxies</td>
-    <td>27 Sep 2024</td>
-    <td>University of Chicago</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>The GigaEris Simulation: What makes a high redshift (disc) galaxy different?</td>
-    <td>26 Sep 2024</td>
-    <td>Northwestern University</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>What makes a high redshift (disc) galaxy different to one in the present day?</td>
-    <td>19 Sep 2024</td>
-    <td>University of Toronto</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>The GigaEris Simulation: Probing the evolution of disc galaxies</td>
-    <td>18 Sep 2024</td>
-    <td>University of Toronto</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>The GigaEris Simulation: What makes a high redshift (disc) galaxy different?</td>
-    <td>16 Sep 2024</td>
-    <td>Rutgers University</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>The GigaEris Simulation: Stellar clusters in MW-sized galaxies at z>4</td>
-    <td>13 Sep 2024</td>
-    <td>CCA, New York</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>The GigaEris Simulation: Stellar clusters in MW-sized galaxies at z>4</td>
-    <td>19 Aug 2024</td>
-    <td>MODEST24, Warsaw</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><a href="https://ui.adsabs.harvard.edu/abs/2024eas..conf..505V/abstract">The GigaEris Simulation: probing the evolution of the primordial thin disc at z > 4 and stellar migration</a></td>
-    <td>2 Jul 2024</td>
-    <td>EAS, Padova</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>First Results of the Phoebos Simulation: Galaxy Sizes during the Early Universe</td>
-    <td>11 Jun 2024</td>
-    <td>SKACH spring meeting, Winterthur</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>The GigaEris Simulation: Probing the evolution of disc galaxies and their baryonic substructures</td>
-    <td>23 Feb 2024</td>
-    <td>Vienna</td>
-    <td></td>
-  </tr>
-    <tr>
-    <td>The GigaEris Simulation: probing the evolution of disc galaxies evolution at Redshift > 4</td>
-    <td>11 Dec 2023</td>
-    <td>IAP colloquium, Paris</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>The Phoebos Simulation: Its future for SKA</td>
-    <td>8 Sep 2023</td>
-    <td>Swiss SKA days, Zurich</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>The Milky Way’s nuclear star cluster</td>
-    <td>30 Aug 2023</td>
-    <td><a href="https://teams.issibern.ch/starformationgalaxies/">ISSI, Bern</a></td>
-    <td>x</td>
-  </tr>
-    <tr>
-    <td>The First Results of the Phoebos Simulation</td>
-    <td>2 Jun 2023</td>
-    <td>SKACH spring meeting, Geneva</td>
-    <td> </td>
-  </tr>
-  <tr>
-    <td><a href="https://drive.google.com/file/d/1m_QRLDLG8HBoYI3BrpEz-VHUKfddSjTw/view?usp=sharing">Stellar Systems at z &gt; 4: The hybrid formation scenario for the nuclear star cluster</a></td>
-    <td>8 May 2023</td>
-    <td>Lund University</td>
-    <td>x</td>
-  </tr>
-  <tr>
-    <td>The GigaEris Simulation: What makes a high-redshift galaxy different?</td>
-    <td>31 Mar 2023</td>
-    <td>University of Chicago</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>The Formation of the Nuclear Star Cluster</td>
-    <td>28 Mar 2023</td>
-    <td>University of Chicago</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Stellar Systems at z &gt; 4: The Formation of the Nuclear Star Cluster</td>
-    <td>13 Jan 2023</td>
-    <td>SKACH meeting, Basel</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>Stellar Systems at z &gt; 4: The proto-Globular Cluster properties and the imposter amongst us</td>
-    <td>16 Nov 2022</td>
-    <td>Lund University</td>
-    <td>x</td>
-  </tr>
-  <tr>
-    <td>Proto-Globular Clusters Properties at the dawn of&nbsp;&nbsp;galaxy formation</td>
-    <td>3 Oct 2022</td>
-    <td>Swiss SKA Days, Lugano</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>The proto-globular cluster properties and the imposter amongst us</td>
-    <td>8 Sep 2022</td>
-    <td>PhD Retreat, Zurich</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>High-z disk formation and Globular Cluster analogs in the ultra-high resolution GigaERIS simulation</td>
-    <td>31 Aug 2022</td>
-    <td><a href="https://teams.issibern.ch/starformationgalaxies/">ISSI, Bern</a></td>
-    <td>x</td>
-  </tr>
-  <tr>
-    <td>On disc kinematics: The influence of the thin disc on star clusters</td>
-    <td>18 Mar 2022</td>
-    <td>Aspen Center for Physics</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>The Properties and Scaling Relations of GMCs in the LMC</td>
-    <td>22 Sep 2020</td>
-    <td>Oxford University</td>
-    <td>x</td>
-  </tr>
-</tbody>
-</table></div>
+## Talks
 
-### Selected Conferences & Meetings
-<div class="tg-wrap"><table>
-<thead>
-  <tr>
-    <th>Title</th>
-    <th>Location</th>
-    <th>Date</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Focusing strong lenses: star clusters and globular cluster progenitors at high redshift</td>
-    <td>Sexten Center for Astrophysics Riccardo Giacconi</td>
-    <td>30 Jun - 4 Jul 2025</td>
-  </tr>
-  <tr>
-    <td>NBIA Workshop on Open Problems in Astrophysical Dynamics</td>
-    <td>Copenhagen</td>
-    <td>10 - 13 Jun 2025</td>
-  </tr>
-  <tr>
-    <td>MODEST-24: Exploring Dense Stellar Systems Across Cosmic Time </td>
-    <td>Warsaw </td>
-    <td>19 - 23 Aug 2024</td>
-  </tr>
-  <tr>
-    <td>Building Galaxies from Scratch: Advances and Challenges in Simulating Galaxy Evolution</td>
-    <td>Vienna</td>
-    <td>19 - 23 Feb 2024</td>
-  </tr>
-  <tr>
-    <td>2023 IAP colloquium: New simulations for new problems in galaxy formation</td>
-    <td>Paris</td>
-    <td>11- 15 Dec 2023</td>
-  </tr>
-    <tr>
-    <td>Star Formation Within Evolving Galaxies: The Revolution of Upcoming Space Missions</td>
-    <td>ISSI, Bern</td>
-    <td>28 Aug - 1 Sep 2023</td>
-  </tr>
-  <tr>
-    <td>"SKA1-MID observing capability at high frequencies" Meeting</td>
-    <td>ISSI, Bern</td>
-    <td>22 Jun 2023</td>
-  </tr>
-  <tr>
-    <td>Galaxy Formation and Evolution in the Data Science Era</td>
-    <td>KITP, Santa Barbara</td>
-    <td>21 - 24 Mar 2023</td>
-  </tr>
-  <tr>
-    <td>Swiss SKA Days 2022</td>
-    <td>Lugano</td>
-    <td>3 - 4 Oct 2022</td>
-  </tr>
-  <tr>
-    <td>Star Formation Within Evolving Galaxies: The Revolution of Upcoming Space Missions</td>
-    <td>ISSI, Bern</td>
-    <td>29 Aug - 2 Sep 2022</td>
-  </tr>
-  <tr>
-    <td>Illuminating Galaxy Formation with Ancient Globular Star Clusters and their Progenitors</td>
-    <td>Aspen Centre for Physics</td>
-    <td>13 - 18 Mar 2022</td>
-  </tr>
-</tbody>
-</table></div>
+### Invited Talks
+
+1. **Stellar Migration in the Early Disc: The First Discs & Probing the Evolution of the Primordial Cold Disc at z > 4**  
+   “October in Paris” workshop series (online), 2 Oct 2025
+2. **The Milky Way’s Nuclear Star Cluster**  
+   ISSI, Bern, 30 Aug 2023
+3. **Stellar Systems at z > 4: The Hybrid Formation Scenario for the Nuclear Star Cluster**  
+   Lund University, 8 May 2023  [(Recording)](https://drive.google.com/file/d/1m_QRLDLG8HBoYI3BrpEz-VHUKfddSjTw/view?usp=sharing)
+4. **Stellar Systems at z > 4: The Proto-Globular Cluster Properties and the Imposter Amongst Us**  
+   Lund University, 16 Nov 2022
+5. **High-z Disk Formation and Globular Cluster Analogs in the Ultra-high Resolution GigaEris Simulation**  
+   ISSI, Bern, 31 Aug 2022
+6. **The Properties and Scaling Relations of GMCs in the LMC**  
+   Oxford University, 22 Sep 2020
+
+### Contributed Talks
+
+1. **Simulating the Early Universe: Shedding Light on Clusters Seen by JWST at z > 4**  
+   Sexten Center for Astrophysics Riccardo Giacconi, 1 Jul 2025
+2. **Why Are Discs So Exciting?**  
+   NBIA Workshop, Copenhagen, 11 Jun 2025
+3. **The GigaEris Simulation: What Makes a High-Redshift (Disc) Galaxy Different?**  
+   University of Washington, 1 Oct 2024
+4. **The GigaEris Simulation: Probing the Evolution of Disc Galaxies**  
+   University of Chicago, 27 Sep 2024
+5. **The GigaEris Simulation: What Makes a High-Redshift (Disc) Galaxy Different?**  
+   Northwestern University, 26 Sep 2024
+6. **What Makes a High-Redshift (Disc) Galaxy Different from One in the Present Day?**  
+   University of Toronto, 19 Sep 2024
+7. **The GigaEris Simulation: Probing the Evolution of Disc Galaxies**  
+   University of Toronto, 18 Sep 2024
+8. **The GigaEris Simulation: What Makes a High-Redshift (Disc) Galaxy Different?**  
+   Rutgers University, 16 Sep 2024
+9. **The GigaEris Simulation: Stellar Clusters in MW-sized Galaxies at z > 4**  
+   CCA, New York, 13 Sep 2024
+10. **The GigaEris Simulation: Stellar Clusters in MW-sized Galaxies at z > 4**  
+    MODEST-24, Warsaw, 19 Aug 2024
+11. **The GigaEris Simulation: Probing the Evolution of the Primordial Thin Disc at z > 4 and Stellar Migration**  
+    EAS, Padova, 2 Jul 2024 [(abstract)](https://ui.adsabs.harvard.edu/abs/2024eas..conf..505V/abstract)
+12. **First Results of the Phoebos Simulation: Galaxy Sizes during the Early Universe**  
+    SKACH Spring Meeting, Winterthur, 11 Jun 2024
+13. **The GigaEris Simulation: Probing the Evolution of Disc Galaxies and Their Baryonic Substructures**  
+    Vienna, 23 Feb 2024
+14. **The GigaEris Simulation: Probing the Evolution of Disc Galaxies at z > 4**  
+    IAP Colloquium, Paris, 11 Dec 2023
+15. **The Phoebos Simulation: Its Future for SKA**  
+    Swiss SKA Days, Zurich, 8 Sep 2023
+16. **The First Results of the Phoebos Simulation**  
+    SKACH Spring Meeting, Geneva, 2 Jun 2023
+17. **The GigaEris Simulation: What Makes a High-Redshift Galaxy Different?**  
+    University of Chicago, 31 Mar 2023
+18. **The Formation of the Nuclear Star Cluster**  
+    University of Chicago, 28 Mar 2023
+19. **Stellar Systems at z > 4: The Formation of the Nuclear Star Cluster**  
+    SKACH Meeting, Basel, 13 Jan 2023
+20. **Proto-Globular Cluster Properties at the Dawn of Galaxy Formation**  
+    Swiss SKA Days, Lugano, 3 Oct 2022
+21. **The Proto-Globular Cluster Properties and the Imposter Amongst Us**  
+    PhD Retreat, Zurich, 8 Sep 2022
+22. **On Disc Kinematics: The Influence of the Thin Disc on Star Clusters**  
+    Aspen Center for Physics, 18 Mar 2022
+
+## Selected Conferences & Meetings
+
+1. **Focusing Strong Lenses: Star Clusters and Globular Cluster Progenitors at High Redshift**  
+   Sexten Center for Astrophysics Riccardo Giacconi, 30 Jun – 4 Jul 2025
+2. **NBIA Workshop on Open Problems in Astrophysical Dynamics**  
+   Copenhagen, 10 – 13 Jun 2025
+3. **MODEST-24: Exploring Dense Stellar Systems Across Cosmic Time**  
+   Warsaw, 19 – 23 Aug 2024
+4. **Building Galaxies from Scratch: Advances and Challenges in Simulating Galaxy Evolution**  
+   Vienna, 19 – 23 Feb 2024
+5. **IAP Colloquium: New Simulations for New Problems in Galaxy Formation**  
+   Paris, 11 – 15 Dec 2023
+6. **Star Formation Within Evolving Galaxies: The Revolution of Upcoming Space Missions**  
+   ISSI, Bern, 28 Aug – 1 Sep 2023
+7. **“SKA1-MID Observing Capability at High Frequencies” Meeting**  
+   ISSI, Bern, 22 Jun 2023
+8. **Galaxy Formation and Evolution in the Data Science Era**  
+   KITP, Santa Barbara, 21 – 24 Mar 2023
+9. **Swiss SKA Days 2022**  
+   Lugano, 3 – 4 Oct 2022
+10. **Star Formation Within Evolving Galaxies: The Revolution of Upcoming Space Missions**  
+    ISSI, Bern, 29 Aug – 2 Sep 2022
+11. **Illuminating Galaxy Formation with Ancient Globular Star Clusters and Their Progenitors**  
+    Aspen Center for Physics, 13 – 18 Mar 2022
+
