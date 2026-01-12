@@ -27,24 +27,6 @@ author_profile: true
 </table>
 </div>
 
-### Astrophysics Part II Supervisor, University of Cambridge
-<div class="tg-wrap">
-<table>
-  <thead>
-    <tr>
-      <th>Course</th>
-      <th>Semester(s)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Topics in Astrophysics</td>
-      <td>Lent Term 2026</td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
 ### Teaching Assistant, University of Zurich
 <div class="tg-wrap">
 <table>
