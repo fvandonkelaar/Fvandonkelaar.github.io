@@ -11,7 +11,7 @@ author_profile: true
 ### First-author papers
 
 1. *Cosmic Wallflowers: The circumgalactic origins of isolated ultra-compact star clusters at z > 7*,  
-   **van Donkelaar, F.**, Mayer, L., Capelo, P. R., et al., 2026, *arXiv* [ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv......V/abstract)
+   **van Donkelaar, F.**, Mayer, L., Capelo, P. R., et al., 2026, *arXiv* [ADS](https://arxiv.org/abs/2601.05333)
 
 2. *Introducing the Phoebos simulation: galaxy properties at the dawn of galaxy formation*,  
    **van Donkelaar, F.**, Capelo, P. R., Mayer, L., et al., 2025, *MNRAS*, **543**, 2760 [ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv250704927V/abstract)
