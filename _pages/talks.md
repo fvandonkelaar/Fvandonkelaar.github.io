@@ -7,8 +7,8 @@ author_profile: true
 
 ### Invited Talks
 
-1. *Stellar Migration in the Early Disc: The First Discs & Probing the Evolution of the Primordial Cold Disc at z > 4*
-   “October in Paris” workshop series (online), 2 Oct 2025
+1. *Stellar Migration in the Early Disc: The First Discs & Probing the Evolution of the Primordial Cold Disc at z > 4*  
+   "October in Paris” workshop series (online), 2 Oct 2025
 2. *The Milky Way’s Nuclear Star Cluster*  
    ISSI, Bern, 30 Aug 2023
 3. *Stellar Systems at z > 4: The Hybrid Formation Scenario for the Nuclear Star Cluster*  
