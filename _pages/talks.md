@@ -10,7 +10,9 @@ author_profile: true
 -  *The First Billion Years of the Universe: Five Questions in Five Days*  
    Aspen Center for Physics, 1 - 6 March 2026
 - *BeyondHubble: Revisiting the Hubble Sequence Across Cosmic Time*  
-   Kavli Institue for Cosmology Cambridge, 20 - 14 April 2026  
+   Kavli Institue for Cosmology Cambridge, 20 - 14 April 2026
+- *Zoom-in Views of galaxy Disks Across Cosmic Time: Bridging Simulations and Observations*  
+   Nordita (Stockholm), 1 - 16 June 2026
 
 ---
 ## Invited Talks
