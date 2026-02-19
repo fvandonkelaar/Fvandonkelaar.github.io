@@ -7,9 +7,9 @@ author_profile: true
 ---
 ## Upcoming Conferences
 
-1. *The First Billion Years of the Universe: Five Questions in Five Days*  
+-  *The First Billion Years of the Universe: Five Questions in Five Days*  
    Aspen Center for Physics, 1 - 6 March 2026
-2. *BeyondHubble: Revisiting the Hubble Sequence Across Cosmic Time*  
+- *BeyondHubble: Revisiting the Hubble Sequence Across Cosmic Time*  
    Kavli Institue for Cosmology Cambridge, 20 - 14 April 2026  
 
 ---
