@@ -5,8 +5,6 @@ permalink: /talks/
 author_profile: true
 ---
 
----
-
 ### Upcoming Conferences
 
 -  *The First Billion Years of the Universe: Five Questions in Five Days*  
@@ -16,6 +14,7 @@ author_profile: true
 - *Zoom-in Views of galaxy Disks Across Cosmic Time: Bridging Simulations and Observations*  
    Nordita (Stockholm), 1 - 16 June 2026
   
+---
 ---
 
 ### Invited Talks
