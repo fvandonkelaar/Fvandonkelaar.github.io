@@ -17,9 +17,6 @@ Full CV in PDF format is available at <http://Fvandonkelaar.github.io/files/CV.p
 *Institute of Astronomy & Kavli Institute for Cosmology*  
 Oct 2025 – Present
 
-*Research Associate at Emmanuel College*  
-Feb 2026 – Present
-
 ## Education
 
 **PhD in Computational Astrophysics**  
