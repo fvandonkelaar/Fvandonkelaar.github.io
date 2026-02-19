@@ -4,7 +4,7 @@ title: "Talks & Conferences"
 permalink: /talks/
 author_profile: true
 ---
-
+---
 ### Upcoming Conferences
 
 1. *The First Billion Years of the Universe: Five Questions in Five Days*  
@@ -12,6 +12,7 @@ author_profile: true
 2. *BeyondHubble: Revisiting the Hubble Sequence Across Cosmic Time*  
    Kavli Institue for Cosmology Cambridge, 20 - 14 April 2026  
 
+---
 ### Invited Talks
 
 1. *Stellar Migration in the Early Disc: The First Discs & Probing the Evolution of the Primordial Cold Disc at z > 4*  
@@ -74,6 +75,7 @@ author_profile: true
 22. *On Disc Kinematics: The Influence of the Thin Disc on Star Clusters*  
     Aspen Center for Physics, 18 Mar 2022
 
+---
 ## Selected Conferences & Meetings
 
 1. *Focusing Strong Lenses: Star Clusters and Globular Cluster Progenitors at High Redshift*  
