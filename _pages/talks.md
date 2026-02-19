@@ -79,8 +79,6 @@ author_profile: true
 22. *On Disc Kinematics: The Influence of the Thin Disc on Star Clusters*  
     Aspen Center for Physics, 18 Mar 2022
 
----
-
 ### Selected Conferences & Meetings
 
 1. *Focusing Strong Lenses: Star Clusters and Globular Cluster Progenitors at High Redshift*  
