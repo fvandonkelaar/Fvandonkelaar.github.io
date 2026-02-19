@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 ---
-### Upcoming Conferences
+## Upcoming Conferences
 
 1. *The First Billion Years of the Universe: Five Questions in Five Days*  
    Aspen Center for Physics, 1 - 6 March 2026
@@ -13,7 +13,7 @@ author_profile: true
    Kavli Institue for Cosmology Cambridge, 20 - 14 April 2026  
 
 ---
-### Invited Talks
+## Invited Talks
 
 1. *Stellar Migration in the Early Disc: The First Discs & Probing the Evolution of the Primordial Cold Disc at z > 4*  
    "October in Paris” workshop series (online), 2 Oct 2025
@@ -28,7 +28,7 @@ author_profile: true
 6. *The Properties and Scaling Relations of GMCs in the LMC*  
    Oxford University, 22 Sep 2020
 
-### Contributed Talks
+## Contributed Talks
 
 1. *Simulating the Early Universe: Shedding Light on Clusters Seen by JWST at z > 4*  
    Sexten Center for Astrophysics Riccardo Giacconi, 1 Jul 2025
