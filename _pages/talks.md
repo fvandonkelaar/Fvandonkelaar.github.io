@@ -12,7 +12,7 @@ author_profile: true
 - *BeyondHubble: Revisiting the Hubble Sequence Across Cosmic Time*  
    Kavli Institue for Cosmology Cambridge, 20 - 24 April 2026
 - *Zoom-in Views of galaxy Disks Across Cosmic Time: Bridging Simulations and Observations*  
-   Nordita (Stockholm), 1 - 16 June 2026
+   Nordita (Stockholm), 1 - 19 June 2026
   
 ---
 ---
