@@ -8,7 +8,7 @@ redirect_from:
 ---
 {% include base_path %}
 
-While I am passionate about researching galaxy formation and evolution, it's not my only interest. Public outreach has always energized me, and in the future, I would love to combine these two interests and get people enthusiastic about astronomy and science as a whole. To this end, I have already given several talks at <a href="https://www.utwente.nl/en/alumni/events/2023/9/1097040/twente4tu-alumni-event-zurich-27th-september-2023"> alumni events </a> for my undergraduate university, sharing the wonders of astronomy. 
+While I am passionate about researching galaxy formation and evolution, it's not my only interest. Public outreach has always energized me, and in the future, I would love to combine these two interests and get people enthusiastic about astronomy and science as a whole. To this end, I have already given several talks at <a href="https://www.utwente.nl/en/alumni/events/2023/9/1097040/twente4tu-alumni-event-zurich-27th-september-2023"> alumni events </a> for my undergraduate university, sharing the wonders of astronomy. I am also co-chairing the 2026 International Women’s Day (IWD) initiative at the Institute of Astronomy (University of Cambridge), which organises a series of events to celebrate the achievements of women astronomers and to recognise the challenges they still face within the field.
 
 
 <html lang="en">
@@ -61,7 +61,7 @@ While I am passionate about researching galaxy formation and evolution, it's not
     <div class="topic">
       <img src="https://github.com/user-attachments/assets/dff52865-d5f4-4b6f-9bd8-f6a43f38c401" alt="Astronomy" />
       <h2>Astronomy Outreach</h2>
-      <p>I've shared my journey to becoming an astronomer at alumni events and am always looking for new ways to inspire curiosity in young and old alike. I'd be delighted to speak at your next event or join your podcast—<a href="mailto:fv294@cam.ac.uk" target="_blank" style="text-decoration: none; color: #97a2cf;">feel free to reach out</a>
+      <p>I've shared my journey to becoming an astronomer at alumni events and am always looking for new ways to inspire curiosity in young and old alike. I'd be delighted to speak at your next event or join your podcast, <a href="mailto:fv294@cam.ac.uk" target="_blank" style="text-decoration: none; color: #97a2cf;">feel free to reach out</a>
 !</p>
     </div>
     <div class="topic">
