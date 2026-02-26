@@ -15,5 +15,5 @@ redirect_from:
 <iframe 
   src="https://drive.google.com/file/d/1GvsK2GwBdyhdUPgM7X3E489lCUcvTOzR/preview"
   width="70%" 
-  height="600px">
+  height="400px">
 </iframe>
