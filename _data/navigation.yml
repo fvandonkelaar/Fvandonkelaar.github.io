@@ -12,7 +12,7 @@ main:
 
   - title: "Academic CV"
     url: /cv/
-
+    
   - title: "Publications"
     url: /publications/
 
@@ -22,10 +22,12 @@ main:
   - title: "Talks & Conferences"
     url: /talks/
 
+  - title: "Posters"
+    url: /poster/
+
   - title: "Outreach"
     url: /outreach/
     
-
   # - title: "Travel"
   #   url: /travel/
 
