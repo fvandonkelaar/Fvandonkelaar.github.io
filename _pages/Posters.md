@@ -4,7 +4,7 @@ title: "Posters"
 permalink: /poster/
 author_profile: true
 redirect_from:
-  - /resume
+  - /posters
 ---
 {% include base_path %}
 
