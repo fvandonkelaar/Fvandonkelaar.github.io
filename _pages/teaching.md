@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Supervision
+# Supervision
 #### Master's Project 
 <div class="tg-wrap">
 <table>
