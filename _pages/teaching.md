@@ -23,9 +23,38 @@ author_profile: true
       <td>ETH</td>
       <td>Paper in the works</td>
     </tr>
+    <tr>
+      <td>Xiaojie Liao</td>
+      <td>2026</td>
+      <td>University of Lancashire</td>
+      <td>Paper in the works</td>
+    </tr>
   </tbody>
 </table>
 </div>
+
+### Bachelor's Project Supervisor
+<div class="tg-wrap">
+<table>
+  <thead>
+    <tr>
+      <th>Student</th>
+      <th>Semester(s)</th>
+      <th>University</th>
+      <th>Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Romy Jager</td>
+      <td>2026</td>
+      <td>University of Twente</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
 
 ### Part II Supervisor, University of Cambridge
 <div class="tg-wrap">
