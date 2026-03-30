@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-# Supervision
+### Supervision
 #### Master's Project 
 <div class="tg-wrap">
 <table>
@@ -56,7 +56,9 @@ author_profile: true
 </table>
 </div>
 
-# Teaching (Assistant)
+
+
+### Teaching (Assistant)
 #### Part II Supervisor, University of Cambridge
 <div class="tg-wrap">
 <table>
