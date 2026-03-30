@@ -5,7 +5,8 @@ permalink: /teaching/
 author_profile: true
 ---
 
-### Master's Project Supervisor
+## Supervision
+#### Master's Project 
 <div class="tg-wrap">
 <table>
   <thead>
@@ -33,7 +34,7 @@ author_profile: true
 </table>
 </div>
 
-### Bachelor's Project Supervisor
+#### Bachelor's Project 
 <div class="tg-wrap">
 <table>
   <thead>
@@ -55,8 +56,8 @@ author_profile: true
 </table>
 </div>
 
-
-### Part II Supervisor, University of Cambridge
+# Teaching (Assistant)
+#### Part II Supervisor, University of Cambridge
 <div class="tg-wrap">
 <table>
   <thead>
@@ -75,7 +76,7 @@ author_profile: true
 </div>
 
 
-### Teaching Assistant, University of Zurich
+#### Teaching Assistant, University of Zurich
 <div class="tg-wrap">
 <table>
   <thead>
