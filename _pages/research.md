@@ -22,9 +22,6 @@ A population of compact star clusters forming outside galactic discs was identif
 
 Key aspects of my work on this topic include:
 
-- **Cosmic Wallflowers and Their Origin:**  
-  Compact star clusters form efficiently in the circumgalactic medium, tracing filamentary gas inflows and dense structures outside galaxies. This establishes a new formation channel for star clusters that is independent of galactic discs, and highlights the role of the circumgalactic environment in setting the initial conditions for cluster formation.
-
 - **Kinematics and Evolutionary Pathways:**  
   The formation environment leaves a clear imprint on cluster dynamics. Cosmic wallflowers span a broad range in rotational support, providing a direct link between their birth conditions and internal kinematics. Lower-density, weakly rotating systems overlap with the observed globular cluster population, suggesting they are natural proto-GC candidates. In contrast, denser and more rapidly rotating systems are more likely to undergo runaway collapse, forming intermediate-mass black hole seeds. This points to a physically motivated bifurcation in cluster evolution, set by initial density and angular momentum.
 
