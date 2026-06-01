@@ -21,6 +21,3 @@ In parallel, I study star-forming structures just outside galaxies in simulation
 I obtained my PhD in astrophysics from the [University of Zürich](https://www.zora.uzh.ch/entities/publication/fba2fa17-9a39-4b7e-8710-e17117ad9904), where I worked with [Lucio Mayer](https://www.astro.uzh.ch/en/research/research-groups/Lucio-Mayer.html), following an MSc in astrophysics at Lund University and a BSc in social technical engineering at the University of Twente.
 
 Outside of research, I like to stay active and spend as much time as possible outdoors, whether on a [rugby pitch](https://cambridgerugby.co.uk/women/), on my bike, or exploring new places. I also enjoy science communication and being involved in outreach and community events.
-
-
-<a href='https://clustrmaps.com/site/1c2sa'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=080808&w=70&t=n&d=fZhlBZht2UR-Usy_uw0YQSTRlWH-kF9RwWJ-jAIACYc&co=ffffff&ct=808080'/></a>
