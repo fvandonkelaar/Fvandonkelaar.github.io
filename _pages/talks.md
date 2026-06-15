@@ -5,27 +5,25 @@ permalink: /talks/
 author_profile: true
 ---
 
-### Upcoming Conferences
-
-- *Zoom-in Views of galaxy Disks Across Cosmic Time: Bridging Simulations and Observations*  
-   Nordita (Stockholm), 1 - 19 June 2026
-  
----
----
-
 ### Invited Talks
 
-1. *Stellar Migration in the Early Disc: The First Discs & Probing the Evolution of the Primordial Cold Disc at z > 4*  
+1. *Simulating the First Galaxies: Discs, Bursts, and Clusters*  
+   2026 Ringberg Workshop on ‘Computational Galaxy Formation, 28 July 2026
+2. *Clustered Star Formation at High Redshift: A Simulation Perspective*  
+   EAS 2026: Stellar clumps and star clusters as building-blocks of galaxy assembly (SS5), 4 Jul 2026
+3. *What is a Clump? And their correlation to high-redshift discs*  
+   Zoom-in Views of galaxy Disks Across Time: Bridging Simulations and Observations, 12 June 2026
+4. *Stellar Migration in the Early Disc: The First Discs & Probing the Evolution of the Primordial Cold Disc at z > 4*  
    "October in Paris” workshop series (online), 2 Oct 2025
-2. *The Milky Way’s Nuclear Star Cluster*  
+5. *The Milky Way’s Nuclear Star Cluster*  
    ISSI, Bern, 30 Aug 2023
-3. *Stellar Systems at z > 4: The Hybrid Formation Scenario for the Nuclear Star Cluster*  
+6. *Stellar Systems at z > 4: The Hybrid Formation Scenario for the Nuclear Star Cluster*  
    Lund University, 8 May 2023  [(recording)](https://drive.google.com/file/d/1m_QRLDLG8HBoYI3BrpEz-VHUKfddSjTw/view?usp=sharing)
-4. *Stellar Systems at z > 4: The Proto-Globular Cluster Properties and the Imposter Amongst Us*  
+7. *Stellar Systems at z > 4: The Proto-Globular Cluster Properties and the Imposter Amongst Us*  
    Lund University, 16 Nov 2022
-5. *High-z Disk Formation and Globular Cluster Analogs in the Ultra-high Resolution GigaEris Simulation*  
+8. *High-z Disk Formation and Globular Cluster Analogs in the Ultra-high Resolution GigaEris Simulation*  
    ISSI, Bern, 31 Aug 2022
-6. *The Properties and Scaling Relations of GMCs in the LMC*  
+9. *The Properties and Scaling Relations of GMCs in the LMC*  
    Oxford University, 22 Sep 2020
 
 ### Contributed Talks
@@ -79,7 +77,9 @@ author_profile: true
     
 ### Selected Conferences & Meetings
 
-1. *BeyondHubble: Revisiting the Hubble Sequence Across Cosmic Time*  
+1. *Zoom-in Views of galaxy Disks Across Cosmic Time: Bridging Simulations and Observations*  
+   Nordita (Stockholm), 1 - 19 June 2026
+2. *BeyondHubble: Revisiting the Hubble Sequence Across Cosmic Time*  
    Kavli Institue for Cosmology Cambridge, 20 - 24 April 2026
 3. *Focusing Strong Lenses: Star Clusters and Globular Cluster Progenitors at High Redshift*  
    Sexten Center for Astrophysics Riccardo Giacconi, 30 Jun – 4 Jul 2025
