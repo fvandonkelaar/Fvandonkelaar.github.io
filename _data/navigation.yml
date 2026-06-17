@@ -13,14 +13,14 @@ main:
   - title: "Academic CV"
     url: /cv/
     
-  - title: "Publications"
-    url: /publications/
+#  - title: "Publications"
+#    url: /publications/
 
 #  - title: "Teaching & Supervision"
 #    url: /teaching/
 
-  - title: "Talks & Conferences"
-    url: /talks/
+#  - title: "Talks & Conferences"
+#    url: /talks/
 
   - title: "Posters"
     url: /poster/
