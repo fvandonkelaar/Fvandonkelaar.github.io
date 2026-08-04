@@ -12,7 +12,7 @@ Updated: 15/04/2026
 
 Hej, everyone! I'm Floor van Donkelaar, a computational astrophysicist studying the formation of galaxies and stellar systems in the early Universe. I am currently a Herchel Smith Postdoctoral Research Fellow at the Institute of Astronomy and the Kavli Institute for Cosmology in Cambridge.
 
-> **Main research interests:** The formation and evolution of galactic components in disc galaxies at high redshift and the role of stellar clusters by means of (cosmological) simulations.
+> **Main research interests:** The formation and evolution of dense stellar systems, particularly stellar clusters and clumps, in high redshift galaxies using (cosmological) simulations.
 
 One of my research topics centres on compact star clusters and their role in galaxy formation at high redshift. My current focus is on clusters that form outside galactic discs in the circumgalactic medium, which I named [*cosmic wallflowers*](https://ui.adsabs.harvard.edu/abs/2026arXiv260105333V/abstract). Using high-resolution cosmological simulations, I show that these clusters can form in galaxy outskirts and span a wide range of dynamical properties. Some resemble present-day globular clusters, while denser, faster-rotating systems are more likely to collapse into intermediate-mass black holes. This suggests two main evolutionary paths set by their initial conditions. These predictions are timely in light of recent JWST observations of compact star-forming structures at high redshift.
 
