@@ -9,63 +9,246 @@ redirect_from:
 {% include base_path %}
 
 <style>
-  /* A few small adjustments, without changing the website's overall style. */
-  .outreach-simple { max-width: 780px; }
-  .outreach-simple p { line-height: 1.65; }
-  .outreach-simple .outreach-intro { margin: 0 0 1.75rem; }
-  .outreach-simple h2 { margin-top: 2.25rem; margin-bottom: .65rem; }
-  .outreach-simple .outreach-video { max-width: 500px; margin: 1.25rem 0 .45rem; }
-  .outreach-simple .outreach-video .twitter-tweet { margin: 0 auto !important; }
-  .outreach-simple .outreach-video-links { margin: .65rem 0 0; font-size: .86rem; }
-  .outreach-simple a { color: #6275a7; }
-  .outreach-simple .outreach-contact { margin-top: 1.7rem; }
+  /* All styles are scoped to the outreach page. */
+  .outreach-page {
+    --outreach-accent: #97a2cf;
+    --outreach-link: #586a9e;
+    --outreach-text: #414654;
+    --outreach-muted: #667085;
+    --outreach-tint: #f5f6fc;
+    --outreach-border: #e7e9f2;
+    color: var(--outreach-text);
+    container: outreach / inline-size;
+  }
+
+  .outreach-page * { box-sizing: border-box; }
+  .outreach-page a { color: var(--outreach-link); }
+  .outreach-page a:hover { text-decoration: underline; }
+  .outreach-page a:focus-visible { outline: 3px solid var(--outreach-accent); outline-offset: 3px; }
+  .outreach-page p { margin-top: 0; line-height: 1.55; }
+
+  /* Put the BBC video first, both visually and on smaller screens. */
+  .outreach-feature {
+    margin: .25rem 0 2.1rem;
+    padding: clamp(.85rem, 2vw, 1.4rem);
+    border: 1px solid var(--outreach-border);
+    border-top: 4px solid var(--outreach-accent);
+    border-radius: 12px;
+    background: var(--outreach-tint);
+  }
+  .outreach-feature-grid {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr);
+    gap: 1.1rem;
+    align-items: start;
+  }
+  .outreach-embed {
+    min-width: 0;
+    padding: .4rem;
+    border: 1px solid var(--outreach-border);
+    border-radius: 9px;
+    background: #fff;
+    text-align: center;
+  }
+  .outreach-embed .twitter-tweet { margin: .2rem auto !important; }
+  .outreach-embed-note {
+    margin: .45rem .2rem .15rem !important;
+    font-size: .74rem;
+    color: var(--outreach-muted);
+    line-height: 1.4 !important;
+  }
+  .outreach-feature-copy { padding-top: .1rem; }
+  .outreach-eyebrow {
+    display: block;
+    margin: 0 0 .5rem;
+    color: var(--outreach-link);
+    font-size: .7rem;
+    font-weight: 750;
+    letter-spacing: .09em;
+    text-transform: uppercase;
+  }
+  .outreach-feature h2 {
+    margin: 0 0 .75rem;
+    font-size: clamp(1.4rem, 2.6vw, 1.8rem);
+    line-height: 1.26;
+  }
+  .outreach-feature-copy p {
+    margin-bottom: .95rem;
+    font-size: .91rem;
+  }
+
+  .outreach-page .outreach-button {
+    display: inline-block;
+    padding: .68rem .9rem;
+    border: 1px solid #6b79aa;
+    border-radius: 6px;
+    background: #6b79aa;
+    color: #fff;
+    font-size: .83rem;
+    font-weight: 650;
+    line-height: 1.3;
+    text-decoration: none;
+  }
+  .outreach-page .outreach-button:hover {
+    background: #526291;
+    border-color: #526291;
+    color: #fff;
+    text-decoration: none;
+  }
+
+  /* Three cards in one row on desktop, stacking on smaller screens. */
+  .outreach-section { margin: 0 0 2.15rem; }
+  .outreach-section h2 {
+    margin: 0 0 .55rem;
+    font-size: 1.4rem;
+    line-height: 1.3;
+  }
+  .outreach-section-intro {
+    margin-bottom: 1rem !important;
+    color: var(--outreach-muted);
+    font-size: .9rem;
+  }
+  .outreach-card-grid {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr);
+    gap: .95rem;
+  }
+  .outreach-card {
+    min-width: 0;
+    overflow: hidden;
+    border: 1px solid var(--outreach-border);
+    border-radius: 10px;
+    background: #fff;
+  }
+  .outreach-card-image {
+    display: block;
+    width: 100%;
+    height: 126px;
+    object-fit: cover;
+    object-position: center;
+  }
+  .outreach-iwd-art {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(135deg, #edeefa 0%, #dce0f5 100%);
+    color: #526291;
+    font-size: 1.08rem;
+    font-weight: 750;
+    line-height: 1.25;
+    text-align: center;
+  }
+  .outreach-iwd-art small {
+    display: block;
+    margin-top: .4rem;
+    font-size: .69rem;
+    font-weight: 600;
+    letter-spacing: .06em;
+    text-transform: uppercase;
+  }
+  .outreach-card-content { padding: .95rem 1rem 1.1rem; }
+  .outreach-card h3 { margin: 0 0 .5rem; font-size: 1.03rem; line-height: 1.3; }
+  .outreach-card p { margin-bottom: .7rem; font-size: .85rem; }
+  .outreach-card p:last-child { margin-bottom: 0; }
+  .outreach-card-links { font-weight: 650; }
+
+  .outreach-contact {
+    margin: 0 0 1rem;
+    padding: 1rem 1.2rem;
+    border-left: 4px solid var(--outreach-accent);
+    border-radius: 0 9px 9px 0;
+    background: var(--outreach-tint);
+  }
+  .outreach-contact h2 { margin: 0 0 .35rem; font-size: 1.23rem; }
+  .outreach-contact p { margin-bottom: .65rem; font-size: .9rem; }
+
+  /* Respond to the article width, not the window width (AcademicPages has a sidebar). */
+  @container outreach (min-width: 580px) {
+    .outreach-feature-grid { grid-template-columns: minmax(0, 1.12fr) minmax(0, .88fr); }
+  }
+  @container outreach (min-width: 680px) {
+    .outreach-card-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  }
+  @container outreach (max-width: 430px) {
+    .outreach-feature { padding: .7rem; }
+    .outreach-embed { padding: .2rem; }
+  }
 </style>
 
-<div class="outreach-simple">
+<div class="outreach-page">
 
-  <p class="outreach-intro">
-    I love studying how galaxies formed, but I also enjoy sharing that science with people outside astronomy. Here are a few of the ways I've been involved in outreach and science communication.
-  </p>
+  <section class="outreach-feature" aria-labelledby="outreach-bbc-heading">
+    <div class="outreach-feature-grid">
+      <div class="outreach-embed" aria-label="BBC Stargazing video post">
+        <!-- X replaces this with the actual video post when embeds are permitted. -->
+        <blockquote class="twitter-tweet" data-dnt="true" data-theme="light" data-align="center">
+          <a href="https://x.com/BBCStargazing/status/2110687128791183636">Watch my BBC Stargazing clip on X</a>
+        </blockquote>
+        <p class="outreach-embed-note">
+          Video not showing? <a href="https://x.com/BBCStargazing/status/2110687128791183636" target="_blank" rel="noopener noreferrer">Watch the clip on X</a>.
+        </p>
+      </div>
 
-  <section aria-labelledby="bbc-outreach-heading">
-    <h2 id="bbc-outreach-heading">On the BBC: <em>The Sky at Night</em></h2>
-    <p>
-      In October 2026, I appeared on the BBC's <em>The Sky at Night</em> with Maggie Aderin-Pocock. We talked about clumpy galaxies, the simulations I use to study them, and how dyslexia has shaped the way I think about science. Seeing my galaxies on television was pretty surreal!
-    </p>
-
-    <div class="outreach-video" aria-label="BBC Stargazing video posted on X">
-      <blockquote class="twitter-tweet" data-dnt="true" data-theme="light" data-align="center">
-        <a href="https://x.com/BBCStargazing/status/2110687128791183636">Watch the BBC Stargazing clip on X</a>
-      </blockquote>
+      <div class="outreach-feature-copy">
+        <span class="outreach-eyebrow">BBC Four · October 2026</span>
+        <h2 id="outreach-bbc-heading">Clumpy galaxies, dyslexia &amp; <em>The Sky at Night</em></h2>
+        <p>
+          I joined Maggie Aderin-Pocock on the BBC's <em>The Sky at Night</em> to talk about the first clumpy galaxies, my simulations, and how being dyslexic shapes the way I approach science. Seeing my galaxies on TV was pretty surreal!
+        </p>
+        <a class="outreach-button" href="https://www.bbc.co.uk/programmes/m0032wv0" target="_blank" rel="noopener noreferrer">Watch the full episode &rarr;</a>
+      </div>
     </div>
-    <p class="outreach-video-links">
-      <a href="https://www.bbc.co.uk/programmes/m0032wv0" target="_blank" rel="noopener noreferrer">Watch the full episode on BBC &rarr;</a>
-    </p>
   </section>
 
-  <section aria-labelledby="science-outreach-heading">
-    <h2 id="science-outreach-heading">Sharing science</h2>
-    <p>
-      I've given <a href="https://www.utwente.nl/en/alumni/events/2023/9/1097040/twente4tu-alumni-event-zurich-27th-september-2023" target="_blank" rel="noopener noreferrer">talks at university alumni events</a> about astronomy and my route into research. My work on wandering black holes has also been discussed on <a href="https://starxiv.com/2025/05/12/episode-11-whirling-planes-wandering-black-holes-and-alien-supernovae/" target="_blank" rel="noopener noreferrer"><em>The StarXiv</em> podcast</a>.
-    </p>
-    <p>
-      In 2026, I also co-chaired the International Women's Day initiative at Cambridge's Institute of Astronomy, helping organise events celebrating women in astronomy and discussing the challenges that remain.
-    </p>
+  <section class="outreach-section" aria-labelledby="outreach-more-heading">
+    <h2 id="outreach-more-heading">More outreach &amp; community work</h2>
+    <p class="outreach-section-intro">A few other ways I've shared science and been involved in community projects.</p>
+
+    <div class="outreach-card-grid">
+      <article class="outreach-card">
+        <img class="outreach-card-image" src="https://github.com/user-attachments/assets/dff52865-d5f4-4b6f-9bd8-f6a43f38c401" alt="Astronomy outreach" loading="lazy">
+        <div class="outreach-card-content">
+          <h3>Talks &amp; podcasts</h3>
+          <p>
+            I enjoy sharing my research and the route that brought me into astronomy. I've spoken at University of Twente alumni events, and my work was discussed on <em>The StarXiv</em> podcast.
+          </p>
+          <p class="outreach-card-links">
+            <a href="https://www.utwente.nl/en/alumni/events/2023/9/1097040/twente4tu-alumni-event-zurich-27th-september-2023" target="_blank" rel="noopener noreferrer">Alumni talk &rarr;</a>
+            &nbsp;·&nbsp;
+            <a href="https://starxiv.com/2025/05/12/episode-11-whirling-planes-wandering-black-holes-and-alien-supernovae/" target="_blank" rel="noopener noreferrer">StarXiv &rarr;</a>
+          </p>
+        </div>
+      </article>
+
+      <article class="outreach-card">
+        <div class="outreach-card-image outreach-iwd-art" role="img" aria-label="International Women's Day 2026 at Cambridge">
+          <span>International Women's Day<small>Cambridge · 2026</small></span>
+        </div>
+        <div class="outreach-card-content">
+          <h3>Women in astronomy</h3>
+          <p>
+            In 2026, I co-chaired the International Women's Day initiative at Cambridge's Institute of Astronomy. We organised events celebrating women astronomers and discussing the challenges that still exist in our field.
+          </p>
+        </div>
+      </article>
+
+      <article class="outreach-card">
+        <img class="outreach-card-image" src="https://github.com/user-attachments/assets/a9b3d2cb-e352-4536-ad34-899fb0ed97ca" alt="Lund University alumni community" loading="lazy">
+        <div class="outreach-card-content">
+          <h3>Alumni community</h3>
+          <p>
+            I was a Lund University Alumni Ambassador and served as Chair and PR Manager of the <a href="https://www.uct-alumni.nl/" target="_blank" rel="noopener noreferrer">UCT Alumni Association</a> (2021–2022), where I helped connect alumni and introduced projects such as <a href="https://www.linkedin.com/pulse/alumni-abroad-z%C3%BCrich-uct-alumni/" target="_blank" rel="noopener noreferrer">alumni blogs</a>.
+          </p>
+        </div>
+      </article>
+    </div>
   </section>
 
-  <section aria-labelledby="community-outreach-heading">
-    <h2 id="community-outreach-heading">Beyond astronomy</h2>
-    <p>
-      I've also enjoyed community work outside science. I was an Alumni Ambassador at Lund University and Chair and PR Manager of the <a href="https://www.uct-alumni.nl/" target="_blank" rel="noopener noreferrer">UCT Alumni Association</a> (2021–2022), where I helped connect alumni and started projects such as <a href="https://www.linkedin.com/pulse/alumni-abroad-z%C3%BCrich-uct-alumni/" target="_blank" rel="noopener noreferrer">alumni blogs</a>.
-    </p>
-    <p>
-      And then there's rugby! I previously managed social media and graphic design for rugby teams, helping to double our following and increase engagement by 40%. I'm less involved in that side of things these days, but still proud of it.
-    </p>
+  <section class="outreach-contact" aria-labelledby="outreach-contact-heading">
+    <h2 id="outreach-contact-heading">Let's talk astronomy!</h2>
+    <p>Looking for someone to give a talk, join a podcast or chat about science? I'd love to hear from you.</p>
+    <a class="outreach-button" href="mailto:fv294@cam.ac.uk">Get in touch &rarr;</a>
   </section>
-
-  <p class="outreach-contact">
-    Interested in a talk, interview or podcast? <a href="mailto:fv294@cam.ac.uk">Feel free to get in touch</a>.
-  </p>
 
 </div>
 
