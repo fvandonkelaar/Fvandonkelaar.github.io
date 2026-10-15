@@ -3,31 +3,191 @@ layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 {% include base_path %}
 
-My research focuses on the formation and evolution of galaxies at high redshift, with a particular emphasis on how structure emerges across scales, from galactic discs down to compact stellar systems. Using state-of-the-art cosmological simulations, I connect early galaxy assembly to observations from the JWST era, linking resolved high-redshift structures to the present-day Universe.
+<style>
+  /* Research page: same palette and panels as Outreach & Media and Academic CV. */
+  .research-page {
+    --research-accent: #97a2cf;
+    --research-link: #586a9e;
+    --research-text: #414654;
+    --research-muted: #667085;
+    --research-tint: #f5f6fc;
+    --research-border: #e7e9f2;
+    color: var(--research-text);
+    container: research-page / inline-size;
+  }
 
-## Star Clusters across Environments
-A central pillar of my research focuses on the formation of dense stellar systems at high redshift, both within galaxies and in their surrounding circumgalactic medium. These systems provide a direct link between gas dynamics, star formation, and galaxy assembly, and allow us to connect small-scale physics to cosmological (stellar) structure formation. Together, this work places star cluster formation into a cosmological context, connecting their birth environments, internal dynamics, and long-term evolution to the assembly of galaxies across cosmic time.
+  .research-page * { box-sizing: border-box; }
+  .research-page a { color: var(--research-link); }
+  .research-page a:hover { text-decoration: underline; }
+  .research-page a:focus-visible {
+    outline: 3px solid var(--research-accent);
+    outline-offset: 3px;
+  }
+  .research-page p { margin-top: 0; line-height: 1.55; }
+  .research-page .research-intro {
+    margin: .15rem 0 1rem;
+    font-size: .94rem;
+  }
 
-Key aspects of my work on this topic include:
+  /* The image is the feature. Keep all four panels and scale labels visible. */
+  .research-page .research-feature {
+    margin: .25rem 0 2.05rem;
+    padding: .55rem;
+    overflow: hidden;
+    border: 1px solid var(--research-border);
+    border-top: 4px solid var(--research-accent);
+    border-radius: 12px;
+    background: var(--research-tint);
+  }
+  .research-page .research-feature img {
+    display: block;
+    width: 100%;
+    height: auto;
+    border-radius: 7px;
+    background: #10101b;
+  }
+  .research-page .research-feature figcaption {
+    padding: .8rem .55rem .35rem;
+    color: var(--research-muted);
+    font-size: .79rem;
+    line-height: 1.5;
+  }
+  .research-page .research-feature figcaption strong {
+    color: var(--research-text);
+  }
 
-- **Kinematics and Evolutionary Pathways:**  
-  The formation environment leaves a clear imprint on cluster dynamics. Cosmic wallflowers, i.e. star clusters formed in the circumgalactic medium, span a broad range in rotational support, providing a direct link between their birth conditions and internal kinematics. Lower-density, weakly rotating systems overlap with the observed local globular cluster population, suggesting they are natural proto-globular cluster candidates. In contrast, denser and more rapidly rotating systems are more likely to undergo runaway collapse, forming intermediate-mass black hole seeds.
+  /* Three research themes, laid out like the Outreach cards. */
+  .research-page .research-section { margin: 0 0 1.9rem; }
+  .research-page .research-section h2 {
+    margin: 0 0 .45rem;
+    font-size: 1.4rem;
+    line-height: 1.3;
+  }
+  .research-page .research-section-intro {
+    margin-bottom: 1rem;
+    color: var(--research-muted);
+    font-size: .9rem;
+  }
+  .research-page .research-grid {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr);
+    gap: .95rem;
+  }
+  .research-page .research-card {
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    padding: 1.05rem 1rem 1.1rem;
+    border: 1px solid var(--research-border);
+    border-top: 3px solid var(--research-accent);
+    border-radius: 10px;
+    background: #fff;
+  }
+  .research-page .research-eyebrow {
+    display: block;
+    margin: 0 0 .5rem;
+    color: var(--research-link);
+    font-size: .68rem;
+    font-weight: 750;
+    letter-spacing: .055em;
+    text-transform: uppercase;
+  }
+  .research-page .research-card h3 {
+    margin: 0 0 .6rem;
+    font-size: 1.07rem;
+    line-height: 1.33;
+  }
+  .research-page .research-card p {
+    margin-bottom: .65rem;
+    font-size: .85rem;
+  }
+  .research-page .research-card p:last-child { margin-bottom: 0; }
+  .research-page .research-card-link {
+    margin-top: auto;
+    padding-top: .35rem;
+    font-weight: 650;
+  }
 
-- **Cluster Formation across Environments:**  
-  Cluster formation is not limited to a single channel. Within galactic discs, dense clusters arise through gravitational fragmentation and gas inflows at high redshift. In parallel, star-forming structures in the circumgalactic medium are studied using simulations such as the FABLE runs and MassiveblackPS, where feedback and environment regulate their formation, migration, and survival. 
+  .research-page .research-more {
+    margin: 0 0 1rem;
+    padding: .9rem 1.1rem;
+    border-left: 4px solid var(--research-accent);
+    border-radius: 0 9px 9px 0;
+    background: var(--research-tint);
+    font-size: .89rem;
+  }
+  .research-page .research-more p { margin: 0; }
 
-- **Feedback, Migration, and Nuclear Star Cluster Formation:**  
-  Dense stellar clusters likely modify the efficiency and impact of feedback, with supernovae, radiation, and stellar winds coupling more strongly to the surrounding gas. At the same time, their subsequent evolution is governed by migration and dynamical interactions within the host galaxy. This for example can lead to a hybrid formation pathway for nuclear star clusters, in which early star clusters migrate inward while in-situ star formation is fueled by gas inflows. This process is closely linked to the emergence of nuclear structures, such as stellar rings, at high redshift, and connects cluster evolution directly to the build-up of galactic centres.
+  /* AcademicPages' sidebar leaves a narrower article than the browser window. */
+  @container research-page (min-width: 680px) {
+    .research-page .research-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  }
+  @container research-page (max-width: 430px) {
+    .research-page .research-feature { padding: .3rem; }
+    .research-page .research-feature figcaption { padding: .7rem .45rem .4rem; }
+    .research-page .research-card { padding: .95rem; }
+  }
+</style>
 
-Also, a recurring theme in my work is the role of dense stellar systems is the formation and growth of **intermediate-mass black holes**. More broadly, I try to connect cluster evolution to black hole growth and galaxy evolution, including the role of clusters in feeding central black holes and shaping nuclear regions. This provides a link between small-scale dynamical processes and the large-scale assembly of galaxies.
+<div class="research-page">
 
-## The Assembly and Survival of Galactic Discs
-A second pillar of my work is understanding how the first galactic discs form and evolve in the early Universe. Using simulations such as GigaEris and Phoebos, I investigate when and where kinematically cold, rotationally supported discs emerge, and how they are affected by feedback, mergers, and their surrounding environment.
+  <p class="research-intro">
+    How do the first galaxies build their discs and star clusters? I use cosmological simulations to study how these structures form, evolve and shape the galaxies we see today.
+  </p>
 
-In GigaEris, I explored the fate of [primordial discs](https://ui.adsabs.harvard.edu/abs/2025MNRAS.539.1259V/abstract) at z > 4, testing whether these early structures survive till present day or are transformed into other structures like the bulge. Complementary work in Phoebos shows that already at z > 8, a subset of galaxies host rotationally supported discs, primarily in the most massive haloes. These systems are systematically colder, younger, and more extended than non-disc galaxies. Together, this work constrains the conditions under which stable discs can form and persist, providing a direct link to the origin of present-day thin discs, but also discusses what it means to be a disc galaxy.
+  <figure class="research-feature">
+    <img
+      src="{{ '/images/massiveblack.png' | relative_url }}"
+      alt="MassiveBlackPS simulation: an early galaxy in its cosmic environment, a zoom into its galactic disc, and close-up views of gas and stars in a compact cluster."
+      loading="eager">
+    <figcaption>
+      <strong>From galaxies to star clusters.</strong> A multi-scale view of the <em>MassiveBlackPS</em> simulation, from the surrounding gas to the compact gas and stellar structures within an early galaxy.
+    </figcaption>
+  </figure>
 
+  <section class="research-section" aria-labelledby="research-themes-heading">
+    <h2 id="research-themes-heading">What I work on</h2>
+    <p class="research-section-intro">Discs, clusters and the gas connecting them.</p>
+
+    <div class="research-grid">
+      <article class="research-card">
+        <span class="research-eyebrow">GigaEris &amp; PHOEBOS</span>
+        <h3>The first galactic discs</h3>
+        <p>
+          Some galaxies already have rotating discs when the Universe is very young. With <em>PHOEBOS</em>, I study when these discs first appear and what sets them apart from other galaxies. With <em>GigaEris</em>, I follow what happens to early discs as their galaxies grow.
+        </p>
+        <p class="research-card-link">
+          <a href="https://ui.adsabs.harvard.edu/abs/2025MNRAS.539.1259V/abstract" target="_blank" rel="noopener noreferrer">Read about GigaEris &rarr;</a>
+        </p>
+      </article>
+
+      <article class="research-card">
+        <span class="research-eyebrow">MassiveBlackPS</span>
+        <h3>Star clusters &amp; cosmic wallflowers</h3>
+        <p>
+          Early galaxies form remarkably compact star clusters, both within their discs and in the gas surrounding them. I study how these different birth environments affect cluster rotation and evolution, including possible links to globular clusters, nuclear star clusters and intermediate-mass black holes.
+        </p>
+        <p class="research-card-link">
+          <a href="https://arxiv.org/abs/2601.05333" target="_blank" rel="noopener noreferrer">Meet the cosmic wallflowers &rarr;</a>
+        </p>
+      </article>
+
+      <article class="research-card">
+        <span class="research-eyebrow">FABLE &amp; FABLE-SE</span>
+        <h3>Feedback &amp; circumgalactic clumps</h3>
+        <p>
+          What happens to dense gas outside galaxies? With <em>FABLE</em> and <em>FABLE-SE</em>, I investigate how feedback affects clump formation, migration and survival in the circumgalactic medium. I also test how simulation resolution changes what we identify as a clump.
+        </p>
+        <p class="research-card-link">Ongoing research</p>
+      </article>
+    </div>
+  </section>
+
+  <div class="research-more">
+    <p>Interested in the details? You can find my papers and preprints on the <a href="{{ '/publications/' | relative_url }}">publications page &rarr;</a></p>
+  </div>
+
+</div>
