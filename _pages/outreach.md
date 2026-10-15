@@ -26,6 +26,10 @@ redirect_from:
   .outreach-page a:hover { text-decoration: underline; }
   .outreach-page a:focus-visible { outline: 3px solid var(--outreach-accent); outline-offset: 3px; }
   .outreach-page p { margin-top: 0; line-height: 1.55; }
+  .outreach-intro {
+    margin: .15rem 0 1rem;
+    font-size: .94rem;
+  }
 
   /* Put the BBC video first, both visually and on smaller screens. */
   .outreach-feature {
@@ -123,7 +127,7 @@ redirect_from:
   .outreach-card-image {
     display: block;
     width: 100%;
-    height: 126px;
+    height: 155px;
     object-fit: cover;
     object-position: center;
   }
@@ -176,6 +180,8 @@ redirect_from:
 </style>
 
 <div class="outreach-page">
+
+  <p class="outreach-intro">I enjoy sharing science beyond research papers, whether that's on TV, at public talks, or through community events.</p>
 
   <section class="outreach-feature" aria-labelledby="outreach-bbc-heading">
     <div class="outreach-feature-grid">
