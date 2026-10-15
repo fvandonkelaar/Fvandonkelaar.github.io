@@ -181,7 +181,7 @@ redirect_from:
 
 <div class="outreach-page">
 
-  <p class="outreach-intro">I enjoy sharing science beyond research papers, whether that's on TV, at public talks, or through community events.</p>
+  <p class="outreach-intro">I love sharing my enthusiasm for astronomy, but also my personal story and experiences with dyslexia. I hope to show that there's no single way to be a scientist (and that Comic Sans is actually a great font!).</p>
 
   <section class="outreach-feature" aria-labelledby="outreach-bbc-heading">
     <div class="outreach-feature-grid">
