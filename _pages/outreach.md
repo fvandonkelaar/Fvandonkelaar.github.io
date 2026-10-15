@@ -127,7 +127,7 @@ redirect_from:
   .outreach-card-image {
     display: block;
     width: 100%;
-    height: 155px;
+    height: 200px;
     object-fit: cover;
     object-position: center;
   }
@@ -199,7 +199,7 @@ redirect_from:
         <span class="outreach-eyebrow">BBC Four · October 2026</span>
         <h2 id="outreach-bbc-heading">Clumpy galaxies, dyslexia &amp; <em>The Sky at Night</em></h2>
         <p>
-          I joined Maggie Aderin-Pocock on the BBC's <em>The Sky at Night</em> to talk about the first clumpy galaxies, my simulations, and how being dyslexic shapes the way I approach science. 
+          I joined Maggie Aderin-Pocock on the BBC's <em>The Sky at Night</em> to talk about the first clumpy galaxies, my simulations, and how being dyslexic shapes the way I approach science. Seeing my galaxies on TV was pretty surreal!
         </p>
         <a class="outreach-button" href="https://www.bbc.co.uk/programmes/m0032wv0" target="_blank" rel="noopener noreferrer">Watch the full episode &rarr;</a>
       </div>
