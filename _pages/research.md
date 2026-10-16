@@ -105,11 +105,16 @@ author_profile: true
     font-size: .85rem;
   }
   .research-page .research-card p:last-child { margin-bottom: 0; }
-  .research-page .research-card-link {
+  .research-page .research-card-links {
     margin-top: auto;
-    padding-top: .35rem;
+    padding-top: .45rem;
+    display: flex;
+    flex-direction: column;
+    gap: .4rem;
+    font-size: .82rem;
     font-weight: 650;
   }
+  .research-page .research-card-links a { display: block; line-height: 1.35; }
 
   .research-page .research-more {
     margin: 0 0 1rem;
@@ -135,7 +140,7 @@ author_profile: true
 <div class="research-page">
 
   <p class="research-intro">
-    How do the first galaxies build their discs and star clusters? I use cosmological simulations to study how these structures form, evolve and shape the galaxies we see today.
+    Why do the first galaxies form so many compact stellar structures, and what happens to them? I use cosmological simulations to explore where star clusters and clumps form, how their environments shape their evolution, and whether they survive, migrate or become something else. I also study the formation and evolution of early galactic discs and other stellar structures, connecting the small-scale physics to how galaxies grow and what we observe with telescopes such as JWST.
   </p>
 
   <!-- The actual simulation image is embedded in this page, so no separate upload is needed. -->
@@ -160,20 +165,22 @@ author_profile: true
         <p>
           Some galaxies already have rotating discs when the Universe is very young. With <em>PHOEBOS</em>, I study when these discs first appear and what sets them apart from other galaxies. With <em>GigaEris</em>, I follow what happens to early discs as their galaxies grow.
         </p>
-        <p class="research-card-link">
-          <a href="https://ui.adsabs.harvard.edu/abs/2025MNRAS.539.1259V/abstract" target="_blank" rel="noopener noreferrer">Read about GigaEris &rarr;</a>
-        </p>
+        <div class="research-card-links">
+          <a href="https://ui.adsabs.harvard.edu/abs/2025MNRAS.539.1259V/abstract" target="_blank" rel="noopener noreferrer">Learn more about primordial discs in GigaEris &rarr;</a>
+          <a href="https://arxiv.org/abs/2507.04927" target="_blank" rel="noopener noreferrer">Introducing the PHOEBOS simulation &rarr;</a>
+        </div>
       </article>
 
       <article class="research-card">
         <span class="research-eyebrow">MassiveBlackPS</span>
         <h3>Star clusters &amp; cosmic wallflowers</h3>
         <p>
-          Early galaxies form remarkably compact star clusters, both within their discs and in the gas surrounding them. I study how these different birth environments affect cluster rotation and evolution, including possible links to globular clusters, nuclear star clusters and intermediate-mass black holes.
+          Star clusters can form in very different places. Some grow from fragmentation in dense galactic discs, while others form in the gas surrounding galaxies: the cosmic wallflowers. I study how their birth environments affect their rotation and fate, and whether they could become globular clusters, nuclear star clusters or seeds of intermediate-mass black holes.
         </p>
-        <p class="research-card-link">
+        <div class="research-card-links">
           <a href="https://arxiv.org/abs/2601.05333" target="_blank" rel="noopener noreferrer">Meet the cosmic wallflowers &rarr;</a>
-        </p>
+          <a href="https://arxiv.org/abs/2411.00670" target="_blank" rel="noopener noreferrer">Clusters forming in galactic discs &rarr;</a>
+        </div>
       </article>
 
       <article class="research-card">
@@ -182,13 +189,13 @@ author_profile: true
         <p>
           What happens to dense gas outside galaxies? With <em>FABLE</em> and <em>FABLE-SE</em>, I investigate how feedback affects clump formation, migration and survival in the circumgalactic medium. I also test how simulation resolution changes what we identify as a clump.
         </p>
-        <p class="research-card-link">Ongoing research</p>
+        <div class="research-card-links">Ongoing research</div>
       </article>
     </div>
   </section>
 
   <div class="research-more">
-    <p>Interested in the details? You can find my papers and preprints on the <a href="{{ '/publications/' | relative_url }}">publications page &rarr;</a></p>
+    <p>Interested in the details? You can find my papers and preprints on the <a href="https://scixplorer.org/search?q=author%3A%22van+Donkelaar%2C+Floor%22&amp;sort=date+desc%2C+bibcode+desc&amp;p_=0&amp;d=astrophysics" target="_blank" rel="noopener noreferrer">NASA ADS / SciX profile &rarr;</a></p>
   </div>
 
 </div>
