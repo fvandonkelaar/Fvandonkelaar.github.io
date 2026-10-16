@@ -248,7 +248,7 @@ author_profile: true
           <p>
             I served as Chair and PR Manager of the UCT Alumni Association, and as a Lund University Alumni Ambassador. I also worked on PR for Green Team Twente, where we won the 2018 Shell Eco-marathon Communications Award.
           </p>
-          <p class="outreach-card-links"><a href="https://www.linkedin.com/pulse/alumni-abroad-z%C3%BCrich-uct-alumni/" target="_blank" rel="noopener noreferrer">Alumni blog &rarr;</a> &nbsp;·&nbsp; <a href="https://www.utoday.nl/green-team-twente/65724/green-team-wins-communications-award" target="_blank" rel="noopener noreferrer">Green Team award &rarr;</a></p>
+          <p class="outreach-card-links"><a href="https://www.linkedin.com/pulse/alumni-abroad-z%C3%BCrich-uct-alumni/" target="_blank" rel="noopener noreferrer">Alumni blog &rarr;</a> &nbsp;·&nbsp; <a href="https://www.utoday.nl/green-team-twente/65724/green-team-wins-communications-award" target="_blank" rel="noopener noreferrer">Green Team &rarr;</a></p>
         </div>
       </article>
     </div>
