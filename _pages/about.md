@@ -51,6 +51,11 @@ redirect_from:
 </style>
 
 <div class="about-page">
+
+  <p style="font-size: 0.75rem; color: #8a90a3; margin-bottom: 1.5rem;">
+  Last updated: 16 October 2026
+</p>
+
   <p class="about-hello"><strong>Hej, everyone!</strong> I'm Floor van Donkelaar, a computational astrophysicist and Herchel Smith Postdoctoral Research Fellow at the Institute of Astronomy and Kavli Institute for Cosmology at the University of Cambridge.</p>
 
   <section class="about-feature">
