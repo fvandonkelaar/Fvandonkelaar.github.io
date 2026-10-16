@@ -194,6 +194,26 @@ author_profile: true
     </div>
   </section>
 
+<div class="research-more">
+  <p>
+    <strong>What are we actually resolving?</strong>
+  </p>
+  <p style="margin-top: 0.5rem;">
+    Simulations are powerful tools, but how much can we really
+    trust what they show us? A big part of my research is
+    understanding how resolution, numerical methods and the way
+    we identify structures affect our results. I think it's
+    important to compare different simulations, understand why
+    they sometimes disagree, and be clear about what we can
+    and cannot conclude from them.
+  </p>
+</div>
+<p class="research-more-links">
+  <a href="YOUR_PAPER_URL" target="_blank" rel="noopener noreferrer">
+    How resolution affects wandering black holes &rarr;
+  </a>
+</p>
+
   <div class="research-more">
     <p>Interested in the details? You can find my papers and preprints on the <a href="https://scixplorer.org/search?q=author%3A%22van+Donkelaar%2C+Floor%22&amp;sort=date+desc%2C+bibcode+desc&amp;p_=0&amp;d=astrophysics" target="_blank" rel="noopener noreferrer">NASA ADS / SciX profile &rarr;</a></p>
   </div>
