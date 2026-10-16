@@ -208,7 +208,7 @@ author_profile: true
   </section>
 
   <section class="outreach-section" aria-labelledby="outreach-more-heading">
-    <h2 id="outreach-more-heading">Beyond the BBC</h2>
+    <h2 id="outreach-more-heading">And more...</h2>
     <p class="outreach-section-intro">Sharing science and supporting the communities I care about.</p>
 
     <div class="outreach-card-grid">
