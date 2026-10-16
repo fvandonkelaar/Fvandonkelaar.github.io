@@ -166,8 +166,8 @@ author_profile: true
           Some galaxies already have rotating discs when the Universe is very young. With <em>PHOEBOS</em>, I study when these discs first appear and what sets them apart from other galaxies. With <em>GigaEris</em>, I follow what happens to early discs as their galaxies grow.
         </p>
         <div class="research-card-links">
-          <a href="https://ui.adsabs.harvard.edu/abs/2025MNRAS.539.1259V/abstract" target="_blank" rel="noopener noreferrer">Learn more about primordial discs in GigaEris &rarr;</a>
-          <a href="https://arxiv.org/abs/2507.04927" target="_blank" rel="noopener noreferrer">Introducing the PHOEBOS simulation &rarr;</a>
+          <a href="https://ui.adsabs.harvard.edu/abs/2025MNRAS.539.1259V/abstract" target="_blank" rel="noopener noreferrer">Primordial discs in GigaEris &rarr;</a>
+          <a href="https://arxiv.org/abs/2507.04927" target="_blank" rel="noopener noreferrer">Introducing PHOEBOS &rarr;</a>
         </div>
       </article>
 
