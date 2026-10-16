@@ -3,8 +3,6 @@ layout: archive
 title: "Outreach & Media"
 permalink: /outreach/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 {% include base_path %}
 
@@ -127,8 +125,9 @@ redirect_from:
   .outreach-card-image {
     display: block;
     width: 100%;
-    height: 200px;
-    object-fit: cover;
+    height: 270px;
+    object-fit: contain;
+    background: var(--outreach-tint);
     object-position: center;
   }
   .outreach-iwd-art {
@@ -181,7 +180,7 @@ redirect_from:
 
 <div class="outreach-page">
 
-  <p class="outreach-intro">I love sharing my enthusiasm for astronomy, but also my personal story and experiences with dyslexia. I hope to show that there's no single way to be a scientist (and that Comic Sans is actually a great font!).</p>
+  <p class="outreach-intro">I enjoy sharing science beyond research papers, whether that's on TV, at public talks, or through community events.</p>
 
   <section class="outreach-feature" aria-labelledby="outreach-bbc-heading">
     <div class="outreach-feature-grid">
@@ -199,7 +198,7 @@ redirect_from:
         <span class="outreach-eyebrow">BBC Four · October 2026</span>
         <h2 id="outreach-bbc-heading">Clumpy galaxies, dyslexia &amp; <em>The Sky at Night</em></h2>
         <p>
-          I joined Maggie Aderin-Pocock on the BBC's <em>The Sky at Night</em> to talk about the first clumpy galaxies, my simulations, and how being dyslexic shapes the way I approach science.
+          I joined Maggie Aderin-Pocock on the BBC's <em>The Sky at Night</em> to talk about the first clumpy galaxies, my simulations, and how being dyslexic shapes the way I approach science. Seeing my galaxies on TV was pretty surreal!
         </p>
         <a class="outreach-button" href="https://www.bbc.co.uk/programmes/m0032wv0" target="_blank" rel="noopener noreferrer">Watch the full episode &rarr;</a>
       </div>
@@ -207,14 +206,14 @@ redirect_from:
   </section>
 
   <section class="outreach-section" aria-labelledby="outreach-more-heading">
-    <h2 id="outreach-more-heading">More outreach &amp; community work</h2>
-    <p class="outreach-section-intro">A few other ways I've shared science and been involved in community projects.</p>
+    <h2 id="outreach-more-heading">Beyond the BBC</h2>
+    <p class="outreach-section-intro">From science talks to the communities and projects I care about.</p>
 
     <div class="outreach-card-grid">
       <article class="outreach-card">
         <img class="outreach-card-image" src="https://github.com/user-attachments/assets/dff52865-d5f4-4b6f-9bd8-f6a43f38c401" alt="Astronomy outreach" loading="lazy">
         <div class="outreach-card-content">
-          <h3>Talks &amp; podcasts</h3>
+          <h3>Sharing science</h3>
           <p>
             I enjoy sharing my research and the route that brought me into astronomy. I've spoken at University of Twente alumni events, and my work was discussed on <em>The StarXiv</em> podcast.
           </p>
@@ -227,24 +226,25 @@ redirect_from:
       </article>
 
       <article class="outreach-card">
-        <div class="outreach-card-image outreach-iwd-art" role="img" aria-label="International Women's Day 2026 at Cambridge">
-          <span>International Women's Day<small>Cambridge · 2026</small></span>
+        <div class="outreach-card-image outreach-iwd-art" role="img" aria-label="Science community at Cambridge">
+          <span>Science community<small>Cambridge</small></span>
         </div>
         <div class="outreach-card-content">
-          <h3>Women in astronomy</h3>
+          <h3>Supporting science</h3>
           <p>
-            In 2026, I co-chaired the International Women's Day initiative at Cambridge's Institute of Astronomy. We organised events celebrating women astronomers and discussing the challenges that still exist in our field.
+            I enjoy helping make the astronomy community more welcoming and visible. At Cambridge, I have helped showcase research by early career scientists at the Institute of Astronomy and Kavli Institute, and co-chaired the 2026 International Women's Day initiative.
           </p>
         </div>
       </article>
 
       <article class="outreach-card">
-        <img class="outreach-card-image" src="https://github.com/user-attachments/assets/a9b3d2cb-e352-4536-ad34-899fb0ed97ca" alt="Lund University alumni community" loading="lazy">
+        <img class="outreach-card-image" src="https://github.com/user-attachments/assets/07cb4713-9658-4c3b-ad21-164259d4c766" alt="Green Team Twente celebrating with the trophy for the Shell Eco-marathon Communications Award" loading="lazy">
         <div class="outreach-card-content">
-          <h3>Alumni community</h3>
+          <h3>Communication &amp; community</h3>
           <p>
-            I was a Lund University Alumni Ambassador and served as Chair and PR Manager of the <a href="https://www.uct-alumni.nl/" target="_blank" rel="noopener noreferrer">UCT Alumni Association</a> (2021–2022), where I helped connect alumni and introduced projects such as <a href="https://www.linkedin.com/pulse/alumni-abroad-z%C3%BCrich-uct-alumni/" target="_blank" rel="noopener noreferrer">alumni blogs</a>.
+            Long before astronomy, I enjoyed sharing stories and bringing people together. With Green Team Twente, our team won the 2018 Shell Eco-marathon Communications Award. I later served as Chair and PR Manager of the <a href="https://www.uct-alumni.nl/" target="_blank" rel="noopener noreferrer">UCT Alumni Association</a> (2021–2022), and as a Lund University Alumni Ambassador. I’ve also worked on PR for rugby teams.
           </p>
+          <p class="outreach-card-links"><a href="https://www.utoday.nl/green-team-twente/65724/green-team-wins-communications-award" target="_blank" rel="noopener noreferrer">Green Team award &rarr;</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/pulse/alumni-abroad-z%C3%BCrich-uct-alumni/" target="_blank" rel="noopener noreferrer">Alumni blog &rarr;</a></p>
         </div>
       </article>
     </div>
