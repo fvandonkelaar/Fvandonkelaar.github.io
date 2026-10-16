@@ -69,7 +69,7 @@ redirect_from:
     <section class="about-card">
       <h2>Beyond research</h2>
       <p>Outside work, you'll often find me on a rugby pitch, cycling or exploring somewhere new. I also enjoy sharing science and bringing people together. Recently, I even got to talk about galaxies and dyslexia on the BBC's <em>The Sky at Night</em>!</p>
-      <p class="about-links" style="margin-top: auto;"><a href="/outreach/">Outreach &amp; Media &rarr;</a></p>
+      <p class="about-links" style="margin-top: auto;"><a href="/outreach/">Outreach &amp; Media &rarr;</a>  &nbsp;·&nbsp; <a href="https://www.strava.com/athletes/62259659">Cycling &rarr;</a></p>
     </section>
   </div>
 </div>
