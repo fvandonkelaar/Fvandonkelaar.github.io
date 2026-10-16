@@ -217,7 +217,7 @@ author_profile: true
         <div class="outreach-card-content">
           <h3>Sharing science</h3>
           <p>
-           From alumni talks to public outreach, I enjoy sharing my research and my journey into astronomy. My work has also been featured on the StarXiv podcast, where recent astronomy papers are discussed and made more accessible to a wider audience.
+           From alumni talks to public outreach, I enjoy sharing my research and my journey into astronomy. My work has also been featured on the *StarXiv* podcast, where recent astronomy papers are discussed and made more accessible to a wider audience.
           </p>
           <p class="outreach-card-links">
             <a href="https://www.utwente.nl/en/alumni/events/2023/9/1097040/twente4tu-alumni-event-zurich-27th-september-2023" target="_blank" rel="noopener noreferrer">Alumni talk &rarr;</a>
@@ -234,7 +234,9 @@ author_profile: true
         <div class="outreach-card-content">
           <h3>Supporting science</h3>
           <p>
-            At Cambridge, I help showcase early career research at the IoA and Kavli Institute, and co-chaired the 2026 International Women's Day initiative.
+            At Cambridge, I developed and co-led an initiative to showcase early career research at the IoA and Kavli Institute, and co-chaired the 2026 International Women's Day initiative.
+            <p class="outreach-card-links">
+            <a href="https://www.utwente.nl/en/alumni/events/2023/9/1097040/twente4tu-alumni-event-zurich-27th-september-2023" target="_blank" rel="noopener noreferrer">Alumni talk &rarr;</a>
           </p>
         </div>
       </article>
