@@ -60,8 +60,14 @@ redirect_from:
 
   <section class="about-feature">
     <h2>What I study</h2>
-    <p>Why do young galaxies form so many compact stellar structures, and what happens to them? I use cosmological simulations to study where star clusters and clumps form, how their environments shape their evolution, and what they might become.</p>
-    <p>Some form in galactic discs; others appear in the gas surrounding galaxies, including the systems I call <a href="https://ui.adsabs.harvard.edu/abs/2026arXiv260105333V/abstract"><em>Cosmic Wallflowers</em></a>. Alongside this work, I study how the first galactic discs and other stellar structures form and evolve, and how we can connect these simulations to observations.</p>
+   <p>
+  I use cosmological simulations to study the <strong>formation and evolution
+  of dense stellar systems</strong>, particularly star clusters and clumps,
+  in the early Universe. I am especially interested in where these
+  structures form, how their environments shape their evolution,
+  and what they might become. Alongside this, I study the formation
+  of the first galactic discs.
+</p>
     <p class="about-links"><a href="/research/">More about my research &rarr;</a> &nbsp;·&nbsp; <a href="https://scixplorer.org/search?q=author%3A%22van+Donkelaar%2C+Floor%22&sort=date+desc%2C+bibcode+desc&p_=0&d=astrophysics">My publications &rarr;</a></p>
   </section>
 
