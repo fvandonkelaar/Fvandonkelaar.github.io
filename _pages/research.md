@@ -173,7 +173,7 @@ author_profile: true
 
       <article class="research-card">
         <span class="research-eyebrow">MassiveBlackPS</span>
-        <h3>Star clusters &amp; cosmic wallflowers</h3>
+        <h3>Cosmic Wallflowers</h3>
         <p>
           Star clusters can form in very different places. Some grow from fragmentation in dense galactic discs, while others form in the gas surrounding galaxies: the cosmic wallflowers. I study how their birth environments affect their rotation and fate, and whether they could become globular clusters, nuclear star clusters or seeds of intermediate-mass black holes.
         </p>
@@ -185,7 +185,7 @@ author_profile: true
 
       <article class="research-card">
         <span class="research-eyebrow">FABLE &amp; FABLE-SE</span>
-        <h3>Feedback &amp; circumgalactic clumps</h3>
+        <h3>Feedback &amp; CGM clumps</h3>
         <p>
           What happens to dense gas outside galaxies? With <em>FABLE</em> and <em>FABLE-SE</em>, I investigate how feedback affects clump formation, migration and survival in the circumgalactic medium. I also test how simulation resolution changes what we identify as a clump.
         </p>
