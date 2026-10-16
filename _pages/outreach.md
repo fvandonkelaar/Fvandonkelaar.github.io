@@ -217,7 +217,7 @@ author_profile: true
         <div class="outreach-card-content">
           <h3>Sharing science</h3>
           <p>
-           From alumni talks to public outreach, I enjoy sharing my research and my journey into astronomy. My work has also been featured on the *StarXiv* podcast, where recent astronomy papers are discussed and made more accessible to a wider audience.
+           From alumni talks to public outreach, I enjoy sharing my research and my journey into astronomy. My work has also been featured on the <em>StarXiv</em>  podcast, where recent astronomy papers are discussed and made more accessible to a wider audience.
           </p>
           <p class="outreach-card-links">
             <a href="https://www.utwente.nl/en/alumni/events/2023/9/1097040/twente4tu-alumni-event-zurich-27th-september-2023" target="_blank" rel="noopener noreferrer">Alumni talk &rarr;</a>
@@ -233,7 +233,7 @@ author_profile: true
     <span>Science community<small>Cambridge</small></span>
   </div>
 
-  <div class="outreach-card-content">
+  <div class="outreach-card-content" style="display: flex; flex-direction: column; flex: 1;">
     <h3>Supporting science</h3>
 
     <p>
@@ -242,7 +242,7 @@ author_profile: true
       the 2026 International Women's Day initiative.
     </p>
 
-    <p class="outreach-card-links">
+    <p class="outreach-card-links" style="margin-top: auto;">
       <a href="https://www.ast.cam.ac.uk/people/equality-diversity-inclusion/international-womens-day-ioa"
          target="_blank" rel="noopener noreferrer">
         International Women's Day &rarr;
