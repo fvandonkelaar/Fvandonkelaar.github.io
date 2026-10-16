@@ -94,12 +94,29 @@ redirect_from:
     font-size: .87rem;
   }
 
-  /* Education: compact stacked entries so long thesis titles stay readable. */
+  /* Education: three compact cards at wider article sizes. */
   .academic-cv .cv-education {
     display: grid;
     grid-template-columns: minmax(0, 1fr);
     gap: .9rem;
   }
+  .academic-cv .cv-education .cv-entry {
+    display: flex;
+    flex-direction: column;
+  }
+  .academic-cv .cv-education details {
+    margin-top: auto;
+    padding-top: .45rem;
+    font-size: .81rem;
+    border-top: 1px solid var(--cv-border);
+  }
+  .academic-cv .cv-education summary { color: var(--cv-link); cursor: pointer; font-weight: 650; }
+  .academic-cv .cv-education details p { margin: .5rem 0 0; }
+  .academic-cv .cv-paper-status { color: var(--cv-link); font-size: .78rem; font-style: italic; }
+  .academic-cv .cv-actions { display: flex; gap: .65rem; flex-wrap: wrap; margin: 0 0 1.4rem; }
+  .academic-cv .cv-button-secondary { background: #fff; color: var(--cv-link); border-color: var(--cv-accent); }
+  .academic-cv .cv-button-secondary:hover { color: #fff; }
+
   .academic-cv .cv-entry {
     min-width: 0;
     padding: 1rem 1.15rem;
@@ -138,6 +155,11 @@ redirect_from:
   .academic-cv .cv-research-grid .cv-date { margin-bottom: .65rem; }
 
   /* Breakpoints follow the article width (the theme also has a sidebar). */
+  @container academic-cv (min-width: 650px) {
+    .academic-cv .cv-education { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+    .academic-cv .cv-education .cv-entry { padding: .85rem; }
+    .academic-cv .cv-education .cv-entry h3 { font-size: .96rem; }
+  }
   @container academic-cv (min-width: 560px) {
     .academic-cv .cv-research-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   }
@@ -151,7 +173,10 @@ redirect_from:
   <p class="cv-intro">
     A quick overview of my academic background. For publications, talks and other details, you can find my full CV below.
   </p>
-  <p><a class="cv-button" href="https://fvandonkelaar.github.io/files/CV.pdf" target="_blank" rel="noopener noreferrer">View full CV (PDF) &rarr;</a></p>
+  <div class="cv-actions">
+    <a class="cv-button" href="https://fvandonkelaar.github.io/files/CV.pdf" target="_blank" rel="noopener noreferrer">Full CV (PDF) &rarr;</a>
+    <a class="cv-button cv-button-secondary" href="https://scixplorer.org/search?q=author%3A%22van+Donkelaar%2C+Floor%22&sort=date+desc%2C+bibcode+desc&p_=0&d=astrophysics" target="_blank" rel="noopener noreferrer">Publications (NASA ADS) &rarr;</a>
+  </div>
 
   <section class="cv-feature" aria-labelledby="cv-appointment-heading">
     <span class="cv-eyebrow">Current appointment</span>
@@ -169,32 +194,32 @@ redirect_from:
         <h3>PhD in Computational Astrophysics</h3>
         <p class="cv-institution">University of Zurich, Switzerland</p>
         <p class="cv-date">September 2021 &ndash; September 2025</p>
-        <div class="cv-meta">
+        <details><summary>Thesis &amp; details</summary><div class="cv-meta">
           <p><strong>Thesis:</strong> Disc Galaxies and Their Components at High Redshift: Similarities with the Local Universe</p>
           <p><strong>Supervisor:</strong> Prof. Dr. Lucio Mayer</p>
-        </div>
+        </div></details>
       </article>
 
       <article class="cv-entry">
         <h3>MSc in Astrophysics</h3>
         <p class="cv-institution">Lund University, Sweden</p>
         <p class="cv-date">August 2019 &ndash; May 2021</p>
-        <div class="cv-meta">
+        <details><summary>Thesis &amp; details</summary><div class="cv-meta">
           <p><strong>Thesis:</strong> The fate of stars born in gas-rich high redshift galaxies</p>
           <p><strong>Supervisor:</strong> Prof. Dr. Oscar Agertz</p>
           <p><strong>GPA:</strong> 3.83 / 4.00</p>
-        </div>
+        </div></details>
       </article>
 
       <article class="cv-entry">
         <h3>BSc in Sociotechnical Engineering, Minor in Modern Physics</h3>
         <p class="cv-institution">University of Twente (ATLAS), The Netherlands</p>
         <p class="cv-date">September 2016 &ndash; July 2019</p>
-        <div class="cv-meta">
+        <details><summary>Thesis &amp; details</summary><div class="cv-meta">
           <p><strong>Thesis:</strong> The Star Formation Rate, Metallicity and Thermal Pressure in Galaxies at z = 0.4 using MUSE</p>
           <p><strong>Supervisor:</strong> Dr. Kasper Borello Schmidt (Leibniz-Institut f&uuml;r Astrophysik Potsdam)</p>
           <p><strong>GPA:</strong> 3.85 / 4.00</p>
-        </div>
+        </div></details>
       </article>
 
     </div>
@@ -202,19 +227,26 @@ redirect_from:
 
   <section class="cv-section" aria-labelledby="cv-supervision-heading">
     <h2 class="cv-section-title" id="cv-supervision-heading">Supervision &amp; Mentoring</h2>
-    <p class="cv-institution">I enjoy working with students on their own research projects, especially in computational astrophysics and galaxy formation.</p>
+    <p class="cv-institution">I enjoy working with students on research projects in galaxy formation and computational astrophysics.</p>
     <div class="cv-research-grid">
       <article class="cv-entry">
-        <span class="cv-eyebrow">Master's projects</span>
-        <h3>Co-supervisor</h3>
-        <p class="cv-date">2025 &ndash; 2026</p>
-        <p>Projects on early galactic discs in PHOEBOS and the properties of bars in high-redshift galaxies.</p>
+        <span class="cv-eyebrow">Master's students · Co-supervisor</span>
+        <h3>Daniel Swinger</h3>
+        <p class="cv-institution">ETH Zurich · 2025&ndash;2026</p>
+        <p>Birth of galactic discs in the PHOEBOS simulation.</p>
+        <!-- When published, replace the status below with: <a href="PAPER_URL">Read paper &rarr;</a> -->
+        <p class="cv-paper-status">Paper in preparation</p>
+        <h3>Xiaojie Liao</h3>
+        <p class="cv-institution">University of Lancashire · 2026</p>
+        <p>Bar properties in a high-redshift galaxy simulation.</p>
+        <!-- When published, replace the status below with: <a href="PAPER_URL">Read paper &rarr;</a> -->
+        <p class="cv-paper-status">Paper in preparation</p>
       </article>
       <article class="cv-entry">
-        <span class="cv-eyebrow">Bachelor's project</span>
-        <h3>Primary supervisor</h3>
-        <p class="cv-date">2026</p>
-        <p>A project investigating disc stability and the Toomre parameter in the GigaEris simulation.</p>
+        <span class="cv-eyebrow">Bachelor's student · Primary supervisor</span>
+        <h3>Romy Jager</h3>
+        <p class="cv-institution">University of Twente · 2026</p>
+        <p>Disc stability and the Toomre parameter in the GigaEris simulation.</p>
       </article>
     </div>
   </section>
@@ -222,7 +254,7 @@ redirect_from:
   <section class="cv-section" aria-labelledby="cv-award-heading">
     <h2 class="cv-section-title" id="cv-award-heading">Selected Award</h2>
     <article class="cv-entry">
-      <h3>Edith Alice Müller Award</h3>
+      <h3><a href="https://ssaa.ch/en/edith_a_m_ller_award" target="_blank" rel="noopener noreferrer">Edith Alice Müller Award &rarr;</a></h3>
       <p class="cv-institution">Swiss Society for Astrophysics and Astronomy</p>
       <p class="cv-date">2026</p>
       <p>For an outstanding PhD thesis.</p>
