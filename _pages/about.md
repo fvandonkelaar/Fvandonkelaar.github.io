@@ -56,20 +56,20 @@ redirect_from:
   <section class="about-feature">
     <h2>What I study</h2>
     <p>Why do young galaxies form so many compact stellar structures, and what happens to them? I use cosmological simulations to study where star clusters and clumps form, how their environments shape their evolution, and what they might become.</p>
-    <p>Some form in galactic discs; others appear in the gas surrounding galaxies, including the systems I call <a href="https://ui.adsabs.harvard.edu/abs/2026arXiv260105333V/abstract"><em>cosmic wallflowers</em></a>. Alongside this work, I study how the first galactic discs and other stellar structures form and evolve, and how we can connect these simulations to observations.</p>
+    <p>Some form in galactic discs; others appear in the gas surrounding galaxies, including the systems I call <a href="https://ui.adsabs.harvard.edu/abs/2026arXiv260105333V/abstract"><em>Cosmic Wallflowers</em></a>. Alongside this work, I study how the first galactic discs and other stellar structures form and evolve, and how we can connect these simulations to observations.</p>
     <p class="about-links"><a href="/research/">More about my research &rarr;</a> &nbsp;·&nbsp; <a href="https://scixplorer.org/search?q=author%3A%22van+Donkelaar%2C+Floor%22&sort=date+desc%2C+bibcode+desc&p_=0&d=astrophysics">My publications &rarr;</a></p>
   </section>
 
   <div class="about-grid">
     <section class="about-card">
       <h2>My journey</h2>
-      <p>I completed my PhD at the University of Zürich with Lucio Mayer, after studying astrophysics at Lund University and sociotechnical engineering at the University of Twente. I now work in Cambridge.</p>
-      <p class="about-links"><a href="/cv/">Academic CV &rarr;</a></p>
+      <p>I completed my PhD at the University of Zürich with Lucio Mayer, after studying astrophysics at Lund University and sociotechnical engineering at the University of Twente. And now you can find me in Cambridge :).</p>
+      <p class="about-links" style="margin-top: auto;"><a href="/cv/">Academic CV &rarr;</a></p>
     </section>
     <section class="about-card">
       <h2>Beyond research</h2>
       <p>Outside work, you'll often find me on a rugby pitch, cycling or exploring somewhere new. I also enjoy sharing science and bringing people together. Recently, I even got to talk about galaxies and dyslexia on the BBC's <em>The Sky at Night</em>!</p>
-      <p class="about-links"><a href="/outreach/">Outreach &amp; Media &rarr;</a></p>
+      <p class="about-links" style="margin-top: auto;"><a href="/outreach/">Outreach &amp; Media &rarr;</a></p>
     </section>
   </div>
 </div>
