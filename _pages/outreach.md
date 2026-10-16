@@ -182,7 +182,11 @@ author_profile: true
 
 <div class="outreach-page">
 
-  <p class="outreach-intro">I enjoy sharing science beyond research papers, whether that's at public talks, or through community events.</p>
+  <p class="outreach-intro">  I love studying how galaxies form and evolve, but I also really enjoy
+  getting others excited about astronomy. Through outreach, I love sharing
+  both my science and my own story, including my experiences with dyslexia.
+  I hope to show that there's no single way to be a scientist
+  (and yes, Comic Sans is still my font of choice!).</p>
 
   <section class="outreach-feature" aria-labelledby="outreach-bbc-heading">
     <div class="outreach-feature-grid">
@@ -258,14 +262,14 @@ author_profile: true
           <p>
             I served as Chair and PR Manager of the UCT Alumni Association, and as a Lund University Alumni Ambassador. I also worked on PR for Green Team Twente, where we won the 2018 Shell Eco-marathon Communications Award.
           </p>
-          <p class="outreach-card-links"><a href="https://www.linkedin.com/pulse/alumni-abroad-z%C3%BCrich-uct-alumni/" target="_blank" rel="noopener noreferrer">Alumni blog &rarr;</a> &nbsp;·&nbsp; <a href="https://www.utoday.nl/green-team-twente/65724/green-team-wins-communications-award" target="_blank" rel="noopener noreferrer">Green Team &rarr;</a></p>
+          <p class="outreach-card-links" style="margin-top: auto;"> <a href="https://www.linkedin.com/pulse/alumni-abroad-z%C3%BCrich-uct-alumni/" target="_blank" rel="noopener noreferrer">Alumni blog &rarr;</a> &nbsp;·&nbsp; <a href="https://www.utoday.nl/green-team-twente/65724/green-team-wins-communications-award" target="_blank" rel="noopener noreferrer">Green Team &rarr;</a></p>
         </div>
       </article>
     </div>
   </section>
 
   <section class="outreach-contact" aria-labelledby="outreach-contact-heading">
-    <h2 id="outreach-contact-heading">Let's talk astronomy!</h2>
+    <h2 id="outreach-contact-heading">Let's talk Astronomy!</h2>
     <p>Looking for someone to give a talk, join a podcast or chat about science? I'd love to hear from you.</p>
     <a class="outreach-button" href="mailto:fv294@cam.ac.uk">Get in touch &rarr;</a>
   </section>
