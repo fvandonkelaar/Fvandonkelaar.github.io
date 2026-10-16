@@ -155,7 +155,7 @@ redirect_from:
 
   <section class="cv-feature" aria-labelledby="cv-appointment-heading">
     <span class="cv-eyebrow">Current appointment</span>
-    <h2 id="cv-appointment-heading">Herschel Smith Postdoctoral Research Fellow</h2>
+    <h2 id="cv-appointment-heading">Herchel Smith Postdoctoral Research Fellow</h2>
     <p><strong>University of Cambridge, United Kingdom</strong></p>
     <p>Institute of Astronomy &amp; Kavli Institute for Cosmology</p>
     <p class="cv-date">October 2025 &ndash; Present</p>
@@ -198,6 +198,35 @@ redirect_from:
       </article>
 
     </div>
+  </section>
+
+  <section class="cv-section" aria-labelledby="cv-supervision-heading">
+    <h2 class="cv-section-title" id="cv-supervision-heading">Supervision &amp; Mentoring</h2>
+    <p class="cv-institution">I enjoy working with students on their own research projects, especially in computational astrophysics and galaxy formation.</p>
+    <div class="cv-research-grid">
+      <article class="cv-entry">
+        <span class="cv-eyebrow">Master's projects</span>
+        <h3>Co-supervisor</h3>
+        <p class="cv-date">2025 &ndash; 2026</p>
+        <p>Projects on early galactic discs in PHOEBOS and the properties of bars in high-redshift galaxies.</p>
+      </article>
+      <article class="cv-entry">
+        <span class="cv-eyebrow">Bachelor's project</span>
+        <h3>Primary supervisor</h3>
+        <p class="cv-date">2026</p>
+        <p>A project investigating disc stability and the Toomre parameter in the GigaEris simulation.</p>
+      </article>
+    </div>
+  </section>
+
+  <section class="cv-section" aria-labelledby="cv-award-heading">
+    <h2 class="cv-section-title" id="cv-award-heading">Selected Award</h2>
+    <article class="cv-entry">
+      <h3>Edith Alice Müller Award</h3>
+      <p class="cv-institution">Swiss Society for Astrophysics and Astronomy</p>
+      <p class="cv-date">2026</p>
+      <p>For an outstanding PhD thesis.</p>
+    </article>
   </section>
 
   <section class="cv-section" aria-labelledby="cv-research-heading">
