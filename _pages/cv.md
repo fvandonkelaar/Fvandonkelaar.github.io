@@ -175,7 +175,7 @@ redirect_from:
   </p>
   <div class="cv-actions">
     <a class="cv-button" href="https://fvandonkelaar.github.io/files/CV.pdf" target="_blank" rel="noopener noreferrer">Full CV (PDF) &rarr;</a>
-    <a class="cv-button cv-button-secondary" href="https://scixplorer.org/search?q=author%3A%22van+Donkelaar%2C+Floor%22&sort=date+desc%2C+bibcode+desc&p_=0&d=astrophysics" target="_blank" rel="noopener noreferrer">Publications (NASA ADS) &rarr;</a>
+    <a class="cv-button cv-button-secondary" href="https://scixplorer.org/search?q=author%3A%22van+Donkelaar%2C+Floor%22&sort=date+desc%2C+bibcode+desc&p_=0&d=astrophysics" target="_blank" rel="noopener noreferrer">Publications (SciX) &rarr;</a>
   </div>
 
   <section class="cv-feature" aria-labelledby="cv-appointment-heading">
