@@ -238,7 +238,8 @@ author_profile: true
       </article>
 
       <article class="outreach-card">
-        <img class="outreach-card-image" src="https://github.com/user-attachments/assets/07cb4713-9658-4c3b-ad21-164259d4c766" alt="Green Team Twente celebrating with the trophy for the Shell Eco-marathon Communications Award" loading="lazy">
+        <img class="outreach-card-image" src="https://github.com/user-attachments/assets/3037fde6-918a-4295-87a2-d61876f9a5da" />
+" alt="Green Team Twente celebrating with the trophy for the Shell Eco-marathon Communications Award" loading="lazy">
         <div class="outreach-card-content">
           <h3>Communication &amp; community</h3>
           <p>
