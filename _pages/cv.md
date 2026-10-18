@@ -205,7 +205,7 @@ redirect_from:
         <p class="cv-institution">Lund University, Sweden</p>
         <p class="cv-date">August 2019 &ndash; May 2021</p>
         <details><summary>Thesis &amp; details</summary><div class="cv-meta">
-          <p><strong>Thesis:</strong> [The fate of stars born in gas-rich high redshift galaxies](https://lup.lub.lu.se/student-papers/search/publication/9047007)</p>
+          <p><strong>Thesis:</strong> The fate of stars born in gas-rich high redshift galaxies</p>
           <p><strong>Supervisor:</strong> Prof. Dr. Oscar Agertz</p>
           <p><strong>GPA:</strong> 3.83 / 4.00</p>
           <p><strong>Distinguishing Coursework: </strong>  Extragalactic Astronomy, Computational Astrophysics, Statistical Tools in Astrophysics Modern &amp; Experimental Particle Physics </p>
@@ -220,7 +220,6 @@ redirect_from:
           <p><strong>Thesis:</strong> The Star Formation Rate, Metallicity and Thermal Pressure in Galaxies at z = 0.4 using MUSE</p>
           <p><strong>Supervisor:</strong> Dr. Kasper Borello Schmidt (Leibniz-Institut f&uuml;r Astrophysik Potsdam)</p>
           <p><strong>GPA:</strong> 3.85 / 4.00</p>
-          <p><strong>Distinguishing Coursework: </strong>  Quantum Mechanics, Philosophy of Science &amp; Universal Dark Matter, General Theory of Relativity  &amp; Introduction into Instrumentation Computers </p>
         </div></details>
       </article>
 
