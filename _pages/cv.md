@@ -205,7 +205,7 @@ redirect_from:
         <p class="cv-institution">Lund University, Sweden</p>
         <p class="cv-date">August 2019 &ndash; May 2021</p>
         <details><summary>Thesis &amp; details</summary><div class="cv-meta">
-          <p><strong>Thesis:</strong> The fate of stars born in gas-rich high redshift galaxies</p>
+          <p><strong>Thesis:</strong> <a href="https://lup.lub.lu.se/student-papers/search/publication/9047007" target="_blank" rel="noopener noreferrer">The fate of stars born in gas-rich high redshift galaxies &rarr;</a> </p>
           <p><strong>Supervisor:</strong> Prof. Dr. Oscar Agertz</p>
           <p><strong>GPA:</strong> 3.83 / 4.00</p>
           <p><strong>Distinguishing Coursework: </strong>  Extragalactic Astronomy, Computational Astrophysics, Statistical Tools in Astrophysics Modern &amp; Experimental Particle Physics </p>
