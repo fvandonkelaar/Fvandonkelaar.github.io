@@ -248,7 +248,7 @@ redirect_from:
         <span class="cv-eyebrow">Bachelor's student · Primary supervisor</span>
         <h3>Romy Jager</h3>
         <p class="cv-institution">University of Twente · 2026</p>
-        <p>Disc stability and the Toomre parameter in the GigaEris simulation.</p>
+        <p>Disc stability and the Toomre parameter in GigaEris.</p>
       </article>
     </div>
   </section>
