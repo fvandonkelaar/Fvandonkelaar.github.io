@@ -70,26 +70,23 @@ redirect_from:
     text-decoration: underline;
   }
 
+ .talks-poster {
+  display: block;
+  width: 100%;
+  max-width: 380px;
+  height: 500px;
+  margin: 1rem 0 0;
+  border: 1px solid #e0e4ef;
+  border-radius: 8px;
+  background: white;
+}
+
+@media (max-width: 700px) {
   .talks-poster {
-    display: block;
-    width: 100%;
-    max-width: 520px;
-    height: 680px;
-    margin: 1rem auto 0;
-    border: 1px solid #e0e4ef;
-    border-radius: 8px;
-    background: white;
+    max-width: 100%;
+    height: 450px;
   }
-
-  @media (max-width: 700px) {
-    .talks-grid {
-      grid-template-columns: 1fr;
-    }
-
-    .talks-poster {
-      height: 480px;
-    }
-  }
+}
 </style>
 
 <p class="talks-intro">
@@ -97,7 +94,7 @@ redirect_from:
   I have shared my research.
 </p>
 
-<h2>Selected Talks &amp; Seminars</h2>
+<h2>Selected Seminars &amp; Talks </h2>
 
 <div class="talks-grid">
 
