@@ -210,7 +210,7 @@ author_profile: true
   </p>
 
   <div class="research-card-links" style="margin-top: 1rem;">
-    <a href="YOUR_PAPER_URL" target="_blank" rel="noopener noreferrer">
+    <a href="https://scixplorer.org/abs/2025MNRAS.538.2255V/abstract" target="_blank" rel="noopener noreferrer">
       How resolution affects wandering black holes &rarr;
     </a>
   </div>
