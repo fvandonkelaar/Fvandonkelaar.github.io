@@ -25,8 +25,8 @@ main:
   - title: "Outreach"
     url: /outreach/
     
-  - title: "Talks & Posters"
-    url: /poster/
+ # - title: "Talks & Posters"
+ #   url: /poster/
     
   # - title: "Travel"
   #   url: /travel/
