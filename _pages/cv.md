@@ -208,6 +208,7 @@ redirect_from:
           <p><strong>Thesis:</strong> The fate of stars born in gas-rich high redshift galaxies</p>
           <p><strong>Supervisor:</strong> Prof. Dr. Oscar Agertz</p>
           <p><strong>GPA:</strong> 3.83 / 4.00</p>
+          <p><strong>Distinguishing Coursework: Extragalactic Astronomy, Computational Astrophysics, Statistical Tools in Astrophysics Modern &amp; Experimental Particle Physics </strong> 3.83 / 4.00</p>
         </div></details>
       </article>
 
