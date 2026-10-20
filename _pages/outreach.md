@@ -207,7 +207,7 @@ author_profile: true
           I joined Maggie Aderin-Pocock on the BBC's <em>The Sky at Night</em> to talk about the first clumpy galaxies, my simulations, and how being dyslexic shapes the way I approach science. 
         </p>
         <a class="outreach-button" href="https://www.bbc.co.uk/programmes/m0032wv0" target="_blank" rel="noopener noreferrer">Watch the full episode &rarr;</a>
-        <a class="outreach-button" href="https://drive.google.com/file/d/1rSzSKQ05rFcqFnwNwZL6L92FAiYaAyau/view?usp=sharing" target="_blank" rel="noopener noreferrer">only my science &rarr;</a>
+        <a class="outreach-button" href="https://drive.google.com/file/d/1rSzSKQ05rFcqFnwNwZL6L92FAiYaAyau/view?usp=sharing" target="_blank" rel="noopener noreferrer">Only my science &rarr;</a>
       </div>
     </div>
   </section>
