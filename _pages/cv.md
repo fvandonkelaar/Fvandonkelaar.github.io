@@ -213,7 +213,7 @@ redirect_from:
       </article>
 
       <article class="cv-entry">
-        <h3>BSc in Sociotechnical Engineering, Minor in Modern Physics</h3>
+        <h3>BSc in Sociotechnical Engineering</h3>
         <p class="cv-institution">University of Twente (ATLAS), The Netherlands</p>
         <p class="cv-date">September 2016 &ndash; July 2019</p>
         <details><summary>Thesis &amp; details</summary><div class="cv-meta">
