@@ -82,7 +82,7 @@ END OF NOTE.
   Last updated: 3 November 2026
 </p>
 
-  <p class="about-hello"><strong>Hej, everyone!</strong> I'm Floor van Donkelaar, a computational astrophysicist and Herchel Smith Postdoctoral Research Fellow at the Institute of Astronomy and Kavli Institute for Cosmology at the University of Cambridge.</p>
+  <p class="about-hello"><strong>Hej, everyone!</strong> I'm Floor van Donkelaar, a computational astrophysicist and independent Herchel Smith Postdoctoral Research Fellow at the Institute of Astronomy and Kavli Institute for Cosmology at the University of Cambridge. In 2026, I received the [Edith Alice Müller Award](https://www.astro.uzh.ch/en/Information---Events/news/aktuell/Award-Floor-Van-Donkelaar.html) for my PhD research at the University of Zürich.</p>
 
   <section class="about-feature">
     <h2>What I study</h2>
@@ -94,23 +94,6 @@ END OF NOTE.
       between compact stellar systems, galaxy assembly, and black hole seeds.
     </p>
     <p class="about-links"><a href="/research/">More about my research &rarr;</a> &nbsp;·&nbsp; <a href="https://scixplorer.org/search?q=author%3A%22van+Donkelaar%2C+Floor%22&sort=date+desc%2C+bibcode+desc&p_=0&d=astrophysics">My publications &rarr;</a></p>
-  </section>
-
-  <section class="about-card" style="margin-bottom: 1.1rem;">
-    <h2>Research highlights</h2>
-    <p>
-      I hold an independently funded <strong>Herchel Smith Postdoctoral Research
-      Fellowship</strong> at Cambridge and received the <strong>2026 Edith Alice
-      Müller Award</strong> (<a href="https://www.astro.uzh.ch/en/Information---Events/news/aktuell/Award-Floor-Van-Donkelaar.html">award announcement</a>). My research brings together high-resolution simulations,
-      comparisons across numerical codes, and international collaborations to
-      investigate how the first galaxies and compact stellar systems develop.
-    </p>
-    <p>
-      I am building an independent research programme that connects the birth
-      environments of stellar clumps to their later evolution, the origins of
-      globular clusters, and conditions that may favour early black hole seeding.
-    </p>
-    <p class="about-links"><a href="/cv/">Academic CV &rarr;</a> &nbsp;·&nbsp; <a href="/research/">Research projects &rarr;</a></p>
   </section>
 
   <div class="about-grid">
