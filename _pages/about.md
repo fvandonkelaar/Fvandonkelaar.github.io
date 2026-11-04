@@ -88,10 +88,7 @@ END OF NOTE.
   <p class="about-hello"><strong>Hej, everyone!</strong>  I'm Floor van Donkelaar,
   a computational astrophysicist and Herchel Smith Postdoctoral
   Research Fellow at the Institute of Astronomy and Kavli
-  Institute for Cosmology at the University of Cambridge.
-  In 2026, I received the
-  <a href="https://www.astro.uzh.ch/en/Information---Events/news/aktuell/Award-Floor-Van-Donkelaar.html">Edith Alice Müller Award</a>
-  for my PhD research at the University of Zürich.</p>
+  Institute for Cosmology at the University of Cambridge.</p>
 
   <section class="about-feature">
     <h2>What I study</h2>
