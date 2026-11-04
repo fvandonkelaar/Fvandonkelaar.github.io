@@ -189,7 +189,7 @@ author_profile: true
         <p>
           What happens to dense gas outside galaxies? With <em>FABLE</em> and <em>FABLE-SE</em>, I investigate how feedback affects clump formation, migration and survival in the circumgalactic medium. I also test how simulation resolution changes what we identify as a clump.
         </p>
-        <div class="research-card-links">Ongoing research</div>
+        <div class="research-card-links"> <a href="https://arxiv.org/abs/2610.39692" target="_blank" rel="noopener noreferrer">Clumps in the FABLE simulations &rarr;</a> </div>
       </article>
     </div>
   </section>
